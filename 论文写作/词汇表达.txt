@@ -1,0 +1,12 @@
+off-the-shelf：现成的
+state-of-the- art：最先进的；已经发展的；达到最高水准的
+attains：达到，获得
+pipeline：流程，操作流水线
+Root Mean Squared Error(RMSE)：均方根误差
+Absolute Translation Error(ATE)：
+viceversa：反之亦然
+quantitative comparison：定量比较
+mean Intersection over Union(mIoU)：
+negligible 
+easy- to-use infrastructure
+bimodal distribution：双峰的
