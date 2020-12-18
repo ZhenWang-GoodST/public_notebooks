@@ -1,0 +1,3 @@
+multi-robot path planning (MPP)
+ minimum constraint removal (MCR)
+ reward collection problems(RCPs)

@@ -1,0 +1,41 @@
+off-the-shelf：现成的
+state-of-the- art：最先进的；已经发展的；达到最高水准的
+attains：达到，获得
+pipeline：流程，操作流水线
+Root Mean Squared Error(RMSE)：均方根误差
+Absolute Translation Error(ATE)：
+viceversa：反之亦然
+quantitative comparison：定量比较
+mean Intersection over Union(mIoU)：
+negligible 
+easy- to-use infrastructure
+bimodal distribution：双峰的
+goes beyond：超过
+Kimera is designed with modularity in mind and has four key components：
+Kimera在设计时考虑到了模块化，有四个关键组件
+ In line with our hypotheses:和我们的假设一致
+the applications of IP are generally done in an ad-hoc, problem specific manner：IP的应用
+通常是在一个特别的，问题特定的方式完成的
+methodology:
+In conjunction with：
+The study of robot task and motion planning problems
+aims at finding a path (resp., paths) for the robot (resp., robots) to optimize certain cumulative 
+cost or reward. While some settings admit efficient search-based algorithmic so- lutions, e.g., via 
+dynamic programming, such problems are frequently computationally intractable：
+approximately op- timal solutions：近似最优解
+the later often does not scale well as the problem instance becomes larger：
+since their inception：从一开始
+To demonstrate the generality and ease of application of our methodology
+two tried-and-true approaches：两个可靠的方法
+We now outline three diverse classes of path-based optimization problems
+non-decreasing function
+As a note on scope:作为对范围的说明
+one outgoing edge is used if and only if an incoming edge is used:当且仅当
+Intuitively:直观的
+from bottom up：自下而上
+In a nutshell：概括
+variant：变体
+the least squares fitting：最小二乘拟合
+nor- mally distributed：正态分布
+To our knowledge：据我们所知
+we are confronted with the constrained least squares optimization problem：面对问题
