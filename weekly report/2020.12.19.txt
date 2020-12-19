@@ -1,5 +1,9 @@
 阅读论文：
 《You Only Look Once Unified, Real-Time Object Detection》
 slam综述：
-点云处理，平面提取：
+点云处理：平面提取：
 学习卷积神经网络：https://www.jianshu.com/p/1ea2949c0056
+学习白板推导：前馈神经网络，理解了异或问题的神经网络模型
+实际是一个复合函数，系数就是权重，偏置是阈值
+结合网页理解不同的神经元提取不同特征，进行运算
+primer C++学习：智能指针，编译原理
