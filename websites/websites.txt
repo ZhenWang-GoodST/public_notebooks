@@ -3,3 +3,5 @@ https://www.iros2018.org/awards
 大牛：
 Wolfram Burgard（2018年获奖IROS）：http://www2.informatik.uni-freiburg.de/~burgard/
 卷积神经网络：https://www.jianshu.com/p/1ea2949c0056
+faster RCNN:https://www.bilibili.com/video/BV1af4y1m7iL/?p=2
+SLAM综述地址：https://zhuanlan.zhihu.com/p/111725538

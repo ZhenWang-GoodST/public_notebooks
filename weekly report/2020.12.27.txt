@@ -1,0 +1,6 @@
+阅读论文：
+《Simultaneous Localization and Mapping: Part I》：比较早，类似教程，学习了slam的定义，早期发展，介绍了
+EKF卡尔曼滤波（大致知道怎么做的）和粒子滤波方法（没看懂）
+《Deep Learning for 3D Point Clouds: A Survey》：点云处理的综述，比较长，挑着看了一下，介绍了
+形状分类，目标检测，跟踪，分割（语义，实例，部件）的研究
+deep learning

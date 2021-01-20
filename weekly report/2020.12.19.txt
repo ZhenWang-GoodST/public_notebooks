@@ -1,7 +1,10 @@
 阅读论文：
-《You Only Look Once Unified, Real-Time Object Detection》
+《You Only Look Once Unified, Real-Time Object Detection》:YOLO
+《Rich feature hierarchies for accurate object detection and semantic 
+segmentation》R-CNN，目标检测
+《A Maximum Likelihood Approach to Extract Finite Planes from 3-D Laser Scans》：看了一半，18年
+IROS获奖教授的学习的最新论文，每个点对应一个平面，然后多层次聚类
 slam综述：
-点云处理：平面提取：
 学习卷积神经网络：https://www.jianshu.com/p/1ea2949c0056
 学习白板推导：前馈神经网络，理解了异或问题的神经网络模型
 实际是一个复合函数，系数就是权重，偏置是阈值
