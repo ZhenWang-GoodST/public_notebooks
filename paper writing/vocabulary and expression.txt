@@ -50,3 +50,9 @@ The genesis of：起源
 profound:：意义深远的
 began working in earnest on
 deduce：推断
+off-road mobile robots：越野移动机器人
+circumvent：绕行
+**k = argmin |ρk| ∀k∈[1,m]**,
+The global control architecture is depicted on Fig. 3.
+preliminary experimental results
+We can also remark that

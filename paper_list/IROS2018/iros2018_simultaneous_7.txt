@@ -1,0 +1,8 @@
+total paper: 7
+  Key-frame Selection for Multi-robot Simultaneous Localization and Tracking in Robot Soccer Field
+  Semantic Mapping with Simultaneous Object Detection and Localization
+  Simultaneous Task Allocation and Planning Under Uncertainty
+  Multimotion Visual Odometry  MVO   Simultaneous Estimation of Camera and Third-Party Motions
+  SCALAR - Simultaneous Calibration of 2D Laser and Robot's Kinematic Parameters Using Three Planar Constraints
+  Simultaneous End-User Programming of Goals and Actions for Robotic Shelf Organization
+  A Bayesian Framework for Simultaneous Robot Localization and Target Detection and Engagement

@@ -1,0 +1,41 @@
+total paper: 40
+  Local Behavior-Based Navigation in Rough Off-Road Scenarios Based on Vehicle Kinematics
+  Cooperative Object Transportation by Multiple Ground and Aerial Vehicles  Modeling and Planning
+  Design and Analysis of a Fixed-Wing Unmanned Aerial-Aquatic Vehicle
+  Vehicle Detection  Tracking and Behavior Analysis in Urban Driving Environments Using Road Context
+  Navigating Occluded Intersections with Autonomous Vehicles Using Deep Reinforcement Learning
+  Autonomous Vehicle Navigation in Rural Environments Without Detailed Prior Maps
+  Realtime Vehicle and Pedestrian Tracking for Didi Udacity Self-Driving Car Challenge
+  Multi-robot Dubins Coverage with Autonomous Surface Vehicles
+  Best Response Model Predictive Control for Agile Interactions Between Autonomous Ground Vehicles
+  A General Pipeline for 3D Detection of Vehicles
+  A Modular Dielectric Elastomer Actuator to Drive Miniature Autonomous Underwater Vehicles
+  Liftoff of a 190 mg Laser-Powered Aerial Vehicle  The Lightest Wireless Robot to Fly
+  Vision Based Collaborative Path Planning for Micro Aerial Vehicles
+  Clothoid-Based Global Path Planning for Autonomous Vehicles in Urban Scenarios
+  Deep Lidar CNN to Understand the Dynamics of Moving Vehicles
+  Robust and Precise Vehicle Localization Based on Multi-Sensor Fusion in Diverse City Scenes
+  Safe Distributed Lane Change Maneuvers for Multiple Autonomous Vehicles Using Buffered Input Cells
+  Predicting Ego-Vehicle Paths from Environmental Observations with a Deep Neural Network
+  End to End Learning of Spiking Neural Network Based on R-STDP for a Lane Keeping Vehicle
+  Robust Model-Aided Inertial Localization for Autonomous Underwater Vehicles
+  Preliminary Evaluation of Cooperative Navigation of Underwater Vehicles without a DVL Utilizing a Dynamic Process Model
+  Online System Identification and Calibration of Dynamic Models for Autonomous Ground Vehicles
+  Asymmetric Collaborative Bar Stabilization Tethered to Two Heterogeneous Aerial Vehicles
+  First Autonomous Multi-Room Exploration with an Insect-Inspired Flapping Wing Vehicle
+  Accelerated Testing and Evaluation of Autonomous Vehicles via Imitation Learning
+  Algorithms for Routing of Unmanned Aerial Vehicles with Mobile Recharging Stations
+  Localization Under Topological Uncertainty for Lane Identification of Autonomous Vehicles
+  Stabilizing Traffic with Autonomous Vehicles
+  Design  Modeling  and Analysis of Inductive Resonant Coupling Wireless Power Transfer for Micro Aerial Vehicles  MAVs 
+  Intelligent Shipwreck Search Using Autonomous Underwater Vehicles
+  A Robust Model Predictive Control Approach for Autonomous Underwater Vehicles Operating in a Constrained Workspace
+  Design  Modeling  and Nonlinear Model Predictive Tracking Control of a Novel Autonomous Surface Vehicle
+  Optimized Environment Exploration for Autonomous Underwater Vehicles
+  LineDrone Technology  Landing an Unmanned Aerial Vehicle on a Power Line
+  Emulating a Fully Actuated Aerial Vehicle Using Two Actuators
+  Multi-Vehicle Motion Planning for Social Optimal Mobility-on-Demand
+  A Preliminary Study of Ice-Relative Underwater Vehicle Navigation Beneath Moving Sea Ice
+  Micro Underwater Vehicle Hydrobatics  A Submerged Furuta Pendulum
+  Satellite-Based Tele-Operation of an Underwater Vehicle-Manipulator System  Preliminary Experimental Results
+  Optical Fiber-Based Sensor for Assessing Electric Current in Unmanned Aerial Vehicles with ROS Interface

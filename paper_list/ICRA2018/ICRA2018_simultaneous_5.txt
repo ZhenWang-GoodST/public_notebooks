@@ -1,0 +1,6 @@
+total paper: 5
+  Simultaneous Optimization of ZMP and Footsteps Based on the Analytical Solution of Divergent Component of Motion
+  Simultaneous Planning and Estimation Based on Physics Reasoning in Robot Manipulation
+  Distributed Simultaneous Action and Target Assignment for Multi-Robot Multi-Target Tracking
+  Simultaneous Optimization of Assignments and Goal Formations for Multiple Robots
+  Dancing PRM   Simultaneous Planning of Sampling and Optimization with Configuration Free Space Approximation

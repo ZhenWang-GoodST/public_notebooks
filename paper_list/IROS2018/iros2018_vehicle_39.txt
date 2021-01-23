@@ -1,0 +1,40 @@
+total paper: 39
+  Self-Supervised Learning of the Drivable Area for Autonomous Vehicles
+  Closed-Loop Single-Beacon Passive Acoustic Navigation for Low-Cost Autonomous Underwater Vehicles
+  A Multi-Position Joint Particle Filtering Method for Vehicle Localization in Urban Area
+  Development of Camber-Flat Wing Structure Convert Mechanism for Asymmetric Flapping Micro Air Vehicle
+  Design  Modeling and Control of a Spherical Autonomous Underwater Vehicle for Mine Exploration
+  Received Signal Strength of Electromagnetic Waves Aided Integrated Inertial Navigation System for Underwater Vehicle
+  Heterogeneous Vehicles Routing for Water Canal Damage Assessment
+  Passive acoustic tracking for behavior mode classification between surface and underwater vehicles
+  Stochastic Optimization for Autonomous Vehicles with Limited Control Authority
+  Vision-based Target Tracking for a Skid-steer Vehicle using Guided Policy Search with Field-of-view Constraint
+  Relative and inertial attitude determination in three-vehicle long formations
+  VLASE  Vehicle Localization by Aggregating Semantic Edges
+  Real Time Incremental Foveal Texture Mapping for Autonomous Vehicles
+  Personal Mobility Vehicle Autonomous Navigation Through Pedestrian Flow  A Data Driven Approach for Parameter Extraction
+  Identifying Driver Behaviors Using Trajectory Features for Vehicle Navigation
+  Preliminary Evaluation of Null-Space Dynamic Process Model Identification with Application to Cooperative Navigation of Underwater Vehicles
+  Efficient Computation of Invariably Safe States for Motion Planning of Self-Driving Vehicles
+  Strategic-Tactical Planning for Autonomous Underwater Vehicles over Long Horizons
+  End to End Vehicle Lateral Control Using a Single Fisheye Camera
+  Semi-Supervised SLAM  Leveraging Low-Cost Sensors on Underground Autonomous Vehicles for Position Tracking
+  A Universal Controller for Unmanned Aerial Vehicles
+  Probabilistic Collision Threat Assessment for Autonomous Driving at Road Intersections Inclusive of Vehicles in Violation of Traffic Rules
+  Visual Vehicle Tracking Through Noise and Occlusions Using Crowd-Sourced Maps
+  Vehicle Rebalancing for Mobility-on-Demand Systems with Ride-Sharing
+  Milligram-Scale Micro Aerial Vehicle Design for Low-Voltage Operation
+  Distributed Reconfigurable Formation Generator for Mini Aerial Vehicles
+  Autonomous Underwater Vehicle Navigation in Structured Environment
+  Assisted Control for Semi-Autonomous Power Infrastructure Inspection Using Aerial Vehicles
+  Safe Reinforcement Learning on Autonomous Vehicles
+  Learning Coordinated Vehicle Maneuver Motion Primitives from Human Demonstration
+  Model Predictive Trajectory Tracking and Collision Avoidance for Reliable Outdoor Deployment of Unmanned Aerial Vehicles
+  Distributed Pressure Sensing for Enabling Self-Aware Autonomous Aerial Vehicles
+  Learning-based Path Tracking Control of a Flapping-wing Micro Air Vehicle
+  Fast Trajectory Planning for Automated Vehicles Using Gradient-Based Nonlinear Model Predictive Control
+  A Comparative Study on Sigma-Point Kalman Filters for Trajectory Estimation of Hybrid Aerial-Aquatic Vehicles
+  Dolphin  A Task Orchestration Language for Autonomous Vehicle Networks
+  The Earth Ain't Flat  Monocular Reconstruction of Vehicles on Steep and Graded Roads from a Moving Camera
+  Motion Planning for a Small Aerobatic Fixed-Wing Unmanned Aerial Vehicle
+  Sparse 3D Topological Graphs for Micro-Aerial Vehicle Planning

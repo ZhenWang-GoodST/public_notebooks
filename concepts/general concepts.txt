@@ -1,2 +1,4 @@
 confusion matrix
 SURF算法：https://www.cnblogs.com/jinjidexuetu/p/90ace4e8de574e3d5f4e6ac16a0dc157.html
+POMDP ：Partially Observable Markov Decision Process
+https://blog.csdn.net/dwj6336736/article/details/77193475

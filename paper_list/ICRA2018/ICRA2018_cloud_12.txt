@@ -1,0 +1,13 @@
+total paper: 12
+  SqueezeSeg  Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud
+  Sampled-Point Network for Classification of Deformed Building Element Point Clouds
+  Gemsketch  Interactive Image-Guided Geometry Extraction from Point Clouds
+  Signature of Topologically Persistent Points for 3D Point Cloud Description
+  The Exchange of Knowledge Using Cloud Robotics
+  Real-Time Object Tracking in Sparse Point Clouds Based on 3D Interpolation
+  Robust Generalized Point Cloud Registration Using Hybrid Mixture Model
+  A General Framework for Flexible Multi-Cue Photometric Point Cloud Registration
+  Dex-Net 3 0  Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning
+  Spatiotemporal Learning of Dynamic Gestures from 3D Point Cloud Data
+  Conditional Compatibility Branch and Bound for Feature Cloud Matching
+  Cooperative Adaptive Control for Cloud-Based Robotics

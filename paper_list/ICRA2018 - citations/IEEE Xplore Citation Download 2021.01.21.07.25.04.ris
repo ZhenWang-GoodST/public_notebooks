@@ -1,0 +1,2064 @@
+TY  - CONF
+TI  - A Synchronization Scheme for Position Control of Multiple Rope-Climbing Robots
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3736
+EP  - 3741
+AU  - G. Sun
+AU  - X. Li
+AU  - P. Li
+AU  - Y. Meng
+AU  - Y. Zhou
+AU  - E. Xu
+AU  - Y. Liu
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460484
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Robotic Pick-and-Place of Novel Objects in Clutter with Multi-Affordance Grasping and Cross-Domain Image Matching
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3750
+EP  - 3757
+AU  - A. Zeng
+AU  - S. Song
+AU  - K. Yu
+AU  - E. Donlon
+AU  - F. R. Hogan
+AU  - M. Bauza
+AU  - D. Ma
+AU  - O. Taylor
+AU  - M. Liu
+AU  - E. Romo
+AU  - N. Fazeli
+AU  - F. Alet
+AU  - N. C. Dafle
+AU  - R. Holladay
+AU  - I. Morena
+AU  - P. Qu Nair
+AU  - D. Green
+AU  - I. Taylor
+AU  - W. Liu
+AU  - T. Funkhouser
+AU  - A. Rodriguez
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461044
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-to-End Learning from Demonstration
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3758
+EP  - 3765
+AU  - R. Rahmatizadeh
+AU  - P. Abolghasemi
+AU  - L. Bölöni
+AU  - S. Levine
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461076
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Learning 6-DOF Grasping Interaction via Deep Geometry-Aware 3D Representations
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3766
+EP  - 3773
+AU  - X. Yan
+AU  - J. Hsu
+AU  - M. Khansari
+AU  - Y. Bai
+AU  - A. Pathak
+AU  - A. Gupta
+AU  - J. Davidson
+AU  - H. Lee
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460609
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3774
+EP  - 3781
+AU  - J. Hatori
+AU  - Y. Kikuchi
+AU  - S. Kobayashi
+AU  - K. Takahashi
+AU  - Y. Tsuboi
+AU  - Y. Unno
+AU  - W. Ko
+AU  - J. Tan
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460699
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Translating Videos to Commands for Robotic Manipulation with Deep Recurrent Neural Networks
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3782
+EP  - 3788
+AU  - A. Nguyen
+AU  - D. Kanoulas
+AU  - L. Muratore
+AU  - D. G. Caldwell
+AU  - N. G. Tsagarakis
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460857
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Distributed Learning for the Decentralized Control of Articulated Mobile Robots
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3789
+EP  - 3794
+AU  - G. Sartoretti
+AU  - Y. Shi
+AU  - W. Paivine
+AU  - M. Travers
+AU  - H. Choset
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460802
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Neural Task Programming: Learning to Generalize Across Hierarchical Tasks
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3795
+EP  - 3802
+AU  - D. Xu
+AU  - S. Nair
+AU  - Y. Zhu
+AU  - J. Gao
+AU  - A. Garg
+AU  - L. Fei-Fei
+AU  - S. Savarese
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460689
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Sim-to-Real Transfer of Robotic Control with Dynamics Randomization
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3803
+EP  - 3810
+AU  - X. B. Peng
+AU  - M. Andrychowicz
+AU  - W. Zaremba
+AU  - P. Abbeel
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460528
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Topomap: Topological Mapping and Navigation Based on Visual SLAM Maps
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3818
+EP  - 3825
+AU  - F. Blochliger
+AU  - M. Fehr
+AU  - M. Dymczyk
+AU  - T. Schneider
+AU  - R. Siegwart
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460641
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - PIRVS: An Advanced Visual-Inertial SLAM System with Flexible Sensor Fusion and Hardware Co-Design
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3826
+EP  - 3832
+AU  - Z. Zhang
+AU  - S. Liu
+AU  - G. Tsai
+AU  - H. Hu
+AU  - C. Chu
+AU  - F. Zheng
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460672
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - ProSLAM: Graph SLAM from a Programmer's Perspective
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3833
+EP  - 3840
+AU  - D. Schlegel
+AU  - M. Colosi
+AU  - G. Grisetti
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461180
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Talk Resource-Efficiently to Me: Optimal Communication Planning for Distributed Loop Closure Detection
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3841
+EP  - 3848
+AU  - M. Giamou
+AU  - K. Khosoussi
+AU  - J. P. How
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460783
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - StaticFusion: Background Reconstruction for Dense RGB-D SLAM in Dynamic Environments
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3849
+EP  - 3856
+AU  - R. Scona
+AU  - M. Jaimez
+AU  - Y. R. Petillot
+AU  - M. Fallon
+AU  - D. Cremers
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460681
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Vision Based Collaborative Path Planning for Micro Aerial Vehicles
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3889
+EP  - 3895
+AU  - S. Vemprala
+AU  - S. Saripalli
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8462910
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Semi-Dense Visual-Inertial Odometry and Mapping for Quadrotors with SWAP Constraints
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3904
+EP  - 3909
+AU  - W. Liu
+AU  - G. Loianno
+AU  - K. Mohta
+AU  - K. Daniilidis
+AU  - V. Kumar
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8463163
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Approximation Algorithms for Tours of Orientation-Varying View Cones
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3910
+EP  - 3915
+AU  - N. Stefas
+AU  - P. A. Plonski
+AU  - V. Isler
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8462908
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Geometric Calibration of an OCT Imaging System
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3993
+EP  - 3999
+AU  - M. Ourak
+AU  - B. Tamadazte
+AU  - G. J. Laurent
+AU  - N. Andreff
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8463171
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Marker-Based Registration for Large Deformations - Application to Open Liver Surgery
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4007
+EP  - 4012
+AU  - Y. Adagolodjo
+AU  - N. Golse
+AU  - E. Vibert
+AU  - M. De Mathelin
+AU  - S. Cotin
+AU  - H. Courtecuisse
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8462909
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Image-Guided Cooperative Robotic Assist Device for Deep Anterior Lamellar Keratoplasty
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4013
+EP  - 4018
+AU  - M. Draelos
+AU  - B. Keller
+AU  - G. Tang
+AU  - A. Kuo
+AU  - K. Hauser
+AU  - J. Izatt
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8463153
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Hall Effect Sensing Workspace Estimation with Non-Permanent Magnetic Needle for Eye Anesthesia Training System via Robotic Experiments
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4019
+EP  - 4024
+AU  - K. Borvorntanajanya
+AU  - J. Suthakorn
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461015
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Precision Needle Tip Localization Using Optical Coherence Tomography Images for Subretinal Injection
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4033
+EP  - 4040
+AU  - M. Zhou
+AU  - K. Huang
+AU  - A. Eslami
+AU  - H. Roodaki
+AU  - D. Zapp
+AU  - M. Maier
+AU  - C. P. Lohmann
+AU  - A. Knoll
+AU  - M. A. Nasseri
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460745
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Proprioceptive Inference for Dual-Arm Grasping of Bulky Objects Using RoboSimian
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4049
+EP  - 4056
+AU  - M. Burkhardt
+AU  - S. Karumanchi
+AU  - K. Edelberg
+AU  - J. W. Burdick
+AU  - P. Backes
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460776
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Compact and High Performance Torque-Controlled Actuators and its Implementation to Disaster Response Robot
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4057
+EP  - 4063
+AU  - Y. Kanemoto
+AU  - T. Yoshiike
+AU  - M. Muromachi
+AU  - M. Osada
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460789
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - High Dynamic Range Sensing by a Multistage Six-Axis Force Sensor with Stopper Mechanism
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4065
+EP  - 4070
+AU  - D. Okumura
+AU  - S. Sakaino
+AU  - T. Tsuji
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460571
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Principal Components of Touch
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4071
+EP  - 4078
+AU  - K. Aquilina
+AU  - D. A. W. Barton
+AU  - N. F. Lepora
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461045
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Design and Force-Tracking Impedance Control of a 2-DOF Wall-Cleaning Manipulator Using Disturbance Observer and Sliding Mode Control
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4079
+EP  - 4084
+AU  - T. Kim
+AU  - S. Yoo
+AU  - H. S. Kim
+AU  - J. Kim
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460897
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Artistic Pen Drawing on an Arbitrary Surface Using an Impedance-Controlled Robot
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4085
+EP  - 4090
+AU  - D. Song
+AU  - T. Lee
+AU  - Y. J. Kim
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461084
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Detection and Control of Contact Force Transients in Robotic Manipulation Without a Force Sensor
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4091
+EP  - 4096
+AU  - M. Karlsson
+AU  - A. Robertsson
+AU  - R. Johansson
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461104
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Unsupervised Learning of Hierarchical Models for Hand-Object Interactions
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4097
+EP  - 4102
+AU  - X. Xie
+AU  - H. Liu
+AU  - M. Edmonds
+AU  - F. Gaol
+AU  - S. Qi
+AU  - Y. Zhu
+AU  - B. Rothrock
+AU  - S. Zhu
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461214
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Decoupled Motion Control of Wearable Robot for Rejecting Human Induced Disturbances
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4103
+EP  - 4110
+AU  - F. Y. Wu
+AU  - H. H. Asada
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461109
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Estimation of Object Orientation Using Conductive Ink and Fabric Based Multilayered Tactile Sensor
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4135
+EP  - 4141
+AU  - G. Ponraj
+AU  - H. Ren
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461031
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Magnified Force Sensory Substitution for Telemanipulation via Force-Controlled Skin Deformation
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4142
+EP  - 4148
+AU  - Y. Kamikawa
+AU  - N. Enayati
+AU  - A. M. Okamura
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460810
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Obstacle-Aided Navigation of a Soft Growing Robot
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4165
+EP  - 4172
+AU  - J. D. Greer
+AU  - L. H. Blumenschein
+AU  - A. M. Okamura
+AU  - E. W. Hawkes
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460777
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Color-Based Sensing of Bending Deformation on Soft Robots
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4181
+EP  - 4187
+AU  - R. B. N. Scharff
+AU  - R. M. Doornbusch
+AU  - X. L. Klootwijk
+AU  - A. A. Doshi
+AU  - E. L. Doubrovski
+AU  - J. Wu
+AU  - J. M. P. Geraedts
+AU  - C. C. L. Wang
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460521
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Modelling and Control of a Novel Soft Crawling Robot Based on a Dielectric Elastomer Actuator
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4188
+EP  - 4193
+AU  - J. Cao
+AU  - W. Liang
+AU  - Q. Ren
+AU  - U. Gupta
+AU  - F. Chen
+AU  - J. Zhu
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460784
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Geometry-based Direct Simulation for Multi-Material Soft Robots
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4194
+EP  - 4199
+AU  - G. Fang
+AU  - C. Matte
+AU  - T. Kwok
+AU  - C. C. L. Wang
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461088
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Incorporate Oblique Muscle Contractions to Strengthen Soft Robots
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4200
+EP  - 4205
+AU  - X. Wang
+AU  - H. Faraji
+AU  - Y. Mengüç
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461139
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Efficient FEM-Based Simulation of Soft Robots Modeled as Kinematic Chains
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4206
+EP  - 4213
+AU  - M. Pozzi
+AU  - E. Miguel
+AU  - R. Deimel
+AU  - M. Malvezzi
+AU  - B. Bickel
+AU  - O. Brock
+AU  - D. Prattichizzo
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461106
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Evaluating the Quality of Non-Prehensile Balancing Grasps
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4215
+EP  - 4220
+AU  - R. Krug
+AU  - Y. Bekiroglu
+AU  - D. Kragic
+AU  - M. A. Roa
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461078
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Transferring Grasping Skills to Novel Instances by Latent Space Non-Rigid Registration
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4229
+EP  - 4236
+AU  - D. Rodriguez
+AU  - C. Cogswell
+AU  - S. Koo
+AU  - S. Behnke
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461169
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Grasping Objects Big and Small: Human Heuristics Relating Grasp-Type and Object Size
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4237
+EP  - 4242
+AU  - A. Kothari
+AU  - J. Morrow
+AU  - V. Thrasher
+AU  - K. Engle
+AU  - R. Balasubramanian
+AU  - C. Grimm
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460860
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4243
+EP  - 4250
+AU  - K. Bousmalis
+AU  - A. Irpan
+AU  - P. Wohlhart
+AU  - Y. Bai
+AU  - M. Kelcey
+AU  - M. Kalakrishnan
+AU  - L. Downs
+AU  - J. Ibarz
+AU  - P. Pastor
+AU  - K. Konolige
+AU  - S. Levine
+AU  - V. Vanhoucke
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460875
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Coordination of Intrinsic and Extrinsic Degrees of Freedom in Soft Robotic Grasping
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4251
+EP  - 4256
+AU  - C. Erdogan
+AU  - A. Schröder
+AU  - O. Brock
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461075
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Reinforcement Learning for 4-Finger-Gripper Manipulation
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4257
+EP  - 4262
+AU  - M. Ojer De Andres
+AU  - M. Mahdi Ghazaei Ardakani
+AU  - A. Robertsson
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461153
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Popcorn-Driven Robotic Actuators
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4271
+EP  - 4276
+AU  - S. Ceron
+AU  - A. Kurumunda
+AU  - E. Garg
+AU  - M. Kim
+AU  - T. Yeku
+AU  - K. Pctersen
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461147
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - A Hybrid Dynamic-Regenerative Damping Scheme for Energy Regeneration in Variable Impedance Actuators
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4277
+EP  - 4282
+AU  - F. wu
+AU  - M. Howard
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460207
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Screw-Powered Propulsion in Granular Media: An Experimental and Computational Study
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4283
+EP  - 4288
+AU  - A. Thoesen
+AU  - S. Ramirez
+AU  - H. Marvi
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460916
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Axially and Radially Expandable Modular Helical Soft Actuator for Robotic Implantables
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4297
+EP  - 4304
+AU  - E. R. Perez-Guagnelli
+AU  - S. Nejus
+AU  - J. Yu
+AU  - S. Miyashita
+AU  - Y. Liu
+AU  - D. D. Damian
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461239
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Displacement Amplifier Mechanism for Piezoelectric Actuators Design Using SIMP Topology Optimization Approach
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4305
+EP  - 4311
+AU  - T. Schlinquer
+AU  - A. Mohand-Ousaid
+AU  - M. Rakotondrabe
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460183
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Clothoid-Based Global Path Planning for Autonomous Vehicles in Urban Scenarios
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4312
+EP  - 4318
+AU  - J. A. R. Silva
+AU  - V. Grassi
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461201
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Surface-Based Exploration for Autonomous 3D Modeling
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4319
+EP  - 4326
+AU  - S. Song
+AU  - S. Jo
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460862
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Departure and Conflict Management in Multi-Robot Path Coordination
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4327
+EP  - 4333
+AU  - P. Lertkultanon
+AU  - J. Yang
+AU  - H. Pham
+AU  - Q. Pham
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460587
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - A Single-Planner Approach to Multi-Modal Humanoid Mobility
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4334
+EP  - 4341
+AU  - A. Dornbush
+AU  - K. Vijayakumar
+AU  - S. Bardapurkar
+AU  - F. Islam
+AU  - M. Ito
+AU  - M. Likhachev
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461134
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Information Based Mobile Sensor Planning for Source Term Estimation of a Non-Continuous Atmospheric Release
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4342
+EP  - 4347
+AU  - M. Hutchinson
+AU  - C. Liu
+AU  - W. Chen
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460686
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Collision-Free Motion Planning for Human-Robot Collaborative Safety Under Cartesian Constraint
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4348
+EP  - 4354
+AU  - J. Chen
+AU  - K. Song
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460185
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Sampling-Based Motion Planning with μ-Calculus Specifications Without Steering
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4355
+EP  - 4360
+AU  - L. Larocque
+AU  - J. Liu
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460769
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Generating Vibration Free Rest-to-Rest Trajectories for Configuration Dependent Dynamic Systems via 3-Segmented Input Shaping
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4361
+EP  - 4366
+AU  - D. K. Thomsen
+AU  - R. S. Knudsen
+AU  - D. Brandt
+AU  - O. Balling
+AU  - X. Zhang
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460865
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - A Model-Based Hierarchical Controller for Legged Systems Subject to External Disturbances
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4375
+EP  - 4382
+AU  - G. Xin
+AU  - H. Lin
+AU  - J. Smith
+AU  - O. Cebe
+AU  - M. Mistry
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461172
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Fore-Aft Leg Specialization Controller for a Dynamic Quadruped
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4383
+EP  - 4390
+AU  - J. M. Brown
+AU  - C. P. Carbiener
+AU  - J. Nicholson
+AU  - N. Hemenway
+AU  - J. L. Pusey
+AU  - J. E. Clark
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460763
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Contact Model Fusion for Event-Based Locomotion in Unstructured Terrains
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4399
+EP  - 4406
+AU  - G. Bledt
+AU  - P. M. Wensing
+AU  - S. Ingersoll
+AU  - S. Kim
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460904
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Single-Image Footstep Prediction for Versatile Legged Locomotion
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4407
+EP  - 4413
+AU  - W. Zhang
+AU  - K. Hauser
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460999
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Legged Robot State-Estimation Through Combined Forward Kinematic and Preintegrated Contact Factors
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4422
+EP  - 4429
+AU  - R. Hartley
+AU  - J. Mangelson
+AU  - L. Gan
+AU  - M. Ghaffari Jadidi
+AU  - J. M. Walls
+AU  - R. M. Eustice
+AU  - J. W. Grizzle
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460748
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Learning to Parse Natural Language to Grounded Reward Functions with Weak Supervision
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4430
+EP  - 4436
+AU  - E. C. Williams
+AU  - N. Gopalan
+AU  - M. Rhee
+AU  - S. Tellex
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460937
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Deep Haptic Model Predictive Control for Robot-Assisted Dressing
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4437
+EP  - 4444
+AU  - Z. Erickson
+AU  - H. M. Clever
+AU  - G. Turk
+AU  - C. K. Liu
+AU  - C. C. Kemp
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460656
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - EmoRL: Continuous Acoustic Emotion Classification Using Deep Reinforcement Learning
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4445
+EP  - 4450
+AU  - E. Lakomkin
+AU  - M. A. Zamani
+AU  - C. Weber
+AU  - S. Magg
+AU  - S. Wermter
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461058
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Temporal Spatial Inverse Semantics for Robots Communicating with Humans
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4451
+EP  - 4458
+AU  - Z. Gong
+AU  - Y. Zhang
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460754
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Brain-Computer Interface Meets ROS: A Robotic Approach to Mentally Drive Telepresence Robots
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4459
+EP  - 4464
+AU  - G. Beraldo
+AU  - M. Antonello
+AU  - A. Cimolato
+AU  - E. Menegatti
+AU  - L. Tonin
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460578
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - FaNeuRobot: A Framework for Robot and Prosthetics Control Using the NeuCube Spiking Neural Network Architecture and Finite Automata Theory
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4465
+EP  - 4472
+AU  - K. Kumarasinghe
+AU  - M. Owen
+AU  - D. Taylor
+AU  - N. Kasabov
+AU  - C. Kit
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460197
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Human in the Loop of Robot Learning: EEG-Based Reward Signal for Target Identification and Reaching Task
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4473
+EP  - 4480
+AU  - L. Schiatti
+AU  - J. Tessadori
+AU  - N. Deshpande
+AU  - G. Barresi
+AU  - L. C. King
+AU  - L. S. Mattos
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460551
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Incremental Adversarial Domain Adaptation for Continually Changing Environments
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4489
+EP  - 4495
+AU  - M. Wulfmeier
+AU  - A. Bewley
+AU  - I. Posner
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460982
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - DeepVP: Deep Learning for Vanishing Point Detection on 1 Million Street View Images
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4496
+EP  - 4503
+AU  - C. Chang
+AU  - J. Zhao
+AU  - L. Itti
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460499
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Deep Lidar CNN to Understand the Dynamics of Moving Vehicles
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4504
+EP  - 4509
+AU  - V. Vaquero
+AU  - A. Sanfeliu
+AU  - F. Moreno-Noguer
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460554
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Optimization Beyond the Convolution: Generalizing Spatial Relations with End-to-End Metric Learning
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4510
+EP  - 4516
+AU  - P. Jund
+AU  - A. Eitel
+AU  - N. Abdo
+AU  - W. Burgard
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460220
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Constructing Category-Specific Models for Monocular Object-SLAM
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4517
+EP  - 4524
+AU  - P. Parkhiya
+AU  - R. Khawad
+AU  - J. K. Murthy
+AU  - B. Bhowmick
+AU  - K. M. Krishna
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460816
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - DPDB-Net: Exploiting Dense Connections for Convolutional Encoders
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4525
+EP  - 4531
+AU  - G. L. Oliveira
+AU  - W. Burgard
+AU  - T. Brox
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461089
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - The Hands-Free Push-Cart: Autonomous Following in Front by Predicting User Trajectory Around Obstacles
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4548
+EP  - 4554
+AU  - P. Nikdel
+AU  - R. Shrestha
+AU  - R. Vaughan
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461181
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Socially Constrained Tracking in Crowded Environments Using Shoulder Pose Estimates
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4555
+EP  - 4562
+AU  - A. Virgona
+AU  - A. Alempijevic
+AU  - T. Vidal-Calleja
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461030
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Anticipating Many Futures: Online Human Motion Prediction and Generation for Human-Robot Interaction
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4563
+EP  - 4570
+AU  - J. Bütepage
+AU  - H. Kjellström
+AU  - D. Kragic
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460651
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Joint Long-Term Prediction of Human Motion Using a Planning-Based Social Force Approach
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4571
+EP  - 4577
+AU  - A. Rudenko
+AU  - L. Palmieri
+AU  - K. O. Arras
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460527
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Negotiating with a Robot: Analysis of Regulatory Focus Behavior
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4578
+EP  - 4594
+AU  - A. Cruz-Maya
+AU  - A. Tapus
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460611
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Multi3: Multi-Sensory Perception System for Multi-Modal Child Interaction with Multiple Robots
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4585
+EP  - 4592
+AU  - A. Tsiami
+AU  - P. Koutras
+AU  - N. Efthymiou
+AU  - P. P. Filntisis
+AU  - G. Potamianos
+AU  - P. Maragos
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461210
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Multi-Robot Coordination in Dynamic Environments Shared with Humans
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4593
+EP  - 4600
+AU  - Z. Talebpour
+AU  - A. Martinoli
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460978
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Social Attention: Modeling Attention in Human Crowds
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4601
+EP  - 4607
+AU  - A. Vemula
+AU  - K. Muelling
+AU  - J. Oh
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460504
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Fully Convolutional Neural Networks for Road Detection with Multiple Cues Integration
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4608
+EP  - 4613
+AU  - X. Han
+AU  - J. Lu
+AU  - C. Zhao
+AU  - H. Li
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460663
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - A Visual-Inertial Approach to Human Gait Estimation
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4614
+EP  - 4621
+AU  - A. Ahmed
+AU  - S. Roumeliotis
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460871
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - A Deep Learning Based Behavioral Approach to Indoor Autonomous Navigation
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4646
+EP  - 4653
+AU  - G. Sepulveda
+AU  - J. C. Niebles
+AU  - A. Soto
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460646
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Footstep Planning in Rough Terrain for Bipedal Robots Using Curved Contact Patches
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4662
+EP  - 4669
+AU  - D. Kanoulas
+AU  - A. Stumpf
+AU  - V. S. Raghavan
+AU  - C. Zhou
+AU  - A. Toumpa
+AU  - O. Von Stryk
+AU  - D. G. Caldwell
+AU  - N. G. Tsagarakis
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460561
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Robust and Precise Vehicle Localization Based on Multi-Sensor Fusion in Diverse City Scenes
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4670
+EP  - 4677
+AU  - G. Wan
+AU  - X. Yang
+AU  - R. Cai
+AU  - H. Li
+AU  - Y. Zhou
+AU  - H. Wang
+AU  - S. Song
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461224
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Safe Distributed Lane Change Maneuvers for Multiple Autonomous Vehicles Using Buffered Input Cells
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4678
+EP  - 4684
+AU  - M. Wang
+AU  - Z. Wang
+AU  - S. Paudel
+AU  - M. Schwager
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460898
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Deep Predictive Models for Collision Risk Assessment in Autonomous Driving
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4685
+EP  - 4692
+AU  - M. Strickland
+AU  - G. Fainekos
+AU  - H. B. Amor
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461160
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - End-to-End Driving Via Conditional Imitation Learning
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4693
+EP  - 4700
+AU  - F. Codevilla
+AU  - M. Müller
+AU  - A. López
+AU  - V. Koltun
+AU  - A. Dosovitskiy
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460487
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - VisualBackProp: Efficient Visualization of CNNs for Autonomous Driving
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4701
+EP  - 4708
+AU  - M. Bojarski
+AU  - A. Choromanska
+AU  - K. Choromanski
+AU  - B. Firner
+AU  - L. J. Ackel
+AU  - U. Muller
+AU  - P. Yeres
+AU  - K. Zieba
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461053
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Predicting Ego-Vehicle Paths from Environmental Observations with a Deep Neural Network
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4709
+EP  - 4716
+AU  - U. Baumann
+AU  - C. Guiser
+AU  - M. Herman
+AU  - J. M. Zollner
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460704
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Learning Steering Bounds for Parallel Autonomous Systems
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4717
+EP  - 4724
+AU  - A. Amini
+AU  - L. Paull
+AU  - T. Balch
+AU  - S. Karaman
+AU  - D. Rus
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461253
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - End to End Learning of Spiking Neural Network Based on R-STDP for a Lane Keeping Vehicle
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4725
+EP  - 4732
+AU  - Z. Bing
+AU  - C. Meschede
+AU  - K. Huang
+AU  - G. Chen
+AU  - F. Rohrbein
+AU  - M. Akl
+AU  - A. Knoll
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460482
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - A Dual-Modal Vision-Based Tactile Sensor for Robotic Hand Grasping
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4740
+EP  - 4745
+AU  - B. Fang
+AU  - F. Sun
+AU  - C. Yang
+AU  - H. Xue
+AU  - W. Chen
+AU  - C. Zhang
+AU  - D. Guo
+AU  - H. Liu
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461007
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Adapting the Goals/Questions/Metrics (GQM) Method for Applications in Robot Design
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4746
+EP  - 4751
+AU  - C. McGinn
+AU  - E. Bourke
+AU  - T. O'Kelly
+AU  - M. F. Cullinan
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460630
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - The Exchange of Knowledge Using Cloud Robotics
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4768
+EP  - 4775
+AU  - A. K. Bozcuoğlu
+AU  - G. Kazhoyan
+AU  - Y. Furuta
+AU  - S. Stelter
+AU  - M. Beetz
+AU  - K. Okada
+AU  - M. Inaba
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460187
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Dry Stacking for Automated Construction with Irregular Objects
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4782
+EP  - 4789
+AU  - V. Thangavelu
+AU  - Y. Liu
+AU  - M. Saboia
+AU  - N. Napp
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460562
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+

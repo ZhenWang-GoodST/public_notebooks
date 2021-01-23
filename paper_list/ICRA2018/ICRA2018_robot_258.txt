@@ -1,0 +1,259 @@
+total paper: 258
+  Design  Modeling and Control of a 2-DoF Robotic Guidewire
+  Development and Experimental Validation of a Combined FBG Force and OCT Distance Sensing Needle for Robot-Assisted Retinal Vein Cannulation
+  Requirements Based Design and End-to-End Dynamic Modeling of a Robotic Tool for Vitreoretinal Surgery
+  ESD CYCLOPS  A New Robotic Surgical System for GI Surgery
+  Differentiation of C2C12 Myoblasts and Characterization of Electro-Responsive Beating Behavior of Myotubes Using Circularly Distributed Multiple Electrodes for Bio-Syncretic Robot
+  Modeling and Control of Multi-Arm and Multi-Leg Robots  Compensating for Object Dynamics During Grasping
+  Responsive and Reactive Dual-Arm Robot Coordination
+   L  1   Robustness of Computed Torque Method for Robot Manipulators
+  The Dubins Car and Other Arm-Like Mobile Robots
+  Reactive Bipedal Walking Method for Torque Controlled Robot
+  Disturbance Observer Based Linear Feedback Controller for Compliant Motion of Humanoid Robot
+  Robust Control of Dynamic Walking Robots Using Transverse H
+  Know Rob 2 0 ¡ª A 2nd Generation Knowledge Processing Framework for Cognition-Enabled Robotic Agents
+  Intuitive Constraint-Based Robot Programming for Robotic Assembly Tasks  The research leading to these results has received funding from the European Unions Seventh Framework Programme FP7 2013-2017 under grant agreement n 608604  LIAA  Lean Intelligent Assembly Automation  and Horizon 2020 Research and Innovation Programme under grant agreement n 688642  RAMPup  
+  MaestROB  A Robotics Framework for Integrated Orchestration of Low-Level Control and High-Level Reasoning
+  Ctrl-MORE  A Framework to Integrate Controllers of Multi-DoF Robot for Developers and Users
+  A Prototype-Based Skill Model for Specifying Robotic Assembly Tasks
+  Learning User Preferences in Robot Motion Planning Through Interaction
+  A Whole Body Attitude Stabilizer for Hybrid Wheeled-Legged Quadruped Robots
+  A Parametric MPC Approach to Balancing the Cost of Abstraction for Differential-Drive Mobile Robots
+  Dynamic Simulation of Planetary Rovers with Terrain Property Mapping   Research supported by National Natural Science Foundation of China  Grant No  61370033   National Basic Research Program of China  Grant No  2013CB035502   Foundation for Innovative Research Groups of the Natural Science Foundation of China  Grant No  51521003   Foundation of Chinese State Key Laboratory of Robotics and Systems  Grant No  SKLRS201501B  SKLRS20164B   Harbin Applied Technology Project of Research and Development  2015RQQXJ081   and the ¡°111 Project¡±  Grant No  B07018  
+  Design Considerations and Redundancy Resolution for Variable Geometry Continuum Robots
+  Eddy Current Damper Design for Vibration Suppression in Robotic Milling Process
+  Spherical Visual Gyroscope for Autonomous Robots Using the Mixture of Photometric Potentials
+  Validation of the Robot Rendezvous and Grasping Manoeuvre Using Microgravity Simulators
+  Workspace Fixation for Free-Floating Space Robot Operations
+  Whole-Body Impedance Control for a Planetary Rover with Robotic Arm  Theory  Control Design  and Experimental Validation
+  Kinematic Design Optimization of a Parallel Surgical Robot to Maximize Anatomical Visibility via Motion Planning
+  Workspace  Transmissibility and Dynamics of a New 3T3R Parallel Pick-and-place Robot with High Rotational Capability
+  Dynamic Control of Cable Driven Parallel Robots with Unknown Cable Stiffness  a Joint Space Approach
+  Available Wrench Set for Planar Mobile Cable-Driven Parallel Robots
+  Algorithm for Optimal Chance Constrained Knapsack Problem with Applications to Multi-Robot Teaming
+  Planning-Aware Communication for Decentralised Multi-Robot Coordination
+  Multi-Robot Realization Based on Goal Adjacency Constraints
+  Optimal Intermittent Deployment and Sensor Selection for Environmental Sensing with Multi-Robot Teams
+  Integrating Planning and Execution for a Team of Heterogeneous Robots with Time and Communication Constraints
+  Generative Adversarial Nets in Robotic Chinese Calligraphy
+  Robot Navigation from Human Demonstration  Learning Control Behaviors
+  Distributed Multi-Robot Cooperation for Information Gathering Under Communication Constraints
+  Automated Pick-Up of Suturing Needles for Robotic Surgical Assistance
+  A Hybrid Actuated Robotic Prototype for Minimally Invasive Surgery
+  Design and Test of an In-Vivo Robotic Camera Integrated with Optimized Illumination System for Single-port Laparoscopic Surgery
+  A Novel Magnetic Anchored and Steered Camera Robot for Single Port Access Surgery
+  A Study on Optimal Placement of Accelerometers for Pose Estimation of a Robot Arm
+  Angle Estimation for Robotic Arms on Floating Base Using Low-Cost IMUS
+  IntuBot  Design and Prototyping of a Robotic Intubation Device
+  Passive and Active Particle Damping in Soft Robotic Actuators  This work is funded by a Basic Research Grant from the University of Hong Kong 
+  Morphological Adaptation in an Energy Efficient Vibration-Based Robot
+  Bio-Inspired Octopus Robot Based on Novel Soft Fluidic Actuator
+  RoboTSP ¨C A Fast Solution to the Robotic Task Sequencing Problem
+  An Automated Reactive Approach to Single Robot Exogeneous Planar Assembly
+  Robotic Cleaning Through Dirt Rearrangement Planning with Learned Transition Models
+  Modeling and Control of Brachiating Robots Traversing Flexible Cables
+  Performance Indicator for Benchmarking Force-Controlled Robots
+  A Failure-Tolerant Approach to Synchronous Formation Control of Mobile Robots Under Communication Delays
+  Perceived Stiffness Estimation for Robot Force Control
+  Gradient-Informed Path Smoothing for Wheeled Mobile Robots
+  Robot Navigation in Complex Workspaces Using Harmonic Maps
+  Grasp-training Robot to Activate Neural Control Loop for Reflex and Experimental Verification
+  Planning Ergonomic Sequences of Actions in Human-Robot Interaction
+  Proposal of Collaboration Safety in a Coexistence Environment of Human and Robots
+  Interactive Robot Knowledge Patching Using Augmented Reality
+  Using Constrained Optimization for Real-Time Synchronization of Verbal and Nonverbal Robot Behavior
+  Learning Task-Based Instructional Policy for Excavator-Like Robots
+  Playdough to Roombots  Towards a Novel Tangible User Interface for Self-reconfigurable Modular Robots
+  3D Human Pose Estimation in RGBD Images for Robotic Task Learning
+  Safe and Efficient Human-Robot Collaboration Part I  Estimation of Human Arm Motions
+  Real-Time Identification of Robot Payload Using a Multirate Quaternion-Based Kalman Filter and Recursive Total Least-Squares
+  Stickman  Towards a Human Scale Acrobatic Robot
+  A Controlled-Delay Event Camera Framework for On-Line Robotics
+  Routing Algorithms for Robot Assisted Precision Irrigation
+  Real-Time Semantic Segmentation of Crop and Weed for Precision Agriculture Robots Leveraging Background Knowledge in CNNs
+  Robustly Adjusting Indoor Drip Irrigation Emitters with the Toyota HSR Robot
+  Stiffness Decomposition and Design Optimization of Under-Actuated Tendon-Driven Robotic Systems
+  Local Nearest Neighbor Integrity Risk Evaluation for Robot Navigation
+  Re-Deployment Algorithms for Multiple Service Robots to Optimize Task Response
+  Multi-robot Dubins Coverage with Autonomous Surface Vehicles
+  How Many Robots are Enough  A Multi-Objective Genetic Algorithm for the Single-Objective Time-Limited Complete Coverage Problem
+  A Deep Incremental Boltzmann Machine for Modeling Context in Robots
+  Accelerating Model Learning with Inter-Robot Knowledge Transfer
+  Bodily Aware Soft Robots  Integration of Proprioceptive and Exteroceptive Sensors
+  A Benchmark Comparison of Monocular Visual-Inertial Odometry Algorithms for Flying Robots
+  Visual Saliency-Aware Receding Horizon Autonomous Exploration with Application to Aerial Robotics
+  Robotic Immobilization of Motile Sperm
+  A Framework for Sensorless Tissue Motion Tracking in Robotic Endomicroscopy Scanning
+  SAT-C  An Efficient Control Strategy for Assembly of Heterogeneous Stress-Engineered MEMS Microrobots
+  Robotic Intracellular Manipulation  3D Navigation and Measurement Inside a Single Cell
+  Robotizing Double-Bar Ankle-Foot Orthosis
+  Variable Transmission Series Elastic Actuator for Robotic Prosthesis
+  Pairwise Consistent Measurement Set Maximization for Robust Multi-Robot Map Merging
+  Task-Specific Sensor Planning for Robotic Assembly Tasks
+  Active Motion-Based Communication for Robots with Monocular Vision
+  Charging Station Placement for Indoor Robotic Applications
+  Path Tracking of a Two-Wheel Steering Mobile Robot  An Accurate and Robust Multi-Model Off-Road Steering Strategy
+  Realization of a Real-Time Optimal Control Strategy to Stabilize a Falling Humanoid Robot with Hand Contact
+  Markerless Visual Servoing on Unknown Objects for Humanoid Robot Platforms
+  Generating Assistive Humanoid Motions for Co-Manipulation Tasks with a Multi-Robot Quadratic Program Controller
+  Affordance-Based Multi-Contact Whole-Body Pose Sequence Planning for Humanoid Robots in Unknown Environments
+  Model-Based External Force Moment Estimation for Humanoid Robots with no Torque Measurement
+  Simultaneous Planning and Estimation Based on Physics Reasoning in Robot Manipulation
+  Robot Composite Learning and the Nunchaku Flipping Challenge
+  Early Turn-Taking Prediction with Spiking Neural Networks for Human Robot Collaboration
+  A Passivity-Based Strategy for Coaching in Human-Robot Interaction
+  Optical Sensing and Control Methods for Soft Pneumatically Actuated Robotic Manipulators
+  Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction
+  Proprioceptive-Inertial Autonomous Locomotion for Articulated Robots
+  PISRob  A Pneumatic Soft Robot for Locomoting Like an Inchworm
+  Continuous Growth in Plant-Inspired Robots Through 3D Additive Manufacturing
+  Investigation of Scaling Effect of Copper Microwire Based on in-Situ Nanorobotic Twisting Inside SEM
+  Teach-and-Replay of Mobile Robot with Particle Filter on Episode
+  Vision-Based Robotic Grasping and Manipulation of USB Wires
+  Learning Robotic Assembly from CAD
+  Robot Assisted Carpentry for Mass Customization
+  Liftoff of a 190 mg Laser-Powered Aerial Vehicle  The Lightest Wireless Robot to Fly
+  Modelling Resource Contention in Multi-Robot Task Allocation Problems with Uncertain Timing
+  Incorporating Potential Contingency Tasks in Multi-Robot Mission Planning
+  Distributed Simultaneous Action and Target Assignment for Multi-Robot Multi-Target Tracking
+  How to Make Fat Autonomous Robots See all Others Fast 
+  A Synchronization Scheme for Position Control of Multiple Rope-Climbing Robots
+  Robotic Pick-and-Place of Novel Objects in Clutter with Multi-Affordance Grasping and Cross-Domain Image Matching
+  Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-to-End Learning from Demonstration
+  Translating Videos to Commands for Robotic Manipulation with Deep Recurrent Neural Networks
+  Distributed Learning for the Decentralized Control of Articulated Mobile Robots
+  Sim-to-Real Transfer of Robotic Control with Dynamics Randomization
+  Real-Time Image-Guided Cooperative Robotic Assist Device for Deep Anterior Lamellar Keratoplasty
+  Hall Effect Sensing Workspace Estimation with Non-Permanent Magnetic Needle for Eye Anesthesia Training System via Robotic Experiments
+  Compact and High Performance Torque-Controlled Actuators and its Implementation to Disaster Response Robot
+  Artistic Pen Drawing on an Arbitrary Surface Using an Impedance-Controlled Robot
+  Detection and Control of Contact Force Transients in Robotic Manipulation Without a Force Sensor
+  Decoupled Motion Control of Wearable Robot for Rejecting Human Induced Disturbances
+  Obstacle-Aided Navigation of a Soft Growing Robot
+  Color-Based Sensing of Bending Deformation on Soft Robots
+  Modelling and Control of a Novel Soft Crawling Robot Based on a Dielectric Elastomer Actuator
+  Geometry-based Direct Simulation for Multi-Material Soft Robots
+  Incorporate Oblique Muscle Contractions to Strengthen Soft Robots
+  Efficient FEM-Based Simulation of Soft Robots Modeled as Kinematic Chains
+  Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping
+  Coordination of Intrinsic and Extrinsic Degrees of Freedom in Soft Robotic Grasping
+  Popcorn-Driven Robotic Actuators
+  Axially and Radially Expandable Modular Helical Soft Actuator for Robotic Implantables
+  Departure and Conflict Management in Multi-Robot Path Coordination
+  Collision-Free Motion Planning for Human-Robot Collaborative Safety Under Cartesian Constraint
+  Legged Robot State-Estimation Through Combined Forward Kinematic and Preintegrated Contact Factors
+  Deep Haptic Model Predictive Control for Robot-Assisted Dressing
+  Temporal Spatial Inverse Semantics for Robots Communicating with Humans
+  Brain-Computer Interface Meets ROS  A Robotic Approach to Mentally Drive Telepresence Robots
+  FaNeuRobot  A Framework for Robot and Prosthetics Control Using the NeuCube Spiking Neural Network Architecture and Finite Automata Theory
+  Human in the Loop of Robot Learning  EEG-Based Reward Signal for Target Identification and Reaching Task
+  Anticipating Many Futures  Online Human Motion Prediction and Generation for Human-Robot Interaction
+  Negotiating with a Robot  Analysis of Regulatory Focus Behavior
+  Multi3  Multi-Sensory Perception System for Multi-Modal Child Interaction with Multiple Robots
+  Multi-Robot Coordination in Dynamic Environments Shared with Humans
+  Footstep Planning in Rough Terrain for Bipedal Robots Using Curved Contact Patches
+  A Dual-Modal Vision-Based Tactile Sensor for Robotic Hand Grasping
+  Adapting the Goals Questions Metrics  GQM  Method for Applications in Robot Design
+  The Exchange of Knowledge Using Cloud Robotics
+  Multi-Stage Suture Detection for Robot Assisted Anastomosis Based on Deep Learning
+  Topological Hotspot Identification for Informative Path Planning with a Marine Robot
+  Heterogeneous Multi-Robot System for Exploration and Strategic Water Sampling
+  Geometry Based Self Kinematic Calibration Method for Industrial Robots
+  Inertial Parameters Identification of a Humanoid Robot Hanged to a Fix Force Sensor
+  Efficient Mobile Robot Exploration with Gaussian Markov Random Fields in 3D Environments
+  A Scalable Multi-Robot Task Allocation Algorithm
+  Distributed Intermittent Communication Control of Mobile Robot Networks Under Time-Critical Dynamic Tasks
+  Landmark-based Exploration with Swarm of Resource Constrained Robots
+  Coverage Control for Wire-Traversing Robots
+  Control of Multiple Passive-Follower Type Robots Based on Feasible Braking Control Region Analysis
+  PRM-RL  Long-range Robotic Navigation Tasks by Combining Reinforcement Learning and Sampling-Based Planning
+  Using Parameterized Black-Box Priors to Scale Up Model-Based Policy Search for Robotics
+  Self-Supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation
+  Distal End Force Sensing with Optical Fiber Bragg Gratings for Tendon-Sheath Mechanisms in Flexible Endoscopic Robots
+  Trajectory-Optimized Sensing for Active Search of Tissue Abnormalities in Robotic Surgery
+  Active Constraints Using Vector Field Inequalities for Surgical Robots
+  Endo-VMFuseNet  A Deep Visual-Magnetic Sensor Fusion Approach for Endoscopic Capsule Robots
+  EndoSensorFusion  Particle Filtering-Based Multi-Sensory Data Fusion with Switching State-Space Model for Endoscopic Capsule Robots
+  Force Control of Series Elastic Actuators-Driven Parallel Robot
+  Analyzing and Improving Cartesian Stiffness Control Stability of Series Elastic Tendon-Driven Robotic Hands
+  Whole-Body Sensory Concept for Compliant Mobile Robots
+  Cooperative Manipulation and Identification of a 2-DOF Articulated Object by a Dual-Arm Robot
+  Force Control of Textile-Based Soft Wearable Robots for Mechanotherapy
+  Design and Analysis of a Wearable Robotic Forearm
+  Exploration and Inspection with Vine-Inspired Continuum Robots
+  The Role of Massive Morphing Wings for Maneuvering a Bio-Inspired Bat-Like Robot
+  Evaluating Robust Trajectory Control of a Miniature Rolling and Spinning Robot in Outdoor Conditions
+  Feature-Based Transfer Learning for Robotic Push Manipulation
+  Teaching Human Teachers to Teach Robot Learners
+  Near-optimal Irrevocable Sample Selection for Periodic Data Streams with Applications to Marine Robotics
+  Topological Multi-Robot Belief Space Planning in Unknown Environments
+  Efficient Stabilization of Zero-Slope Walking for Bipedal Robots Following Their Passive Fixed-Point Trajectories
+  Agile and Adaptive Hopping Height Control for a Pneumatic Robot
+  Robust Rough-Terrain Locomotion with a Quadrupedal Robot
+  Toward Intuitive Teleoperation in Surgery  Human-Centric Evaluation of Teleoperation Algorithms for Robotic Needle Steering
+  Avoiding Human-Robot Collisions Using Haptic Communication
+  High Speed Whole Body Dynamic Motion Experiment with Real Time Master-Slave Humanoid Robot System
+  Deep Trail-Following Robotic Guide Dog in Pedestrian Environments for People who are Blind and Visually Impaired - Learning from Virtual and Real Worlds
+  Anticipation in Human-Robot Cooperation  A Recurrent Neural Network Approach for Multiple Action Sequences Prediction
+  3DOF Pedestrian Trajectory Prediction Learned from Long-Term Autonomous Mobile Robot Deployment Data
+  SeDAR - Semantic Detection and Ranging  Humans can Localise without LiDAR  can Robots 
+  Design of a Novel 3-DoF Leg with Series and Parallel Compliant Actuation for Energy Efficient Articulated Robots
+  Design of a Serial-Parallel Hybrid Leg for a Humanoid Robot
+  Simplified Quasi-Steady Aeromechanic Model for Flapping-Wing Robots with Passively Rotating Hinges
+  Fusing Object Context to Detect Functional Area for Cognitive Robots
+  Dynamic Reconfiguration of Mission Parameters in Underwater Human-Robot Collaboration
+  Composable Deep Reinforcement Learning for Robotic Manipulation
+  Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning
+  Tensegrity Robot Locomotion Under Limited Sensory Inputs via Deep Reinforcement Learning
+  Applying Asynchronous Deep Classification Networks and Gaming Reinforcement Learning-Based Motion Planners to Mobile Robots
+  Deep Reinforcement Learning for Vision-Based Robotic Grasping  A Simulated Comparative Evaluation of Off-Policy Methods
+  Adaptive Sampling and Online Learning in Multi-Robot Sensor Coverage with Mixture of Gaussian Processes
+  Distance-Based Multi-Robot Coordination on Pocket Drones
+  Cooperative Adaptive Control for Cloud-Based Robotics
+  Towards Emergence of Tool Use in Robots  Automatic Tool Recognition and Use Without Prior Tool Learning
+  Put-in-Box Task Generated from Multiple Discrete Tasks by aHumanoid Robot Using Deep Learning
+  Robust Localization of Mobile Robots Considering Reliability of LiDAR Measurements
+  Radiation Source Localization in GPS-Denied Environments Using Aerial Robots
+  Towards X-Ray Medical Imaging with Robots in the Open  Safety Without Compromising Performances
+  Safety-Enhanced Human-Robot Interaction Control of Redundant Robot for Teleoperated Minimally Invasive Surgery
+  Robotic Assistance-as-Needed for Enhanced Visuomotor Learning in Surgical Robotics Training  An Experimental Study
+  Semi-Autonomous Laparoscopic Robotic Electro-Surgery with a Novel 3D Endoscope
+  Fast and Reliable Autonomous Surgical Debridement with Cable-Driven Robots Using a Two-Phase Calibration Procedure
+  Simultaneous Optimization of Assignments and Goal Formations for Multiple Robots
+  Optimizing Stiffness of a Novel Parallel-Actuated Robotic Shoulder Exoskeleton for a Desired Task or Workspace
+  Design of Frictional 2D-Anisotropy Surface for Wriggle Locomotion of Printable Soft-Bodied Robots
+  Inchworm Locomotion Mechanism Inspired Self-Deformable Capsule-Like Robot  Design  Modeling  and Experimental Validation
+  FireAnt  A Modular Robot with Full-Body Continuous Docks
+  Perception-Informed Autonomous Environment Augmentation with Modular Robots
+  Human-Driven Feature Selection for a Robotic Agent Learning Classification Tasks from Demonstration
+  An Experimental Investigation of Extra Measurements for Solving the Direct Kinematics of Cable-Driven Parallel Robots
+  Reactive Magnetic-Field-Inspired Navigation for Non-Holonomic Mobile Robots in Unknown Environments
+  Aerial Grasping Based on Shape Adaptive Transformation by HALO  Horizontal Plane Transformable Aerial Robot with Closed-Loop Multilinks Structure
+  A Flying Gripper Based on Cuboid Modular Robots
+  Learning Sampling Distributions for Robot Motion Planning
+  Deep Object-Centric Representations for Generalizable Robot Learning
+  Robot Button Pressing in Human Environments
+  Robust Human Following by Deep Bayesian Trajectory Prediction for Home Service Robots
+  Ruling the Control Authority of a Service Robot Based on Information Precision
+  A Nonparametric Motion Flow Model for Human Robot Cooperation
+  Feature-constrained Active Visual SLAM for Mobile Robot Navigation
+  Counterexamples for Robotic Planning Explained in Structured Language
+  Auctioning over Probabilistic Options for Temporal Logic-Based Multi-Robot Cooperation Under Uncertainty
+  GraspMan - A Novel Robotic Platform with Grasping  Manipulation  and Multimodal Locomotion Capability
+  Design and Evaluation of a Novel Cable-Driven Gripper with Perception Capabilities for Strawberry Picking Robots
+  Robotic Handling of Liquids with Spilling Avoidance  A Constraint-Based Control Approach
+  A Robust Robot Design for Item Picking
+  Automatic Material Properties Estimation for the Physics-Based Robotic Garment Folding
+  Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes
+  A Soft Robot for Random Exploration of Terrestrial Environments
+  Probabilistic Graph Security for Networked Multi-Robot Systems
+  Controlling the Interaction of a Multi-Robot System with External Entities
+  Network Topology Inference in Swarm Robotics
+  Using Hardware Specialization and Hierarchy to Simplify Robotic Swarms
+  From Swarms to Stars  Task Coverage in Robot Swarms with Connectivity Constraints
+  Using Information Invariants to Compare Swarm Algorithms and General Multi-Robot Algorithms
+  Learning Robust Policies for Object Manipulation with Robot Swarms
+  A Nonlinear Control Strategy for Extensible Continuum Robots
+  Continuously Controllable Series Clutches for Efficient Robot Actuation
+  Cartman  The Low-Cost Cartesian Manipulator that Won the Amazon Robotics Challenge
+  Touch-Based Grasp Primitives for Soft Hands  Applications to Human-to-Robot Handover Tasks and Beyond

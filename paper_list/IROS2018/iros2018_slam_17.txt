@@ -1,0 +1,18 @@
+total paper: 17
+  Optimized Contrast Enhancements to Improve Robustness of Visual Tracking in a SLAM Relocalisation Context
+  LIPS  LiDAR-Inertial 3D Plane SLAM
+  Scan Similarity-based Pose Graph Construction method for Graph SLAM
+  Localization of Classified Objects in SLAM using Nonparametric Statistics and Clustering
+  Semantic Monocular SLAM for Highly Dynamic Environments
+  DS-SLAM  A Semantic Visual SLAM towards Dynamic Environments
+  Good Feature Selection for Least Squares Pose Optimization in VO VSLAM
+  A Combined RGB and Depth Descriptor for SLAM with Humanoids
+  Pose Estimation and Map Formation with Spiking Neural Networks  towards Neuromorphic SLAM
+  Virtual Occupancy Grid Map for Submap-based Pose Graph SLAM and Planning in 3D Environments
+  A Variational Feature Encoding Method of 3D Object for Probabilistic Semantic SLAM
+  ArthroSLAM  Multi-Sensor Robust Visual Localization for Minimally Invasive Orthopedic Surgery
+  Semi-Supervised SLAM  Leveraging Low-Cost Sensors on Underground Autonomous Vehicles for Position Tracking
+  Submap-Based Pose-Graph Visual SLAM  A Robust Visual Exploration and Localization System  The work in this paper is supported by the National Natural Science Foundation of China  61603103  61673125   the Natural Science Foundation of Guangdong of China  2016A030310293   and the Major Scientific and Technological Special Project of Guangdong of China  2016B090910003  
+  Improving Repeatability of Experiments by Automatic Evaluation of SLAM Algorithms
+  OpenSeqSLAM2 0  An Open Source Toolbox for Visual Place Recognition Under Changing Conditions
+  π-SoC  Heterogeneous SoC Architecture for Visual Inertial SLAM Applications

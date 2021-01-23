@@ -1,0 +1,1990 @@
+TY  - CONF
+TI  - Action Selection for Interactive Object Segmentation in Clutter
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6297
+EP  - 6304
+AU  - T. Patten
+AU  - M. Zillich
+AU  - M. Vincze
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593918
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Towards a Real-Time Environment Reconstruction for VR-Based Teleoperation Through Model Segmentation
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - S. Kohn
+AU  - A. Blank
+AU  - D. Puljiz
+AU  - L. Zenkel
+AU  - O. Bieber
+AU  - B. Hein
+AU  - J. Franke
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594053
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - DROAN - Disparity-Space Representation for Obstacle Avoidance: Enabling Wire Mapping & Avoidance
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6311
+EP  - 6318
+AU  - G. Dubey
+AU  - R. Madaan
+AU  - S. Scherer
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593499
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Robocentric Visual-Inertial Odometry
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6319
+EP  - 6326
+AU  - Z. Huai
+AU  - G. Huang
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593643
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Appearance-Based Along-Route Localization for Planetary Missions
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6327
+EP  - 6334
+AU  - I. Grixa
+AU  - P. Schulz
+AU  - W. Stürzl
+AU  - R. Triebel
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594518
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Monocular Indoor Localiser Based on an Extended Kalman Filter and Edge Images from a Convolutional Neural Network
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - J. Unicomb
+AU  - R. Ranasinghe
+AU  - L. Dantanarayana
+AU  - G. Dissanayake
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594337
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Automated Map Reading: Image Based Localisation in 2-D Maps Using Binary Semantic Descriptors
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6341
+EP  - 6348
+AU  - P. Panphattarasap
+AU  - A. Calway
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594253
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Interval-Based Cooperative Uavs Pose Domain Characterization from Images and Ranges
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6349
+EP  - 6356
+AU  - I. Kenmogne
+AU  - V. Drevelle
+AU  - E. Marchand
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593742
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Joint Point Cloud and Image Based Localization for Efficient Inspection in Mixed Reality
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6357
+EP  - 6363
+AU  - M. P. Das
+AU  - Z. Dong
+AU  - S. Scherer
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594318
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Probabilistic Dense Reconstruction from a Moving Camera
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6364
+EP  - 6371
+AU  - Y. Ling
+AU  - K. Wang
+AU  - S. Shen
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593618
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Summarizing Large Scale 3D Mesh
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - I. B. Salah
+AU  - S. Kramm
+AU  - C. Demonceaux
+AU  - P. Vasseur
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593372
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Robust Control Method for the Elbow of the Humanoid Robot TEO Based on a Fractional Order Controller
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6378
+EP  - 6383
+AU  - J. Muñoz
+AU  - C. A. Monje
+AU  - F. Martín
+AU  - C. Balaguer
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593732
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - FPGA-Based Velocity Estimation for Control of Robots with Low-Resolution Encoders
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6384
+EP  - 6389
+AU  - J. Y. Wu
+AU  - Z. Chen
+AU  - A. Deguet
+AU  - P. Kazanzides
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594139
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Active Disturbance Rejection Control of a Flying-Wing Tailsitter in Hover Flight
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6390
+EP  - 6396
+AU  - Y. Yang
+AU  - J. Zhu
+AU  - X. Zhang
+AU  - X. Wang
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594470
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Underwater Modeling, Experiments and Control Strategies of FroBot
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6397
+EP  - 6403
+AU  - Y. Yi
+AU  - F. Zhenhui
+AU  - Z. Zhongjing
+AU  - Z. Jianqing
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594455
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Feedback Linearizing Controller for a Single Link Flexible Arm with a Passive Gravity Compensation Mechanism
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6404
+EP  - 6410
+AU  - J. C. Cambera
+AU  - V. Feliu-Batlle
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594409
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Practical Method to Speed-Up the Experimental Procedure of Iterative Learning Controllers
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6411
+EP  - 6416
+AU  - O. Koçan
+AU  - A. Manecy
+AU  - C. Poussot-Vassal
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594025
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - System Identification and Closed-Loop Control of a Hydraulically Amplified Self-Healing Electrostatic (HASEL) Actuator
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6417
+EP  - 6423
+AU  - C. Schunk
+AU  - L. Pearson
+AU  - E. Acome
+AU  - T. G. Morrissey
+AU  - N. Correll
+AU  - C. Keplinger
+AU  - M. E. Rentschler
+AU  - J. S. Humbert
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593797
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Motion Control of Piezo-Driven Stage via a Chattering-Free Sliding Mode Controller with Hysteresis Compensation
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6424
+EP  - 6430
+AU  - Y. Fan
+AU  - Y. He
+AU  - D. Zhang
+AU  - U. Tan
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593442
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Universal Gripper Using Optical Sensing to Acquire Tactile Information and Membrane Deformation
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - T. Sakuma
+AU  - F. Von Drigalski
+AU  - M. Ding
+AU  - J. Takamatsu
+AU  - T. Ogasawara
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593697
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Towards a Soft Fingertip with Integrated Sensing and Actuation
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6437
+EP  - 6444
+AU  - B. W. McInroe
+AU  - C. L. Chen
+AU  - K. Y. Goldberg
+AU  - K. Y. Goldberg
+AU  - R. Bajcsy
+AU  - R. S. Fearing
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594032
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Learning Oscillator-Based Gait Controller for String-Form Soft Robots Using Parameter-Exploring Policy Gradients
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6445
+EP  - 6452
+AU  - M. Ishige
+AU  - T. Umedachi
+AU  - T. Taniguchi
+AU  - Y. Kawahara
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594338
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Partially Filled Jamming Gripper for Underwater Recovery of Objects Resting on Soft Surfaces
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6461
+EP  - 6468
+AU  - S. Licht
+AU  - E. Collins
+AU  - G. Badlissi
+AU  - D. Rizzo
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593361
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - CLASH: Compliant Low Cost Antagonistic Servo Hands
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6469
+EP  - 6476
+AU  - W. Friedl
+AU  - H. Höppner
+AU  - F. Schmidt
+AU  - M. A. Roa
+AU  - M. Grebenstein
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593903
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - FBG-Based Control of a Continuum Manipulator Interacting with Obstacles*
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6477
+EP  - 6483
+AU  - S. Sefati
+AU  - R. J. Murphy
+AU  - F. Alambeigi
+AU  - M. Pozin
+AU  - I. Iordachita
+AU  - R. H. Taylor
+AU  - M. Armand
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594407
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Modeling and Trajectory Tracking Control of a New Parallel Flexible Link Robot
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6484
+EP  - 6489
+AU  - M. Morlock
+AU  - N. Meyer
+AU  - M. Pick
+AU  - R. Seifried
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594008
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Deep Sequential Models for Sampling-Based Planning
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6490
+EP  - 6497
+AU  - Y. Kuo
+AU  - A. Barbu
+AU  - B. Katz
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593947
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Topology-Based Path Similarity Metric and its Application to Sampling-Based Motion Planning
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6498
+EP  - 6505
+AU  - J. Denny
+AU  - K. Chen
+AU  - H. Zhou
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594325
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - RG-Trees: Trajectory-Free Feedback Motion Planning Using Sparse Random Reference Governor Trees
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6506
+EP  - 6511
+AU  - F. Golbol
+AU  - M. M. Ankarali
+AU  - A. Saranli
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594447
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Motion Planning in Changing Environments Using Topology-Based Encoding of Past Knowledge
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6512
+EP  - 6517
+AU  - R. Fisher
+AU  - B. Rosman
+AU  - V. Ivan
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593879
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Distributionally Robust Sampling-Based Motion Planning Under Uncertainty
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6518
+EP  - 6523
+AU  - T. Summers
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593893
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Hierarchical Path Planner Using Workspace Decomposition and Parallel Task-Space RRTs
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - G. Mesesan
+AU  - M. A. Roa
+AU  - E. Icer
+AU  - M. Althoff
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593870
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Kinodynamic Comfort Trajectory Planning for Car-Like Robots
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6532
+EP  - 6539
+AU  - H. Shin
+AU  - D. Kim
+AU  - S. Yoon
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593397
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Expert-Guided Kinodynamic RRT Path Planner for Non-Holonomic Robots
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6540
+EP  - 6545
+AU  - J. M. Sanz
+AU  - M. Hernando
+AU  - G. Zaragoza
+AU  - A. Brunete
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593924
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Robot Imitation Through Vision, Kinesthetic and Force Features with Online Adaptation to Changing Environments
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - R. Fernandez-Fernandez
+AU  - J. G. Victores
+AU  - D. Estevez
+AU  - C. Balaguer
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593724
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Probabilistic Learning of Torque Controllers from Kinematic and Force Constraints
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 8
+AU  - J. Silvério
+AU  - Y. Huang
+AU  - L. Rozo
+AU  - S. Calinon
+AU  - D. G. Caldwell
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594103
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Learning Coordinated Vehicle Maneuver Motion Primitives from Human Demonstration
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6560
+EP  - 6565
+AU  - K. C. Mbanisi
+AU  - H. Kimpara
+AU  - T. Meier
+AU  - M. Gennert
+AU  - Z. Li
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593976
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Simultaneous End-User Programming of Goals and Actions for Robotic Shelf Organization
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6566
+EP  - 6573
+AU  - Y. S. Liang
+AU  - D. Pellier
+AU  - H. Fiorino
+AU  - S. Pesty
+AU  - M. Cakmak
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593518
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Incremental Skill Learning of Stable Dynamical Systems
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6574
+EP  - 6581
+AU  - M. Saveriano
+AU  - D. Lee
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594474
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Deeply Informed Neural Sampling for Robot Motion Planning
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6582
+EP  - 6588
+AU  - A. H. Qureshi
+AU  - M. C. Yip
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593772
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Inverse Learning of Robot Behavior for Collaborative Planning
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - M. Trivedi
+AU  - P. Doshi
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593745
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Multi-Cable Rolling Locomotion with Spherical Tensegrities Using Model Predictive Control and Deep Learning
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - B. Cera
+AU  - A. M. Agogino
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594401
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Integrating Path Planning and Pivoting
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6601
+EP  - 6608
+AU  - S. Cruciani
+AU  - C. Smith
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593584
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Rubik's Cube Handling Using a High-Speed Multi-Fingered Hand and a High-Speed Vision System
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6609
+EP  - 6614
+AU  - R. Higo
+AU  - Y. Yamakawa
+AU  - T. Senoo
+AU  - M. Ishikawa
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593538
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Contingent Contact-Based Motion Planning
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6615
+EP  - 6621
+AU  - E. Páll
+AU  - A. Sieverling
+AU  - O. Brock
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594365
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Lightweight Redundant Manipulator with High Stable Wireless Communication and Compliance Control
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6622
+EP  - 6627
+AU  - L. Han
+AU  - L. Yan
+AU  - W. Xu
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593500
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Cable-Driven Redundant Spatial Manipulator with Improved Stiffness and Load Capacity
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6628
+EP  - 6633
+AU  - T. Liu
+AU  - Z. Mu
+AU  - H. Wang
+AU  - W. Xu
+AU  - Y. Li
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593679
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Nonprehensile Pushing Manipulation Strategies for a Multi-Limb Robot*
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - G. Zhang
+AU  - S. Ma
+AU  - Y. Li
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593914
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Assisted Telemanipulation: A Stack-Of-Tasks Approach to Remote Manipulator Control
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - T. Stoyanov
+AU  - R. Krug
+AU  - A. Kiselev
+AU  - D. Sun
+AU  - A. Loutfi
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594457
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Admittance Control in Task-Priority Framework for Contact Force Control in Autonomous Underwater Floating Manipulation* This work is part of a project titled “Force/position control system to enable compliant manipulation from a floating I-AUV”, which received funding from the European Union's Horizon 2020 research and innovation programme, under the Marie Sklodowska-Curie grant agreement no. 750063.
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6646
+EP  - 6651
+AU  - P. Cieślak
+AU  - P. Ridao
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593542
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Optimizing Sensor Placement: A Mixture Model Framework Using Stable Poses and Sparsely Precomputed Pose Uncertainty Predictions
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6652
+EP  - 6659
+AU  - T. M. Iversen
+AU  - D. Kraft
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594121
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Robust 6D Object Pose Estimation in Cluttered Scenes Using Semantic Segmentation and Pose Regression Networks
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6660
+EP  - 6666
+AU  - A. S. Periyasamy
+AU  - M. Schwarz
+AU  - S. Behnke
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594406
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Transferring Visuomotor Learning from Simulation to the Real World for Robotics Manipulation Tasks
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6667
+EP  - 6674
+AU  - P. D. H. Nguyen
+AU  - T. Fischer
+AU  - H. J. Chang
+AU  - U. Pattacini
+AU  - G. Metta
+AU  - Y. Demiris
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594519
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Proprioception-Based Grasping for Unknown Objects Using a Series-Elastic-Actuated Gripper
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6675
+EP  - 6681
+AU  - T. Chen
+AU  - M. Ciocarlie
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593787
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Efficient State Estimation with Constrained Rao-Blackwellized Particle Filter
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6682
+EP  - 6689
+AU  - S. Li
+AU  - S. Lyu
+AU  - J. Trinkle
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594268
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Gripper for Object Search and Grasp Through Proximity Sensing
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - N. Yamaguchi
+AU  - S. Hasegawa
+AU  - K. Okada
+AU  - M. Inaba
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593572
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Exploring Vestibulo-Ocular Adaptation in a Closed-Loop Neuro-Robotic Experiment Using STDP. A Simulation Study
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - F. Naveros
+AU  - J. A. Garrido
+AU  - A. Arleo
+AU  - E. Ros
+AU  - N. R. Luque
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594019
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Interspecies Retargeting of Homologous Body Posture Based on Skeletal Morphing
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6712
+EP  - 6719
+AU  - K. Ayusawa
+AU  - Y. Ikegami
+AU  - A. Murai
+AU  - Y. Yoshiyasu
+AU  - E. Yoshida
+AU  - S. Oota
+AU  - Y. Nakamura
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594240
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Neurorobotic Approach to Study Huntington Disease Based on a Mouse Neuromusculoskeletal Model
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6720
+EP  - 6727
+AU  - S. Oota
+AU  - Y. Okamura-Oho
+AU  - K. Ayusawa
+AU  - Y. Ikegami
+AU  - A. Murai
+AU  - E. Yoshida
+AU  - Y. Nakamura
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594491
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Temporally Smooth Privacy-Protected Airborne Videos
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6728
+EP  - 6733
+AU  - O. Sarwar
+AU  - A. Cavallaro
+AU  - B. Rinner
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594493
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Impedance Based Force Control for Aerial Robot Peg-in-Hole Insertion Tasks
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6734
+EP  - 6739
+AU  - M. Car
+AU  - A. Ivanovic
+AU  - M. Orsag
+AU  - S. Bogdan
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593808
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Flatness-Based Model Predictive Control for Quadrotor Trajectory Tracking
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6740
+EP  - 6745
+AU  - M. Greeff
+AU  - A. P. Schoellig
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594012
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Lightweight and Compliant Long Reach Aerial Manipulator for Inspection Operations
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6746
+EP  - 6752
+AU  - A. Suarez
+AU  - P. Sanchez-Cuevas
+AU  - M. Fernandez
+AU  - M. Perez
+AU  - G. Heredia
+AU  - A. Ollero
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593940
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Model Predictive Trajectory Tracking and Collision Avoidance for Reliable Outdoor Deployment of Unmanned Aerial Vehicles
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6753
+EP  - 6760
+AU  - T. Baca
+AU  - D. Hert
+AU  - G. Loianno
+AU  - M. Saska
+AU  - V. Kumar
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594266
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Distributed Pressure Sensing for Enabling Self-Aware Autonomous Aerial Vehicles
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6769
+EP  - 6775
+AU  - D. Cellucci
+AU  - N. Cramer
+AU  - S. S. -. Swei
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593664
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Light-Weight Object Detection and Decision Making via Approximate Computing in Resource-Constrained Mobile Robots
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6776
+EP  - 6781
+AU  - P. Pandey
+AU  - Q. He
+AU  - D. Pompili
+AU  - R. Tron
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594200
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - SOS: Stereo Matching in O(1) with Slanted Support Windows
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6782
+EP  - 6789
+AU  - V. Tankovich
+AU  - M. Schoenberg
+AU  - S. R. Fanello
+AU  - A. Kowdle
+AU  - C. Rhemann
+AU  - M. Dzitsiuk
+AU  - M. Schmidt
+AU  - J. Valentin
+AU  - S. Izadi
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593800
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - The RobotriX: An Extremely Photorealistic and Very-Large-Scale Indoor Dataset of Sequences with Robot Trajectories and Interactions
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6790
+EP  - 6797
+AU  - A. Garcia-Garcia
+AU  - P. Martinez-Gonzalez
+AU  - S. Oprea
+AU  - J. A. Castro-Vargas
+AU  - S. Orts-Escolano
+AU  - J. Garcia-Rodriguez
+AU  - A. Jover-Alvarez
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594495
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Object Pose Estimation with Pose Interpreter Networks
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6798
+EP  - 6805
+AU  - J. Wu
+AU  - B. Zhou
+AU  - R. Russell
+AU  - V. Kee
+AU  - S. Wagner
+AU  - M. Hebert
+AU  - A. Torralba
+AU  - D. M. S. Johnson
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593662
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Coping with Context Change in Open-Ended Object Recognition without Explicit Context Information
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 7
+AU  - S. Hamidreza Kasaei
+AU  - L. Seabra Lopes
+AU  - A. Maria Tomé
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593922
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Fast Cylinder and Plane Extraction from Depth Cameras for Visual Odometry
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6813
+EP  - 6820
+AU  - P. F. Proença
+AU  - Y. Gao
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593516
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Attention-Aware Cross-Modal Cross-Level Fusion Network for RGB-D Salient Object Detection
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6821
+EP  - 6826
+AU  - H. Chen
+AU  - Y. Li
+AU  - D. Su
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594373
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Exploiting Points and Lines in Regression Forests for RGB-D Camera Relocalization
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6827
+EP  - 6834
+AU  - L. Meng
+AU  - F. Tung
+AU  - J. J. Little
+AU  - J. Valentin
+AU  - C. W. de Silva
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593505
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Incremental Object Database: Building 3D Models from Multiple Partial Observations
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6835
+EP  - 6842
+AU  - F. Furrer
+AU  - T. Novkovic
+AU  - M. Fehr
+AU  - A. Gawel
+AU  - M. Grinvald
+AU  - T. Sattler
+AU  - R. Siegwart
+AU  - J. Nieto
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594391
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Hybrid Bayesian Eigenobjects: Combining Linear Subspace and Deep Network Methods for 3D Robot Vision
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6843
+EP  - 6850
+AU  - B. Burchfiel
+AU  - G. Konidaris
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593795
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Submap-Based Pose-Graph Visual SLAM: A Robust Visual Exploration and Localization System* The work in this paper is supported by the National Natural Science Foundation of China (61603103, 61673125), the Natural Science Foundation of Guangdong of China (2016A030310293), and the Major Scientific and Technological Special Project of Guangdong of China (2016B090910003).
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6851
+EP  - 6856
+AU  - W. Chen
+AU  - L. Zhu
+AU  - Y. Guan
+AU  - C. R. Kube
+AU  - H. Zhang
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594097
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Active Object Perceiver: Recognition-Guided Policy Learning for Object Searching on Mobile Robots
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6857
+EP  - 6863
+AU  - X. Ye
+AU  - Z. Lin
+AU  - H. Li
+AU  - S. Zheng
+AU  - Y. Yang
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593720
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Learning Monocular Visual Odometry with Dense 3D Mapping from Dense 3D Flow
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6864
+EP  - 6871
+AU  - C. Zhao
+AU  - L. Sun
+AU  - P. Purkait
+AU  - T. Duckett
+AU  - R. Stolkin
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594151
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Key-Frame Strategy During Fast Image-Scale Changes and Zero Motion in VIO Without Persistent Features
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6872
+EP  - 6879
+AU  - E. Allak
+AU  - A. Hardt-Stremayr
+AU  - S. Weiss
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594170
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Unit Quaternion-Based Parameterization for Point Features in Visual Navigation
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6880
+EP  - 6886
+AU  - J. Maley
+AU  - G. Huang
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594206
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Edge-Based Robust RGB-D Visual Odometry Using 2-D Edge Divergence Minimization
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - C. Kim
+AU  - P. Kim
+AU  - S. Lee
+AU  - H. J. Kim
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593594
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Event-Based Moving Object Detection and Tracking
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - A. Mitrokhin
+AU  - C. Fermüller
+AU  - C. Parameshwara
+AU  - Y. Aloimonos
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593805
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Family of Iterative Gauss-Newton Shooting Methods for Nonlinear Optimal Control
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 9
+AU  - M. Giftthaler
+AU  - M. Neunert
+AU  - M. Stäuble
+AU  - J. Buchli
+AU  - M. Diehl
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593840
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Controller Synthesis for Discrete-Time Polynomial Systems via Occupation Measures
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6911
+EP  - 6918
+AU  - W. Han
+AU  - R. Tedrake
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594400
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Minimax Iterative Dynamic Game: Application to Nonlinear Robot Control Tasks
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6919
+EP  - 6925
+AU  - O. Ogunmolu
+AU  - N. Gans
+AU  - T. Summers
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594037
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Weighted Hybrid Admittance-Impedance Control with Human Intention Based Stiffness Estimation for Human-Robot Interaction
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 6
+AU  - H. Kim
+AU  - J. Kwon
+AU  - Y. Oh
+AU  - B. J. You
+AU  - W. Yang
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594435
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Multimodal Environment Dynamics for Interactive Robots: Towards Fault Detection and Task Monitoring
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6932
+EP  - 6937
+AU  - K. Haninger
+AU  - D. Surdilovic
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593650
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Estimating an Articulated Tool's Kinematics via Visuo-Tactile Based Robotic Interactive Manipulation
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6938
+EP  - 6944
+AU  - Q. Li
+AU  - A. Ückermann
+AU  - R. Haschke
+AU  - H. Ritter
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594295
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Algorithmization of Constrained Motion for Car-Like Robots Using the VFO Control Strategy with Parallelized Planning of Admissible Funnels
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6945
+EP  - 6951
+AU  - T. Gawron
+AU  - M. M. Michalek
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594402
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - ASPiC: An Acting System Based on Skill Petri Net Composition
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6952
+EP  - 6958
+AU  - C. Lesire
+AU  - F. Pommereau
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594328
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Static Kinematics for an Antagonistically Actuated Robot Based on a Beam-Mechanics-Based Model
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6959
+EP  - 6964
+AU  - A. Stilli
+AU  - E. Kolokotronis
+AU  - J. Fraś
+AU  - A. Ataka
+AU  - K. Althoefer
+AU  - H. A. Wurdemann
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593674
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Novel Soft Elbow Exosuit to Supplement Bicep Lifting Capacity
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6965
+EP  - 6971
+AU  - C. M. Thalman
+AU  - Q. P. Lam
+AU  - P. H. Nguyen
+AU  - S. Sridar
+AU  - P. Polygerinos
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594403
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Robotic Handling of Compliant Food Objects by Robust Learning from Demonstration
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6972
+EP  - 6979
+AU  - E. Misimi
+AU  - A. Olofsson
+AU  - A. Eilertsen
+AU  - E. R. Øye
+AU  - J. R. Mathiassen
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594368
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Closed-Loop Temperature Control of Nylon Artificial Muscles
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6980
+EP  - 6985
+AU  - C. S. Haines
+AU  - G. Niemeyer
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593599
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Acoustic Sensing for Soft Pneumatic Actuators
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6986
+EP  - 6991
+AU  - G. Zöller
+AU  - V. Wall
+AU  - O. Brock
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594396
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Flexible Fabric Actuator Realizing 3D Movements Like Human Body Surface for Wearable Devices
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6992
+EP  - 6997
+AU  - Y. Funabora
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594359
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Soft Biomimetic Prosthetic Hand: Design, Manufacturing and Preliminary Examination
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1
+EP  - 6
+AU  - J. Fras
+AU  - K. Althoefer
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593666
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A Novel All-in-One Manufacturing Process for a Soft Sensor System and its Application to a Soft Sensing Glove
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 7004
+EP  - 7009
+AU  - S. Kim
+AU  - D. Jeong
+AU  - J. Oh
+AU  - W. Park
+AU  - J. Bae
+PY  - 2018
+DO  - 10.1109/IROS.2018.8594389
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - On the Orientation Planning with Constrained Angular Velocity and Acceleration at Endpoints
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 7033
+EP  - 7038
+AU  - M. Shahbazi
+AU  - N. Kashiri
+AU  - D. Caldwell
+AU  - N. Tsagarakis
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593657
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - Coverage Path Planning with Adaptive Viewpoint Sampling to Construct 3D Models of Complex Structures for the Purpose of Inspection
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 7047
+EP  - 7054
+AU  - R. Almadhoun
+AU  - T. Taha
+AU  - D. Gan
+AU  - J. Dias
+AU  - Y. Zweiri
+AU  - L. Seneviratne
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593719
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+

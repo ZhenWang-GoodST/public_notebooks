@@ -1,0 +1,1215 @@
+TY  - CONF
+TI  - Adaptive motor control and learning in a spiking neural network realised on a mixed-signal neuromorphic processor
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9631
+EP  - 9637
+AU  - S. Glatz
+AU  - J. Martel
+AU  - R. Kreiser
+AU  - N. Qiao
+AU  - Y. Sandamirskaya
+PY  - 2019
+KW  - control engineering computing
+KW  - feedback
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - neural chips
+KW  - neurocontrollers
+KW  - adaptive motor control
+KW  - mixed-signal neuromorphic processor
+KW  - neuromorphic computing
+KW  - biological neural networks
+KW  - spiking neural network architecture
+KW  - sensory feedback
+KW  - control rotational velocity
+KW  - robotic vehicle
+KW  - correct motor command
+KW  - miniature mobile vehicle
+KW  - two-layer spiking neural network
+KW  - neuromorphic chip
+KW  - purely neuromorphic motor control
+KW  - spiking neurons
+KW  - neuromorphic device
+KW  - on-chip plastic synaptic weights
+KW  - Neuromorphics
+KW  - Neurons
+KW  - Biological neural networks
+KW  - Computer architecture
+KW  - Robot sensing systems
+KW  - Sociology
+DO  - 10.1109/ICRA.2019.8794145
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - Neuromorphic computing is a new paradigm for design of both the computing hardware and algorithms inspired by biological neural networks. The event-based nature and the inherent parallelism make neuromorphic computing a promising paradigm for building efficient neural network based architectures for control of fast and agile robots. In this paper, we present a spiking neural network architecture that uses sensory feedback to control rotational velocity of a robotic vehicle. When the velocity reaches the target value, the mapping from the target velocity of the vehicle to the correct motor command, both represented in the spiking neural network on the neuromorphic device, is autonomously stored on the device using on-chip plastic synaptic weights. We validate the controller using a wheel motor of a miniature mobile vehicle and inertia measurement unit as the sensory feedback and demonstrate online learning of a simple “inverse model” in a two-layer spiking neural network on the neuromorphic chip. The prototype neuromorphic device that features 256 spiking neurons allows us to realise a simple proof of concept architecture for the purely neuromorphic motor control and learning. The architecture can be easily scaled-up if a larger neuromorphic device is available.
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Genomic Evolution of Neural Network Topologies (AGENT) for State-to-Action Mapping in Autonomous Agents
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9638
+EP  - 9644
+AU  - A. Behjat
+AU  - S. Chidambaran
+AU  - S. Chowdhury
+PY  - 2019
+KW  - autonomous aerial vehicles
+KW  - collision avoidance
+KW  - genetic algorithms
+KW  - learning (artificial intelligence)
+KW  - neurocontrollers
+KW  - autonomous agents
+KW  - neural networks
+KW  - NN
+KW  - evolutionary algorithm
+KW  - state-to-action mapping model
+KW  - neuroevolution process
+KW  - population diversity
+KW  - unmanned aerial vehicle collision avoidance problem
+KW  - adaptive genomic evolution
+KW  - neural network topologies
+KW  - augmented topologies formalism
+KW  - Open AI platform
+KW  - UAV collision avoidance problem
+KW  - Genomics
+KW  - Topology
+KW  - Sociology
+KW  - Statistics
+KW  - Artificial neural networks
+KW  - Network topology
+DO  - 10.1109/ICRA.2019.8793613
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - Neuroevolution is a process of training neural networks (NN) through an evolutionary algorithm, usually to serve as a state-to-action mapping model in control or reinforcement learning-type problems. This paper builds on the Neuro Evolution of Augmented Topologies (NEAT) formalism that allows designing topology and weight evolving NNs. Fundamental advancements are made to the neuroevolution process to address premature stagnation and convergence issues, central among which is the incorporation of automated mechanisms to control the population diversity and average fitness improvement within the neuroevolution process. Insights into the performance and efficiency of the new algorithm is obtained by evaluating it on three benchmark problems from the Open AI platform and an Unmanned Aerial Vehicle (UAV) collision avoidance problem.
+ER  - 
+
+TY  - CONF
+TI  - End to End Learning of a Multi-Layered Snn Based on R-Stdp for a Target Tracking Snake-Like Robot
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9645
+EP  - 9651
+AU  - Z. Bing
+AU  - Z. Jiang
+AU  - L. Cheng
+AU  - C. Cai
+AU  - K. Huang
+AU  - A. Knoll
+PY  - 2019
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - neurocontrollers
+KW  - path planning
+KW  - target tracking
+KW  - multilayered SNN
+KW  - target tracking snake-like robot
+KW  - end-to-end learning approach
+KW  - R-STDP
+KW  - SNN controller
+KW  - target tracking tasks
+KW  - reward-modulated spike-timing-dependent plasticity
+KW  - multilayered spiking neural network
+KW  - learning algorithms
+KW  - lateral tracking
+KW  - Neurons
+KW  - Target tracking
+KW  - Task analysis
+KW  - Synapses
+KW  - Robot sensing systems
+KW  - Training
+DO  - 10.1109/ICRA.2019.8793774
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - This paper introduces an end-to-end learning approach based on Reward-modulated Spike-Timing-Dependent Plasticity (R-STDP) for a multi-layered spiking neural network (SNN). As a case study, a snake-like robot is used as an agent to perform target tracking tasks on the basis of our proposed approach. Since the key of R-STDP is to use rewards to modulate synapse strengthens, we first propose a general way to propagate the reward back through a multi-layered SNN. Upon the proposed approach, we build up an SNN controller that drives a snake-like robot for performing target tracking tasks. We demonstrate the practicability and advantage of our approach in terms of lateral tracking accuracy by comparing it to other state-of-the-art learning algorithms for SNNs based on R-STDP.
+ER  - 
+
+TY  - CONF
+TI  - Improving collective decision accuracy via time-varying cross-inhibition
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9652
+EP  - 9659
+AU  - M. S. Talamali
+AU  - J. A. R. Marshall
+AU  - T. Bose
+AU  - A. Reina
+PY  - 2019
+KW  - decision making
+KW  - multi-robot systems
+KW  - stochastic processes
+KW  - time-varying cross-inhibition
+KW  - decentralised decision-making
+KW  - robot swarm
+KW  - diffusive search
+KW  - decentralised algorithm
+KW  - house-hunting honeybees
+KW  - single decentralised parameter
+KW  - balance exploration
+KW  - swarm robotics simulations
+KW  - collective decision accuracy
+KW  - Robot sensing systems
+KW  - Robot kinematics
+KW  - Noise measurement
+KW  - Task analysis
+KW  - Swarm robotics
+KW  - Analytical models
+DO  - 10.1109/ICRA.2019.8794284
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - We investigate decentralised decision-making, in which a robot swarm is tasked with selecting the best-quality option among a set of alternatives. Individual robots are simplistic as they only perform diffusive search, make local noisy estimates of the options' quality, and exchange information with near neighbours. We propose a decentralised algorithm, inspired by house-hunting honeybees, to efficiently aggregate noisy estimations. Individual robots, by varying over time a single decentralised parameter that modulates the interaction strength, balance exploration and agreement. In this way, the swarm first identifies the options under consideration, then rapidly converges on the best available option, even when outnumbered by lower quality options. We present stochastic analyses and swarm robotics simulations to compare the novel strategy with previous methods and to quantify the performance improvement. The proposed strategy limits the spreading of errors within the population and allows swarms of simple noisy units with minimal communication capabilities to make highly accurate collective decisions in predictable time.
+ER  - 
+
+TY  - CONF
+TI  - A Motion Planning Scheme for Cooperative Loading Using Heterogeneous Robotic Agents
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9660
+EP  - 9666
+AU  - M. Logothetis
+AU  - P. Vlantis
+AU  - C. Vrohidis
+AU  - G. C. Karras
+AU  - K. J. Kyriakopoulos
+PY  - 2019
+KW  - collision avoidance
+KW  - mobile robots
+KW  - motion control
+KW  - probability
+KW  - obstacle avoidance
+KW  - robotic agents
+KW  - probabilistic road maps technique
+KW  - cooperative loading task
+KW  - redundant static manipulator
+KW  - mobile platform
+KW  - static obstacles
+KW  - cluttered workspace
+KW  - control architecture
+KW  - decentralized motion planning
+KW  - motion planning scheme
+KW  - convergence properties
+KW  - motion control scheme
+KW  - optimal loading configuration
+KW  - Manipulators
+KW  - Loading
+KW  - Task analysis
+KW  - Robot kinematics
+KW  - Kinematics
+KW  - Mobile robots
+DO  - 10.1109/ICRA.2019.8794323
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - In this work, we present a decentralized motion planning and control architecture for the cooperative loading task using heterogeneous robotic agents operating in a cluttered workspace with static obstacles. Initially, we tackle the problem of calculating a set of feasible loading configurations via a Probabilistic Road Maps technique. Next, an optimal loading configuration is selected considering the connectivity of the space and the Euclidean distance between the robotic agents. A motion control scheme for each agent is designed and implemented in order to autonomously guide each robot to the desired loading configuration with guaranteed obstacle avoidance and convergence properties. The performance and the applicability of the proposed strategy is experimentally verified in a variety of loading scenarios using a redundant static manipulator and a mobile platform.
+ER  - 
+
+TY  - CONF
+TI  - Voluntary Retreat for Decentralized Interference Reduction in Robot Swarms
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9667
+EP  - 9673
+AU  - S. Mayya
+AU  - P. Pierpaoli
+AU  - M. Egerstedt
+PY  - 2019
+KW  - decentralised control
+KW  - mobile robots
+KW  - multi-robot systems
+KW  - decentralized interference reduction
+KW  - densely-packed robot swarms
+KW  - confined regions
+KW  - physical space-forces robots
+KW  - decentralized algorithm
+KW  - distributed collection task
+KW  - spatial interference
+KW  - Robot kinematics
+KW  - Robot sensing systems
+KW  - Collision avoidance
+KW  - Task analysis
+KW  - Interference
+KW  - Analytical models
+DO  - 10.1109/ICRA.2019.8794124
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - In densely-packed robot swarms operating in confined regions, spatial interference-which manifests itself as a competition for physical space-forces robots to spend more time navigating around each other rather than performing the primary task. This paper develops a decentralized algorithm that enables individual robots to decide whether to stay in the region and contribute to the overall mission, or vacate the region so as to reduce the negative effects that interference has on the overall efficiency of the swarm. We develop this algorithm in the context of a distributed collection task, where a team of robots collect and deposit objects from one set of locations to another in a given region. Robots do not communicate and use only binary information regarding the presence of other robots around them to make the decision to stay or retreat. We illustrate the efficacy of the algorithm with experiments on a team of real robots.
+ER  - 
+
+TY  - CONF
+TI  - Spatial Coverage Without Computation
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9674
+EP  - 9680
+AU  - A. Özdemir
+AU  - M. Gauci
+AU  - A. Kolling
+AU  - M. D. Hall
+AU  - R. Groß
+PY  - 2019
+KW  - mobile robots
+KW  - multi-robot systems
+KW  - navigation
+KW  - path planning
+KW  - random processes
+KW  - robot redundancy
+KW  - optimized random walk
+KW  - performance improvements
+KW  - sub-millimeter-sized robots
+KW  - spatial coverage
+KW  - anonymous robots
+KW  - mobile robots
+KW  - two-dimensional space
+KW  - extremely simple robots
+KW  - run-time computation
+KW  - computer simulations
+KW  - deterministic controller
+KW  - off-line optimization
+KW  - physical e-puck robots
+KW  - Robot kinematics
+KW  - Robot sensing systems
+KW  - Mobile robots
+KW  - Wheels
+KW  - Area measurement
+DO  - 10.1109/ICRA.2019.8793731
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - We study the problem of controlling a swarm of anonymous, mobile robots to cooperatively cover an unknown two-dimensional space. The novelty of our proposed solution is that it is applicable to extremely simple robots that lack run-time computation or storage. The solution requires only a single bit of information per robot-whether or not another robot is present in its line of sight. Computer simulations show that our deterministic controller, which was obtained through off-line optimization, achieves around 71-76% coverage in a test scenario with no robot redundancy, which corresponds to a 26-39% reduction of the area that is not covered, when compared to an optimized random walk. A moderately lower level of performance was observed in 20 experimental trials with 25 physical e-puck robots. Moreover, we demonstrate that the same controller can be used in environments of different dimensions and even to navigate a maze. The controller provides a baseline against which one can quantify the performance improvements that more advanced and expensive techniques may offer. Moreover, due to its simplicity, it could potentially be implemented on swarms of sub-millimeter-sized robots. This would pave the way for new applications in micro-medicine.
+ER  - 
+
+TY  - CONF
+TI  - DeepSignals: Predicting Intent of Drivers Through Visual Signals
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9697
+EP  - 9703
+AU  - D. Frossard
+AU  - E. Kee
+AU  - R. Urtasun
+PY  - 2019
+KW  - alarm systems
+KW  - belief networks
+KW  - image sequences
+KW  - learning (artificial intelligence)
+KW  - neural nets
+KW  - psychology
+KW  - traffic engineering computing
+KW  - video signal processing
+KW  - driver intention detection
+KW  - emergency flashers
+KW  - turn signals
+KW  - stops
+KW  - lane changes
+KW  - sudden events
+KW  - visual signals
+KW  - DeepSignals
+KW  - temporal information
+KW  - spatial information
+KW  - deep neural network
+KW  - video sequences
+KW  - potentially critical reaction time
+KW  - Feature extraction
+KW  - Convolution
+KW  - Vehicles
+KW  - Visualization
+KW  - Streaming media
+KW  - Computer architecture
+KW  - Logic gates
+DO  - 10.1109/ICRA.2019.8794214
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - Detecting the intention of drivers is an essential task in self-driving, necessary to anticipate sudden events like lane changes and stops. Turn signals and emergency flashers communicate such intentions, providing seconds of potentially critical reaction time. In this paper, we propose to detect these signals in video sequences by using a deep neural network that reasons about both spatial and temporal information. Our experiments on more than a million frames show high per-frame accuracy in very challenging scenarios.
+ER  - 
+
+TY  - CONF
+TI  - Real-time Intent Prediction of Pedestrians for Autonomous Ground Vehicles via Spatio-Temporal DenseNet
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9704
+EP  - 9710
+AU  - K. Saleh
+AU  - M. Hossny
+AU  - S. Nahavandi
+PY  - 2019
+KW  - cameras
+KW  - control engineering computing
+KW  - image colour analysis
+KW  - image sequences
+KW  - mobile robots
+KW  - object detection
+KW  - object tracking
+KW  - pedestrians
+KW  - road traffic
+KW  - traffic engineering computing
+KW  - pedestrians
+KW  - complex environments
+KW  - vulnerable road users
+KW  - intent action prediction
+KW  - urban traffic environments
+KW  - monocular RGB camera
+KW  - tracking-by-detection technique
+KW  - spatio-temporal DenseNet model
+KW  - autonomous ground vehicles
+KW  - image sequences
+KW  - real-time intent prediction
+KW  - Real-time systems
+KW  - Task analysis
+KW  - Predictive models
+KW  - Two dimensional displays
+KW  - Image sequences
+KW  - Cameras
+KW  - Activity recognition
+DO  - 10.1109/ICRA.2019.8793991
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - Understanding the behaviors and intentions of humans are one of the main challenges autonomous ground vehicles still faced with. More specifically, when it comes to complex environments such as urban traffic scenes, inferring the intentions and actions of vulnerable road users such as pedestrians become even harder. In this paper, we address the problem of intent action prediction of pedestrians in urban traffic environments using only image sequences from a monocular RGB camera. We propose a real-time framework that can accurately detect, track and predict the intended actions of pedestrians based on a tracking-by-detection technique in conjunction with a novel spatio-temporal DenseNet model. We trained and evaluated our framework based on real data collected from urban traffic environments. Our framework has shown resilient and competitive results in comparison to other baseline approaches. Overall, we achieved an average precision score of 84.76% with real-time performance at 20 FPS.
+ER  - 
+
+TY  - CONF
+TI  - Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9711
+EP  - 9717
+AU  - Y. Yao
+AU  - M. Xu
+AU  - C. Choi
+AU  - D. J. Crandall
+AU  - E. M. Atkins
+AU  - B. Dariush
+PY  - 2019
+KW  - driver information systems
+KW  - image coding
+KW  - image sequences
+KW  - recurrent neural nets
+KW  - road vehicles
+KW  - egocentric vision-based future vehicle localization
+KW  - intelligent driving assistance systems
+KW  - safety-critical applications
+KW  - autonomous driving
+KW  - target vehicles
+KW  - first-person view
+KW  - ego-vehicle
+KW  - multistream recurrent neural network encoder-decoder model
+KW  - object location
+KW  - pixel-level observations
+KW  - future motion
+KW  - prediction accuracy
+KW  - intelligent vehicles
+KW  - automated vehicles
+KW  - motion planning capability
+KW  - vehicle trajectories
+KW  - dense optical flow
+KW  - Trajectory
+KW  - Cameras
+KW  - Optical imaging
+KW  - Decoding
+KW  - Videos
+KW  - Predictive models
+KW  - Advanced driver assistance systems
+DO  - 10.1109/ICRA.2019.8794474
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - Predicting the future location of vehicles is essential for safety-critical applications such as advanced driver assistance systems (ADAS) and autonomous driving. This paper introduces a novel approach to simultaneously predict both the location and scale of target vehicles in the first-person (egocentric) view of an ego-vehicle. We present a multi-stream recurrent neural network (RNN) encoder-decoder model that separately captures both object location and scale and pixel-level observations for future vehicle localization. We show that incorporating dense optical flow improves prediction results significantly since it captures information about motion as well as appearance change. We also find that explicitly modeling future motion of the ego-vehicle improves the prediction accuracy, which could be especially beneficial in intelligent and automated vehicles that have motion planning capability. To evaluate the performance of our approach, we present a new dataset of first-person videos collected from a variety of scenarios at road intersections, which are particularly challenging moments for prediction because vehicle trajectories are diverse and dynamic. Code and dataset have been made available at: https://usa.honda-ri.com/hevi.
+ER  - 
+
+TY  - CONF
+TI  - Uncertainty-Aware Driver Trajectory Prediction at Urban Intersections
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9718
+EP  - 9724
+AU  - X. Huang
+AU  - S. G. McGill
+AU  - B. C. Williams
+AU  - L. Fletcher
+AU  - G. Rosman
+PY  - 2019
+KW  - driver information systems
+KW  - neural nets
+KW  - road safety
+KW  - road traffic
+KW  - road vehicles
+KW  - variational neural network approach
+KW  - multiple sensors
+KW  - conditional variational distribution
+KW  - confidence estimate
+KW  - different time horizons
+KW  - additional predictors
+KW  - variational predictor
+KW  - physics-based predictor
+KW  - confidence estimations
+KW  - system performance
+KW  - vehicle autonomy
+KW  - real-world urban driving data
+KW  - prediction error
+KW  - physics-based model
+KW  - uncertainty-aware driver trajectory prediction
+KW  - urban intersections
+KW  - advanced driving systems
+KW  - shared control
+KW  - automation systems
+KW  - uncertain situations
+KW  - driver trajectory distributions
+KW  - Trajectory
+KW  - Vehicles
+KW  - Predictive models
+KW  - Sensors
+KW  - Uncertainty
+KW  - Autonomous systems
+KW  - Task analysis
+DO  - 10.1109/ICRA.2019.8794282
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - Predicting the motion of a driver's vehicle is crucial for advanced driving systems, enabling detection of potential risks towards shared control between the driver and automation systems. In this paper, we propose a variational neural network approach that predicts future driver trajectory distributions for the vehicle based on multiple sensors. Our predictor generates both a conditional variational distribution of future trajectories, as well as a confidence estimate for different time horizons. Our approach allows us to handle inherently uncertain situations, and reason about information gain from each input, as well as combine our model with additional predictors, creating a mixture of experts. We show how to augment the variational predictor with a physics-based predictor, and based on their confidence estimations, improve overall system performance. The resulting combined model is aware of the uncertainty associated with its predictions, which can help the vehicle autonomy to make decisions with more confidence. The model is validated on real-world urban driving data collected in multiple locations. This validation demonstrates that our approach improves the prediction error of a physics-based model by 25% while successfully identifying the uncertain cases with 82% accuracy.
+ER  - 
+
+TY  - CONF
+TI  - Go with the Flow: Exploration and Mapping of Pedestrian Flow Patterns from Partial Observations
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9725
+EP  - 9731
+AU  - S. Molina
+AU  - G. Cielniak
+AU  - T. Duckett
+PY  - 2019
+KW  - mobile robots
+KW  - navigation
+KW  - path planning
+KW  - pedestrians
+KW  - stochastic processes
+KW  - pedestrian flow patterns
+KW  - partial observations
+KW  - safe robot navigation
+KW  - spatial constraints
+KW  - temporal constraints
+KW  - multiple Poisson processes
+KW  - long-term pedestrian datasets
+KW  - uninformed exploration strategies
+KW  - human motion patterns
+KW  - robot navigation
+KW  - Robots
+KW  - Uncertainty
+KW  - Predictive models
+KW  - Buildings
+KW  - Probabilistic logic
+KW  - Data models
+KW  - Collision avoidance
+DO  - 10.1109/ICRA.2019.8794434
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - Understanding how people are likely to behave in an environment is a key requirement for efficient and safe robot navigation. However, mobile platforms are subject to spatial and temporal constraints, meaning that only partial observations of human activities are typically available to a robot, while the activity patterns of people in a given environment may also change at different times. To address these issues we present as the main contribution an exploration strategy for acquiring models of pedestrian flows, which decides not only the locations to explore but also the times when to explore them. The approach is driven by the uncertainty from multiple Poisson processes built from past observations. The approach is evaluated using two long-term pedestrian datasets, comparing its performance against uninformed exploration strategies. The results show that when using the uncertainty in the exploration policy, model accuracy increases, enabling faster learning of human motion patterns.
+ER  - 
+
+TY  - CONF
+TI  - Design and Analysis of A Miniature Two-Wheg Climbing Robot with Robust Internal and External Transitioning Capabilities
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9740
+EP  - 9746
+AU  - D. C. Y. Koh
+AU  - A. G. Dharmawan
+AU  - H. H. Hariri
+AU  - G. S. Soh
+AU  - S. Foong
+AU  - R. Bouffanais
+AU  - H. Y. Low
+AU  - K. L. Wood
+PY  - 2019
+KW  - actuators
+KW  - design engineering
+KW  - legged locomotion
+KW  - robot kinematics
+KW  - climbing robot
+KW  - robust external transitioning capabilities
+KW  - robust internal transitioning capabilities
+KW  - 4-way external transitions
+KW  - 4-way internal transitions
+KW  - indepth force analysis
+KW  - robust transitioning capabilities
+KW  - two-wheg miniature
+KW  - plane-to-plane transitioning
+KW  - Climbing robots
+KW  - Force
+KW  - Robot kinematics
+KW  - Task analysis
+KW  - Adhesives
+KW  - Torque
+DO  - 10.1109/ICRA.2019.8793910
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - Plane-to-plane transitioning has been a significant challenge for climbing robots. To accomplish this, additional actuator or robot module is usually required which significantly increases both size and weight of the robot. This paper presents a two-wheg miniature climbing robot with a novel passive vertical tail component which results in robust transitioning capabilities. The design decision was derived from an indepth force analysis of the climbing robot while performing the transition. The theoretical analysis is verified through a working prototype with robust transitioning capabilities whose performance follows closely the analytical prediction. The climbing robot is able to climb any slope angles, 4-way internal transitions, and 4-way external transitions. This work contributes to the understanding and advancement of the transitioning capabilities and the design of a simple climbing robot, which expands the possibilities of scaling down miniature climbing robot further.
+ER  - 
+
+TY  - CONF
+TI  - Design and Implementation of CCRobot-II: a Palm-based Cable Climbing Robot for Cable-stayed Bridge Inspection
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9747
+EP  - 9753
+AU  - Z. Zheng
+AU  - N. Ding
+PY  - 2019
+KW  - bridges (structures)
+KW  - cables (mechanical)
+KW  - design engineering
+KW  - inspection
+KW  - legged locomotion
+KW  - wheels
+KW  - cable-stayed bridge inspection
+KW  - design method
+KW  - bio-inspired climbing robotic technology
+KW  - palm-based gripping module
+KW  - wheels
+KW  - climbing gait
+KW  - trajectory algorithm
+KW  - mass 25.0 kg
+KW  - mass 30.0 kg
+KW  - size 1.1 m
+KW  - Bridges
+KW  - Climbing robots
+KW  - Force
+KW  - Wheels
+KW  - Inspection
+DO  - 10.1109/ICRA.2019.8793562
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - This project aims at developing a bio-inspired climbing robotic technology for cable inspection on the cable-stayed bridge. The design and implementation of a palm-based cable climbing robot: CCRobot-II with mass 25 kg, maximal payload 30kg and maximal length 1.1 m are described. CCRobot-II consists of several novel design features, including the palm-based gripping module, the alternating-sliding frame specialized for high-speed climbing, and the following wheels. With its carefully designed mechanism, climbing gait and trajectory algorithm, CCRobot-II is able to crawl along a bridge cable with a maximal speed 5.2 m/min. This speed has been hardly achieved by a existing climbing robot with such a large scale, and it is nearly the twice as the climbing speed of CCRobot-I which is designed previously. CCRobot-II also works effectively even if the bridge cable surface is attached with small obstacles. Experiments have been conducted, the results show that CCRobot-II has potential engineering applications on the cable-stayed bridge for fieldwork.
+ER  - 
+
+TY  - CONF
+TI  - Dynamic Modeling and Gait Analysis for Miniature Robots in the Absence of Foot Placement Control
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9754
+EP  - 9760
+AU  - M. Askari
+AU  - O. Özcan
+PY  - 2019
+KW  - gait analysis
+KW  - humanoid robots
+KW  - legged locomotion
+KW  - microrobots
+KW  - robot dynamics
+KW  - dynamic modeling
+KW  - gait analysis
+KW  - foot placement control
+KW  - comprehensive dynamic model
+KW  - miniature foldable robot
+KW  - gait planning
+KW  - foot placement
+KW  - miniature robots
+KW  - MinIAQ-II robot
+KW  - Legged locomotion
+KW  - Foot
+KW  - Kinematics
+KW  - Mathematical model
+KW  - Robot kinematics
+KW  - Robot sensing systems
+KW  - Origami-Inspired Robots
+KW  - Foldable Robots
+KW  - Miniature Robots
+KW  - Legged Robots
+KW  - Gait Analysis
+KW  - Dynamics
+DO  - 10.1109/ICRA.2019.8793533
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - The study of animals and insects have led to realization that animals select their gaits, patterns of leg movement, according to speed. For proper gait planning, the legs must be controlled for proper foot placement with respect to the body motion and ground interactions. However, in small scale robotic platforms gait planning through foot placement control is neither cost effective nor easily attainable due to a lack of available sensors. Thus, even though a desired gait is envisioned at the design phase, it is not known whether the gait is optimum. In this work, we present the comprehensive dynamic model of the miniature foldable robot, MinIAQ-II, which has four independently actuated legs. Dynamic model is used to perform gait analysis, to investigate the difference between the intended gait and the achieved gait in the absence of foot placement control. The model is verified through slow speed walking experiments on flat terrain. The work presented can be modified for different miniature robots with passive legs to predict their locomotion under no foot placement control.
+ER  - 
+
+TY  - CONF
+TI  - Memory Efficient Experience Replay for Streaming Learning
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9769
+EP  - 9776
+AU  - T. L. Hayes
+AU  - N. D. Cahill
+AU  - C. Kanan
+PY  - 2019
+KW  - cognition
+KW  - learning (artificial intelligence)
+KW  - neural nets
+KW  - neurophysiology
+KW  - learning settings
+KW  - memory efficient experience replay
+KW  - supervised machine learning
+KW  - static settings
+KW  - data stream
+KW  - streaming learning
+KW  - conventional deep neural networks
+KW  - full rehearsal
+KW  - memory efficient rehearsal
+KW  - ExStream algorithm
+KW  - Clustering algorithms
+KW  - Training
+KW  - Prototypes
+KW  - Robots
+KW  - Buffer storage
+KW  - Partitioning algorithms
+KW  - Neural networks
+DO  - 10.1109/ICRA.2019.8793982
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - In supervised machine learning, an agent is typically trained once and then deployed. While this works well for static settings, robots often operate in changing environments and must quickly learn new things from data streams. In this paradigm, known as streaming learning, a learner is trained online, in a single pass, from a data stream that cannot be assumed to be independent and identically distributed (iid). Streaming learning will cause conventional deep neural networks (DNNs) to fail for two reasons: 1) they need multiple passes through the entire dataset; and 2) non-iid data will cause catastrophic forgetting. An old fix to both of these issues is rehearsal. To learn a new example, rehearsal mixes it with previous examples, and then this mixture is used to update the DNN. Full rehearsal is slow and memory intensive because it stores all previously observed examples, and its effectiveness for preventing catastrophic forgetting has not been studied in modern DNNs. Here, we describe the ExStream algorithm for memory efficient rehearsal and compare it to alternatives. We find that full rehearsal can eliminate catastrophic forgetting in a variety of streaming learning settings, with ExStream performing well using far less memory and computation.
+ER  - 
+
+TY  - CONF
+TI  - RoboCSE: Robot Common Sense Embedding
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9777
+EP  - 9783
+AU  - A. Daruna
+AU  - W. Liu
+AU  - Z. Kira
+AU  - S. Chetnova
+PY  - 2019
+KW  - belief networks
+KW  - embedded systems
+KW  - home automation
+KW  - mobile robots
+KW  - service robots
+KW  - statistical analysis
+KW  - RoboCSE
+KW  - robot common sense embedding
+KW  - autonomous service robots
+KW  - semantic knowledge
+KW  - AI2Thor
+KW  - statistical significant
+KW  - home environment simulator
+KW  - Word2Vec
+KW  - Bayesian logic network
+KW  - MatterPort3D
+KW  - Semantics
+KW  - Training
+KW  - Robot sensing systems
+KW  - Cognition
+KW  - Computational modeling
+KW  - Training data
+DO  - 10.1109/ICRA.2019.8794070
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - Autonomous service robots require computational frameworks that allow them to generalize knowledge to new situations in a manner that models uncertainty while scaling to real-world problem sizes. The Robot Common Sense Embedding (RoboCSE) showcases a class of computational frameworks, multi-relational embeddings, that have not been leveraged in robotics to model semantic knowledge. We validate RoboCSE on a realistic home environment simulator (AI2Thor) to measure how well it generalizes learned knowledge about object affordances, locations, and materials. Our experiments show that RoboCSE can perform prediction better than a baseline that uses pre-trained embeddings, such as Word2Vec, achieving statistically significant improvements while using orders of magnitude less memory than our Bayesian Logic Network baseline. In addition, we show that predictions made by RoboCSE are robust to significant reductions in data available for training as well as domain transfer to MatterPort3D, achieving statistically significant improvements over a baseline that memorizes training data.
+ER  - 
+
+TY  - CONF
+TI  - Neural Lander: Stable Drone Landing Control Using Learned Dynamics
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9784
+EP  - 9790
+AU  - G. Shi
+AU  - X. Shi
+AU  - M. O’Connell
+AU  - R. Yu
+AU  - K. Azizzadenesheli
+AU  - A. Anandkumar
+AU  - Y. Yue
+AU  - S. Chung
+PY  - 2019
+KW  - aerodynamics
+KW  - aircraft control
+KW  - autonomous aerial vehicles
+KW  - control system synthesis
+KW  - feedback
+KW  - helicopters
+KW  - learning (artificial intelligence)
+KW  - linearisation techniques
+KW  - neurocontrollers
+KW  - nonlinear control systems
+KW  - robust control
+KW  - trajectory control
+KW  - cross-table trajectory tracking cases
+KW  - Neural Lander
+KW  - stable drone landing control
+KW  - learned dynamics
+KW  - precise near-ground trajectory control
+KW  - multirotor drones
+KW  - complex aerodynamic effects
+KW  - multirotor airflow
+KW  - complex effects
+KW  - smooth landing
+KW  - robust nonlinear controller
+KW  - control performance
+KW  - nominal dynamics model
+KW  - Deep Neural Network
+KW  - high-order interactions
+KW  - Lipschitz constant
+KW  - Lipschitz property
+KW  - nonlinear feedback linearization controller
+KW  - DNN-based nonlinear feedback controller
+KW  - arbitrarily large neural nets
+KW  - Baseline Nonlinear Tracking Controller
+KW  - Aerodynamics
+KW  - Stability analysis
+KW  - Rotors
+KW  - Neural networks
+KW  - Trajectory tracking
+KW  - Training
+KW  - Vehicle dynamics
+DO  - 10.1109/ICRA.2019.8794351
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - Precise near-ground trajectory control is difficult for multi-rotor drones, due to the complex aerodynamic effects caused by interactions between multi-rotor airflow and the environment. Conventional control methods often fail to properly account for these complex effects and fall short in accomplishing smooth landing. In this paper, we present a novel deep-learning-based robust nonlinear controller (Neural-Lander) that improves control performance of a quadrotor during landing. Our approach combines a nominal dynamics model with a Deep Neural Network (DNN) that learns high-order interactions. We apply spectral normalization (SN) to constrain the Lipschitz constant of the DNN. Leveraging this Lipschitz property, we design a nonlinear feedback linearization controller using the learned model and prove system stability with disturbance rejection. To the best of our knowledge, this is the first DNN-based nonlinear feedback controller with stability guarantees that can utilize arbitrarily large neural nets. Experimental results demonstrate that the proposed controller significantly outperforms a Baseline Nonlinear Tracking Controller in both landing and cross-table trajectory tracking cases. We also empirically show that the DNN generalizes well to unseen data outside the training domain.
+ER  - 
+
+TY  - CONF
+TI  - Distributional Deep Reinforcement Learning with a Mixture of Gaussians
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9791
+EP  - 9797
+AU  - Y. Choi
+AU  - K. Lee
+AU  - S. Oh
+PY  - 2019
+KW  - Gaussian processes
+KW  - learning (artificial intelligence)
+KW  - statistical distributions
+KW  - discrete distribution
+KW  - softmax parametrization
+KW  - KL divergence loss
+KW  - discretization hyperparameters
+KW  - Atari games
+KW  - distributional deep reinforcement learning
+KW  - mixture density network
+KW  - return distribution
+KW  - mixtures of Gaussians
+KW  - Jensen-Tsallis distance
+KW  - autonomous vehicle driving
+KW  - Measurement
+KW  - Reinforcement learning
+KW  - Games
+KW  - Approximation algorithms
+KW  - Neural networks
+KW  - Autonomous vehicles
+KW  - Stochastic processes
+DO  - 10.1109/ICRA.2019.8793505
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - In this paper, we propose a novel distributional reinforcement learning (RL) method which models the distribution of the sum of rewards using a mixture density network. Recently, it has been shown that modeling the randomness of the return distribution leads to better performance in Atari games and control tasks. Despite the success of the prior work, it has limitations which come from the use of a discrete distribution. First, it needs a projection step and softmax parametrization for the distribution, since it minimizes the KL divergence loss. Secondly, its performance depends on discretization hyperparameters such as the number of atoms and bounds of the support which require domain knowledge. We mitigate these problems with the proposed parameterization, a mixture of Gaussians. Furthermore, we propose a new distance metric called the Jensen-Tsallis distance, which allows the computation of the distance between two mixtures of Gaussians in a closed form. We have conducted various experiments to validate the proposed method, including Atari games and autonomous vehicle driving.
+ER  - 
+
+TY  - CONF
+TI  - Jointly Learning to Construct and Control Agents using Deep Reinforcement Learning
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9798
+EP  - 9805
+AU  - C. Schaff
+AU  - D. Yunis
+AU  - A. Chakrabarti
+AU  - M. R. Walter
+PY  - 2019
+KW  - learning (artificial intelligence)
+KW  - legged locomotion
+KW  - optimisation
+KW  - control policy
+KW  - walking gaits
+KW  - deep reinforcement learning
+KW  - learning-based approaches
+KW  - control network
+KW  - design distribution
+KW  - controller access
+KW  - design parameters
+KW  - legged locomotion
+KW  - physical design
+KW  - Physical design
+KW  - Optimization
+KW  - Reinforcement learning
+KW  - Training
+KW  - Legged locomotion
+KW  - Task analysis
+DO  - 10.1109/ICRA.2019.8793537
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - The physical design of a robot and the policy that controls its motion are inherently coupled, and should be determined according to the task and environment. In an increasing number of applications, data-driven and learning-based approaches, such as deep reinforcement learning, have proven effective at designing control policies. For most tasks, the only way to evaluate a physical design with respect to such control policies is empirical-i.e., by picking a design and training a control policy for it. Since training these policies is time-consuming, it is computationally infeasible to train separate policies for all possible designs as a means to identify the best one. In this work, we address this limitation by introducing a method that jointly optimizes over the physical design and control network. Our approach maintains a distribution over designs and uses reinforcement learning to optimize a control policy to maximize expected reward over the design distribution. We give the controller access to design parameters to allow it to tailor its policy to each design in the distribution. Throughout training, we shift the distribution towards higher-performing designs, eventually converging to a design and control policy that are jointly optimal. We evaluate our approach in the context of legged locomotion, and demonstrate that it discovers novel designs and walking gaits, outperforming baselines across different settings.
+ER  - 
+
+TY  - CONF
+TI  - DeltaMag: An Electromagnetic Manipulation System with Parallel Mobile Coils
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9814
+EP  - 9820
+AU  - L. Yang
+AU  - X. Du
+AU  - E. Yu
+AU  - D. Jin
+AU  - L. Zhang
+PY  - 2019
+KW  - biomagnetism
+KW  - calibration
+KW  - catheters
+KW  - closed loop systems
+KW  - coils
+KW  - electromagnetic actuators
+KW  - magnetic fields
+KW  - manipulators
+KW  - medical robotics
+KW  - microrobots
+KW  - position control
+KW  - magnetic capsule mock-up
+KW  - magnetic catheter mock-up
+KW  - magnetic field computation
+KW  - embedded system
+KW  - multiple parallel mobile coils
+KW  - 3D magnetic field
+KW  - single coil
+KW  - field distribution
+KW  - calibrated mathematical model
+KW  - good space utilization
+KW  - magnetic fields
+KW  - electromagnetic coils
+KW  - proof-of-concept prototype
+KW  - parallel mechanism
+KW  - enlarged workspace
+KW  - magnetic untethered devices
+KW  - remote actuation
+KW  - novel magnetic manipulation system
+KW  - electromagnetic manipulation system
+KW  - DeltaMag
+KW  - Coils
+KW  - Magnetic devices
+KW  - Synchronous motors
+KW  - Three-dimensional displays
+KW  - Prototypes
+KW  - Catheters
+KW  - Computational modeling
+DO  - 10.1109/ICRA.2019.8793543
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - In this paper, a novel magnetic manipulation system using mobile coils for remote actuation of magnetic untethered devices in an enlarged workspace is proposed and studied. A parallel mechanism is implemented to actuate the mobile coils. A proof-of-concept prototype is designed and constructed, namely the DeltaMag, which includes three electromagnetic coils for generating magnetic fields and three motors for actuation of the coils. It has good space utilization: ratio between the diameter of the workspace and the diameter of the whole prototype reaches 0.7.A calibrated mathematical model is developed for the field distribution of a single coil, which has an average error of 8.75%. Then, we introduce a calculation method for the 3D magnetic field at any working position for the configuration of multiple parallel mobile coils. Moreover, an embedded system is established for actuating the parallel mechanism, whose pose is fed back via serial communication for magnetic field computation. A vision based approach is developed for closed-loop control of the parallel mechanism. Furthermore, experiments demonstrate the capabilities of the DeltaMag for manipulation of a magnetic catheter mock-up and a magnetic capsule mock-up in a workspace with a diameter more than 200 mm.
+ER  - 
+
+TY  - CONF
+TI  - Surgical instrument segmentation for endoscopic vision with data fusion of cnn prediction and kinematic pose
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9821
+EP  - 9827
+AU  - F. Qin
+AU  - Y. Li
+AU  - Y. Su
+AU  - D. Xu
+AU  - B. Hannaford
+PY  - 2019
+KW  - convolutional neural nets
+KW  - endoscopes
+KW  - feature extraction
+KW  - image segmentation
+KW  - learning (artificial intelligence)
+KW  - medical image processing
+KW  - object tracking
+KW  - particle filtering (numerical methods)
+KW  - pose estimation
+KW  - sensor fusion
+KW  - surgery
+KW  - endoscopic vision
+KW  - data fusion
+KW  - robust surgical instrument segmentation
+KW  - instrument segmentation method
+KW  - convolutional neural networks prediction
+KW  - kinematic pose information
+KW  - CNN model ToolNet-C
+KW  - convolutional feature extractor
+KW  - pixel-wise segmentor
+KW  - labeled images
+KW  - silhouette projection
+KW  - instrument body
+KW  - endoscopic image
+KW  - shape matching likelihood
+KW  - accurate silhouette mask
+KW  - final segmentation output
+KW  - surgical navigation system
+KW  - debrider instrument
+KW  - unlabeled images
+KW  - Instruments
+KW  - Image segmentation
+KW  - Feature extraction
+KW  - Kinematics
+KW  - Training
+KW  - Shape
+KW  - Real-time systems
+DO  - 10.1109/ICRA.2019.8794122
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - The real-time and robust surgical instrument segmentation is an important issue for endoscopic vision. We propose an instrument segmentation method fusing the convolutional neural networks (CNN) prediction and the kinematic pose information. First, the CNN model ToolNet-C is designed, which cascades a convolutional feature extractor trained over numerous unlabeled images and a pixel-wise segmentor trained on few labeled images. Second, the silhouette projection of the instrument body onto the endoscopic image is implemented based on the measured kinematic pose. Third, the particle filter with the shape matching likelihood and the weight suppression is proposed for data fusion, whose estimate refines the kinematic pose. The refined pose determines an accurate silhouette mask, which is the final segmentation output. The experiments are conducted with a surgical navigation system, several animal-tissue backgrounds, and a debrider instrument.
+ER  - 
+
+TY  - CONF
+TI  - Pneumatically Actuated Deployable Tissue Distension Device for NOTES for Colon
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9828
+EP  - 9833
+AU  - M. Miyasaka
+AU  - J. Liu
+AU  - L. Cao
+AU  - S. J. Phee
+PY  - 2019
+KW  - biological tissues
+KW  - endoscopes
+KW  - medical control systems
+KW  - pneumatic actuators
+KW  - pneumatic systems
+KW  - surgery
+KW  - pneumatically actuated deployable tissue distension device
+KW  - colon tortuous pathway
+KW  - pig colon
+KW  - natural orifice transluminal endoscopic surgery
+KW  - endoscopic channel
+KW  - pneumatically driven deployable structure
+KW  - colon tissue
+KW  - NOTES technology
+KW  - surgical tasks
+KW  - actuated deployable tissue distension device
+KW  - surgical operations
+KW  - surgical instruments
+KW  - air pressure
+KW  - size 4.5 mm
+KW  - size 60.0 mm
+KW  - pressure 3.5 bar
+KW  - Colon
+KW  - Electron tubes
+KW  - Surgery
+KW  - Task analysis
+KW  - Bars
+KW  - Shape
+KW  - Valves
+DO  - 10.1109/ICRA.2019.8793937
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - When performing some surgical tasks inside colon with NOTES technology, colon tissue could block the task space and occlude the endoscopic vision. In order to solve this problem, we developed a pneumatically driven deployable and undeployable structure which can distend collapsing tissue and can be delivered through a 4.5 mm endoscopic channel. The structure is designed to be flexible enough to pass through colon's tortuous pathway. Also, it is designed to hold its shape without continually applying air pressure after deployment. This allows to make use of an endoscopic channel for the other surgical instruments. Besides, due to the compliant nature of the device, it is safe to deploy inside a smaller space than its maximum deployable size. The functionality of the device was verified with an in-vitro experiment. The structure was successfully deployed inside a pig's colon with an inner diameter of 60 mm by applying 3.5 bars of air pressure and created a sufficient task space for surgical operations.
+ER  - 
+
+TY  - CONF
+TI  - Steering a Multi-armed Robotic Sheath Using Eccentric Precurved Tubes
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 9834
+EP  - 9840
+AU  - J. Wang
+AU  - J. Ha
+AU  - P. E. Dupont
+PY  - 2019
+KW  - dexterous manipulators
+KW  - elasticity
+KW  - medical robotics
+KW  - neurophysiology
+KW  - pipes
+KW  - robot kinematics
+KW  - surgery
+KW  - kinematic model
+KW  - multiarmed robotic sheath
+KW  - eccentric precurved tubes
+KW  - single-port minimally invasive procedures
+KW  - multiple robotic arms
+KW  - precurved superelastic tubes
+KW  - Cosserat rod theory
+KW  - two-arm sheath
+KW  - concentric tube balanced pair
+KW  - neuroendoscopy
+KW  - elastic backbone
+KW  - push-pull tendons
+KW  - continuum robot sheath
+KW  - Electron tubes
+KW  - Force
+KW  - Kinematics
+KW  - Shape
+KW  - Endoscopes
+KW  - Manipulators
+KW  - Steerable sheath
+KW  - Multiple arms
+KW  - Concentric tube robots
+DO  - 10.1109/ICRA.2019.8794245
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - This paper presents a novel continuum robot sheath for use in single-port minimally invasive procedures such as neuroendoscopy in which the sheath is designed to deliver multiple robotic arms. Articulation of the sheath is achieved by using precurved superelastic tubes lining the working channels used for arm delivery. These tubes perform a similar role to push/pull tendons, but can accomplish shape change of the sheath via rotation as well as translation. A kinematic model using Cosserat rod theory is derived which is based on modeling the system as a set of eccentrically aligned precurved tubes constrained along their length by an elastic backbone. The specific case of a two-arm sheath is considered in detail and its relationship to a concentric tube balanced pair is described. Simulation and experiment are used to investigate the concept, map its workspace and to evaluate the kinematic model.
+ER  - 
+
+TY  - CONF
+TI  - Circular and Concentric Formation of Kinematic Unicycles
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 1
+EP  - 6
+AU  - M. Iqbal
+AU  - S. Azuma
+AU  - J. Leth
+AU  - T. D. Ngo
+PY  - 2019
+KW  - asymptotic stability
+KW  - control system synthesis
+KW  - distributed control
+KW  - Lyapunov methods
+KW  - mobile robots
+KW  - multi-robot systems
+KW  - position control
+KW  - robot kinematics
+KW  - velocity control
+KW  - desired circular orbit
+KW  - circular formations
+KW  - concentric formations
+KW  - kinematic unicycles
+KW  - circular formation
+KW  - concentric formation stabilization problem
+KW  - design distributed control laws
+KW  - common circle
+KW  - velocity control law
+KW  - specific formation
+KW  - Kinematics
+KW  - Decentralized control
+KW  - Orbits
+KW  - Laplace equations
+KW  - Satellites
+KW  - Asymptotic stability
+KW  - Angular velocity
+DO  - 10.1109/ICRA.2019.8908710
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - This paper addresses the circular formation and concentric formation stabilization problem of kinematic unicycles. We design distributed control laws driving unicycles to converge to a common circle at the first stage and a velocity control law enabling unicycles to achieve a specific formation on the circle at the second stage. We also achieve the concentric formation by dividing unicycles into groups and design distributed control laws reinforcing each group at a desired circular orbit from the stationary center. We provide analysis to show that both the circular and concentric formations are asymptotically stable using set stabilization theory. Typical examples are selected to demonstrate and support the theoretical results.
+ER  - 
+
+TY  - CONF
+TI  - Continuous signed distance computation for polygonal robots in 3D
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 1
+EP  - 7
+AU  - Y. Lee
+AU  - A. Kheddar
+AU  - Y. J. Kim
+PY  - 2019
+KW  - collision avoidance
+KW  - computational geometry
+KW  - humanoid robots
+KW  - mobile robots
+KW  - collision-free motion
+KW  - HRP-2 humanoid robot
+KW  - collision avoidance
+KW  - minimum of the continuous distance
+KW  - continuous signed distance computation
+KW  - distance evaluation method
+KW  - MCD
+KW  - object trajectory
+KW  - time interval
+KW  - penetration depth
+KW  - Euclidean distance
+KW  - general polygonal models
+KW  - distance function
+KW  - adaptive subdivision method
+KW  - polygonal robots
+DO  - 10.1109/ICRA39644.2019.8975893
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+AB  - We propose a novel method adaptive subdivision (AS) to evaluate the distance function for moving general polygonal models. The distance function can have a positive and a negative value, each of which corresponds to the Euclidean distance and penetration depth, respectively. In our approach, the distance between a pair of objects can be evaluated along any time interval of the object's trajectory; therefore it is called “continuous”, and a minimum of the continuous distance (MCD) is determined for collision avoidance. In order to compute a MCD for general polygonal models, we calculate the upper and lower bounds of the distance in the time interval and abandons the time intervals that cannot realize the MCD. We have implemented our distance evaluation method, and have experimentally validated the proposed methods to effectively and accurately find the MCDs to generate a collision-free motion for the HRP-2 humanoid robot.
+ER  - 
+
+

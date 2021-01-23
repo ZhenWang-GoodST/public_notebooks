@@ -1,0 +1,112 @@
+total paper: 111
+  CultureNet  A Deep Learning Approach for Engagement Intensity Estimation from Face Images of Children with Autism
+  Self-Supervised Learning of the Drivable Area for Autonomous Vehicles
+  Learning Symbolic Representations for Planning with Parameterized Skills
+  Regularizing Reinforcement Learning with State Abstraction
+  Generating Adaptive Attending Behaviors using User State Classification and Deep Reinforcement Learning
+  A Bio-inspired Reinforcement Learning Rule to Optimise Dynamical Neural Networks for Robot Control
+  Virtual-to-Real-World Transfer Learning for Robots on Wilderness Trails
+  City-Scale Road Audit System using Deep Learning
+  Cross-Scene Suture Thread Parsing for Robot Assisted Anastomosis based on Joint Feature Learning
+  Learning How Pedestrians Navigate  A Deep Inverse Reinforcement Learning Approach
+  Friendly Motion Learning towards Sustainable Human Robot Interaction
+  Learning Robotic Grasping Strategy Based on Natural-Language Object Descriptions
+  Image-Based Visual Servoing Controller for Multirotor Aerial Robots Using Deep Reinforcement Learning
+  A Deep Reinforcement Learning Technique for Vision-Based Autonomous Multirotor Landing on a Moving Platform
+  Laser-Based Reactive Navigation for Multirotor Aerial Robots using Deep Reinforcement Learning
+  Robust Fruit Counting  Combining Deep Learning  Tracking  and Structure from Motion
+  Distributed Deep Reinforcement Learning for Fighting Forest Fires with a Network of Aerial Robots
+  Deep Learning for Exploration and Recovery of Uncharted and Dynamic Targets from UAV-like Vision
+  Stabilize an Unsupervised Feature Learning for LiDAR-based Place Recognition
+  Feedback Control For Cassie With Deep Reinforcement Learning
+  Multi-Agent Imitation Learning for Driving Simulation
+  Model-Based Action Exploration for Learning Dynamic Motion Skills
+  Active Learning based on Data Uncertainty and Model Sensitivity
+  Deep Reinforcement Learning for Audio-Visual Gaze Control
+  An Ensemble with Shared Representations Based on Convolutional Networks for Continually Learning Facial Expressions
+  Deep Q-Learning for Dry Stacking Irregular Objects
+  Learning Actionable Representations from Visual Observations
+  Unsupervised Odometry and Depth Learning for Endoscopic Capsule Robots
+  Deep Reinforcement Learning for Robotic Assembly of Mixed Deformable and Rigid Objects
+  Learning-based Walking Assistance Control Strategy for a Lower Limb Exoskeleton with Hemiplegia Patients
+  Robust Object Recognition Through Symbiotic Deep Learning In Mobile Robots
+  Distributed Deep Reinforcement Learning based Indoor Visual Navigation
+  Synthesizing Neural Network Controllers with Probabilistic Model-Based Reinforcement Learning
+  Composite Reinforcement Learning for Social Robot Navigation
+  Model-free and learning-free grasping by Local Contact Moment matching
+  Accelerating Learning in Constructive Predictive Frameworks with the Successor Representation
+  Reinforcement Learning with Symbolic Input-Output Models
+  Automated Tuning of Nonlinear Model Predictive Controller by Reinforcement Learning
+  GONet  A Semi-Supervised Deep Learning Approach For Traversability Estimation
+  Motion Planning Among Dynamic  Decision-Making Agents with Deep Reinforcement Learning
+  Learning to Pour using Deep Deterministic Policy Gradients
+  Learning Sample-Efficient Target Reaching for Mobile Robots
+  Deep Reinforcement Learning to Acquire Navigation Skills for Wheel-Legged Robots in Complex Environments
+  Learning and Generalization of Dynamic Movement Primitives by Hierarchical Deep Reinforcement Learning from Demonstration
+  Learning-Based Modular Task-Oriented Grasp Stability Assessment
+  Intrinsically Motivated Self-Supervised Deep Sensorimotor Learning for Grasping
+  Learning from Demonstration for Hydraulic Manipulators
+  Learning Trajectories for Real- Time Optimal Control of Quadrotors
+  Imitation Learning for Object Manipulation Based on Position Force Information Using Bilateral Control
+  Learning Implicit Sampling Distributions for Motion Planning
+  Learning Hardware Dynamics Model from Experiments for Locomotion Optimization
+  Iterative Learning of Energy-Efficient Dynamic Walking Gaits
+  Trajectory Optimization of Robot-Assisted Endovascular Catheterization with Reinforcement Learning
+  Learned Hand Gesture Classification Through Synthetically Generated Training Samples
+  Persistent Anytime Learning of Objects from Unseen Classes
+  Adaptive Robot Body Learning and Estimation Through Predictive Coding
+  Online Learning of Body Orientation Control on a Humanoid Robot Using Finite Element Goal Babbling
+  Active Model Learning and Diverse Action Sampling for Task and Motion Planning
+  Improving Reinforcement Learning Pre-Training with Variational Dropout
+  Learning Synergies Between Pushing and Grasping with Self-Supervised Deep Reinforcement Learning
+  Torque Controlled Biped Model Through a Bio-Inspired Controller Using Adaptive Learning
+  Learning Image-Conditioned Dynamics Models for Control of Underactuated Legged Millirobots
+  Composable Learning with Sparse Kernel Representations
+  Compensating for Context by Learning Local Models of Perception Performance
+  Setting up a Reinforcement Learning Task with a Real-World Robot
+  CINet  A Learning Based Approach to Incremental Context Modeling in Robots
+  Learning Generalizable Robot Skills from Demonstrations in Cluttered Environments
+  Learning a Local Feature Descriptor for 3D LiDAR Scans
+  Learning the Forward and Inverse Kinematics of a 6-DOF Concentric Tube Continuum Robot in SE 3 
+  Learning Forward and Inverse Kinematics Maps Efficiently
+  Iterative Learning Vector Field for FES-Supported Cyclic Upper Limb Movements in Combination with Robotic Weight Compensation
+  Learning to Fly by MySelf  A Self-Supervised CNN-Based Approach for Autonomous Navigation
+  Classification of Hanging Garments Using Learned Features Extracted from 3D Point Clouds
+  Machine Learning Based Skill-Level Classification for Personal Mobility Devices Using Only Operational Characteristics
+  Managing Off-Nominal Events in Shared Teleoperation with Learned Task Compliance
+  The Art of Manipulation  Learning to Manipulate Blindly
+  Incremental Semi-Supervised Learning from Streams for Object Classification
+  Passivity Based Iterative Learning of Admittance-Coupled Dynamic Movement Primitives for Interaction with Changing Environments
+  Robust Robot Learning from Demonstration and Skill Repair Using Conceptual Constraints
+  Towards Intelligent Arbitration of Diverse Active Learning Queries
+  An Uncertainty-Aware Minimal Intervention Control Strategy Learned from Demonstrations
+  Adversarial Learning-Based On-Line Anomaly Monitoring for Assured Autonomy
+  Safe Reinforcement Learning on Autonomous Vehicles
+  Gait Learning for Soft Microrobots Controlled by Light Fields
+  Incremental Learning-Based Adaptive Object Recognition for Mobile Robots
+  Towards Event-Driven Object Detection with Off-the-Shelf Deep Learning
+  A Practical Method to Speed-Up the Experimental Procedure of Iterative Learning Controllers
+  Learning Oscillator-Based Gait Controller for String-Form Soft Robots Using Parameter-Exploring Policy Gradients
+  Probabilistic Learning of Torque Controllers from Kinematic and Force Constraints
+  Learning Coordinated Vehicle Maneuver Motion Primitives from Human Demonstration
+  Incremental Skill Learning of Stable Dynamical Systems
+  Inverse Learning of Robot Behavior for Collaborative Planning
+  Multi-Cable Rolling Locomotion with Spherical Tensegrities Using Model Predictive Control and Deep Learning
+  Transferring Visuomotor Learning from Simulation to the Real World for Robotics Manipulation Tasks
+  Active Object Perceiver  Recognition-Guided Policy Learning for Object Searching on Mobile Robots
+  Learning Monocular Visual Odometry with Dense 3D Mapping from Dense 3D Flow
+  Robotic Handling of Compliant Food Objects by Robust Learning from Demonstration
+  Learning-based Path Tracking Control of a Flapping-wing Micro Air Vehicle
+  Multi-Stage Learning of Selective Dual-Arm Grasping Based on Obtaining and Pruning Grasping Points Through the Robot Experience in the Real World
+  Dynamic Model Learning and Manipulation Planning for Objects in Hospitals Using a Patient Assistant Mobile  PAM Robot
+  Teaching a Robot to Grasp Real Fish by Imitation Learning from a Human Supervisor in Virtual Reality
+  Fast Convergence for Object Detection by Learning how to Combine Error Functions
+  Multisensor Online Transfer Learning for 3D LiDAR-Based Human Detection with a Mobile Robot
+  Learning to Touch Objects Through Stage-Wise Deep Reinforcement Learning
+  DLWV2  A Deep Learning-Based Wearable Vision-System with Vibrotactile-Feedback for Visually Impaired People to Reach Objects
+  Riding and Speed Governing for Parallel Two-Wheeled Scooter Based on Sequential Online Learning Control by Humanoid Robot
+  Learning and Generation of Actions from Teleoperation for Domestic Service Robots This work was supported by JST  CREST
+  Multi-Modal Robot Apprenticeship  Imitation Learning Using Linearly Decayed DMP  in a Human-Robot Dialogue System
+  Map-based Deep Imitation Learning for Obstacle Avoidance
+  Accelerating Goal-Directed Reinforcement Learning by Model Characterization
+  Learning to Grasp by Extending the Peri-Personal Space Graph

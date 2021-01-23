@@ -1,0 +1,12 @@
+total paper: 11
+  Cloud services for robotic nurses  Assessing legal and ethical issues in the use of cloud services for healthcare robots
+  Robust Generalized Point Cloud Registration with Expectation Maximization Considering Anisotropic Positional Uncertainties
+  Octree map based on sparse point cloud and heuristic probability distribution for labeled images
+  Scan Context  Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map
+  Classification of Hanging Garments Using Learned Features Extracted from 3D Point Clouds
+  Design and Implementation of Cloud-Like Soft Drone S-Cloud
+  Joint Point Cloud and Image Based Localization for Efficient Inspection in Mixed Reality
+  Edge and Corner Detection for Unorganized 3D Point Clouds with Application to Robotic Welding
+  XBotCloud  A Scalable Cloud Computing Infrastructure for XBot Powered Robots
+  NDVI Point Cloud Generator Tool Using Low-Cost RGB-D Sensor
+  PCAOT  A Manhattan Point Cloud Registration Method Towards Large Rotation and Small Overlap

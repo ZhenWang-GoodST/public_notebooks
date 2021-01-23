@@ -1,0 +1,55 @@
+total paper: 54
+  Efficient Long-term Mapping in Dynamic Environments
+  Fast and Accurate Semantic Mapping through Geometric-based Incremental Segmentation
+  Embedding Temporally Consistent Depth Recovery for Real-time Dense Mapping in Visual-inertial Odometry
+  Deep Semantic Lane Segmentation for Mapless Driving
+  PRISM  Pose Registration for Integrated Semantic Mapping
+  Semantic Mapping with Simultaneous Object Detection and Localization
+  C-blox  A Scalable and Consistent TSDF-based Dense Mapping Approach
+  Drone Detection Using Depth Maps
+  A robust pose graph approach for city scale LiDAR mapping
+  HMAPs - Hybrid Height- Voxel Maps for Environment Representation
+  Design of an Autonomous Robot for Mapping  Navigation  and Manipulation in Underground Mines
+  Indoor Mapping and Localization for Pedestrians using Opportunistic Sensing with Smartphones
+  StreetMap - Mapping and Localization on Ground Planes using a Downward Facing Camera
+  Multibeam Data Processing for Underwater Mapping
+  Pose Estimation and Map Formation with Spiking Neural Networks  towards Neuromorphic SLAM
+  Precise Localization in High-Definition Road Maps for Urban Regions
+  Virtual Occupancy Grid Map for Submap-based Pose Graph SLAM and Planning in 3D Environments
+  Decentralized Localization Framework using Heterogeneous Map-matchings
+  A Synergetic Voluntary Control for Exoskeleton based on Spinal Cord Mapping of Peripheral Bioelectric Activity
+  People as Sensors  Imputing Maps from Human Actions
+  Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance
+  MAP - A Mobile Agile Printer Robot for on-site Construction
+  Efficient Map Representations for Multi-Dimensional Normal Distributions Transforms
+  Robotic Subsurface Pipeline Mapping with a Ground-penetrating Radar and a Camera
+  Octree map based on sparse point cloud and heuristic probability distribution for labeled images
+  Human-in-the-loop Augmented Mapping
+  A B-Spline Mapping Framework for Long-Term Autonomous Operations
+  Building Dense Reflectance Maps of Indoor Environments Using an RGB-D Camera
+  3D Underground Mapping with a Mobile Robot and a GPR Antenna
+  Adaptive Baseline Monocular Dense Mapping with Inter-Frame Depth Propagation
+  Real Time Incremental Foveal Texture Mapping for Autonomous Vehicles
+  Directional Grid Maps  Modeling Multimodal Angular Uncertainty in Dynamic Environments
+  PoseMap  Lifelong  Multi-Environment 3D LiDAR Localization
+  Reactive Collision Avoidance Using Real-Time Local Gaussian Mixture Model Maps
+  Robust Visual-Inertial State Estimation with Multiple Odometries and Efficient Mapping on an MAV with Ultra-Wide FOV Stereo Vision
+  Video Motion Capture from the Part Confidence Maps of Multi-Camera Images by Spatiotemporal Filtering Using the Human Skeletal Model
+  Visual Vehicle Tracking Through Noise and Occlusions Using Crowd-Sourced Maps
+  LeGO-LOAM  Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain
+  Laser Map Aided Visual Inertial Localization in Changing Environment
+  Scan Context  Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map
+  Safe Motion Planning for Steerable Needles Using Cost Maps Automatically Extracted from Pulmonary Images
+  Learning Forward and Inverse Kinematics Maps Efficiently
+  Stereo Camera Localization in 3D LiDAR Maps
+  Vision-Based Terrain Classification and Solar Irradiance Mapping for Solar-Powered Robotics
+  DROAN - Disparity-Space Representation for Obstacle Avoidance  Enabling Wire Mapping   Avoidance
+  Automated Map Reading  Image Based Localisation in 2-D Maps Using Binary Semantic Descriptors
+  Submap-Based Pose-Graph Visual SLAM  A Robust Visual Exploration and Localization System  The work in this paper is supported by the National Natural Science Foundation of China  61603103  61673125   the Natural Science Foundation of Guangdong of China  2016A030310293   and the Major Scientific and Technological Special Project of Guangdong of China  2016B090910003  
+  Learning Monocular Visual Odometry with Dense 3D Mapping from Dense 3D Flow
+  An Everyday Robotic System that Maintains Local Rules Using Semantic Map Based on Long-Term Episodic Memory
+  Quadtree-Accelerated Real-Time Monocular Dense Mapping
+  Minimal Construct  Efficient Shortest Path Finding for Mobile Robots in Polygonal Maps
+  Map-based Deep Imitation Learning for Obstacle Avoidance
+  Wireframe Mapping for Resource-Constrained Robots
+  Improving Trajectory Optimization Using a Roadmap Framework

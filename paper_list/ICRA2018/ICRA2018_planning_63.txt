@@ -1,0 +1,64 @@
+total paper: 63
+  String Untying Planning Based on Knot Theory and Proposal of Algorithms to Generate the Motion of a Manipulator
+  Efficient Planning for Near-Optimal Compliant Manipulation Leveraging Environmental Contact
+  Constrained Sampling-Based Planning for Grasping and Manipulation
+  Geometric In-Hand Regrasp Planning  Alternating Optimization of Finger Gaits and In-Grasp Manipulation
+  Coverage Path Planning Under the Energy Constraint
+  Planning  Fast and Slow  A Framework for Adaptive Real-Time Safe Trajectory Planning
+  Learning User Preferences in Robot Motion Planning Through Interaction
+  Kinematic Design Optimization of a Parallel Surgical Robot to Maximize Anatomical Visibility via Motion Planning
+  Planning-Aware Communication for Decentralised Multi-Robot Coordination
+  Cooperative Object Transportation by Multiple Ground and Aerial Vehicles  Modeling and Planning
+  Integrating Planning and Execution for a Team of Heterogeneous Robots with Time and Communication Constraints
+  Robotic Cleaning Through Dirt Rearrangement Planning with Learned Transition Models
+  Fast Planning for 3D Any-Pose-Reorienting Using Pivoting
+  Task Space Motion Planning Decomposition
+  Planning Hybrid Driving-Stepping Locomotion on Multiple Levels of Abstraction
+  Indoor Coverage Path Planning  Survey  Implementation  Analysis
+  Inclusion of Angular Momentum During Planning for Capture Point Based Walking
+  Planning Ergonomic Sequences of Actions in Human-Robot Interaction
+  Situation Assessment for Planning Lane Changes  Combining Recurrent Models and Prediction
+  Joint Multi-Policy Behavior Estimation and Receding-Horizon Trajectory Planning for Automated Urban Driving
+  Task-Specific Sensor Planning for Robotic Assembly Tasks
+  A Novel Recurrent Neural Network for Improving Redundant Manipulator Motion Planning Completeness
+  Integration of Local Geometry and Metric Information in Sampling-Based Motion Planning
+  Affordance-Based Multi-Contact Whole-Body Pose Sequence Planning for Humanoid Robots in Unknown Environments
+  Simultaneous Planning and Estimation Based on Physics Reasoning in Robot Manipulation
+  Joining High-Level Symbolic Planning with Low-Level Motion Primitives in Adaptive HRI  Application to Dressing Assistance
+  Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction
+  A General and Flexible Search Framework for Disassembly Planning
+  Incorporating Potential Contingency Tasks in Multi-Robot Mission Planning
+  Talk Resource-Efficiently to Me  Optimal Communication Planning for Distributed Loop Closure Detection
+  Vision Based Collaborative Path Planning for Micro Aerial Vehicles
+  Clothoid-Based Global Path Planning for Autonomous Vehicles in Urban Scenarios
+  Information Based Mobile Sensor Planning for Source Term Estimation of a Non-Continuous Atmospheric Release
+  Collision-Free Motion Planning for Human-Robot Collaborative Safety Under Cartesian Constraint
+  Sampling-Based Motion Planning with ¦Ì-Calculus Specifications Without Steering
+  Joint Long-Term Prediction of Human Motion Using a Planning-Based Social Force Approach
+  Footstep Planning in Rough Terrain for Bipedal Robots Using Curved Contact Patches
+  Optimal Path Planning in Time-Varying Flows with Forecasting Uncertainties
+  Topological Hotspot Identification for Informative Path Planning with a Marine Robot
+  PRM-RL  Long-range Robotic Navigation Tasks by Combining Reinforcement Learning and Sampling-Based Planning
+  Robust  Compliant Assembly via Optimal Belief Space Planning
+  Realtime Planning for High-DOF Deformable Bodies Using Two-Stage Learning
+  Sensor-Based Reactive Symbolic Planning in Partially Known Environments
+  Topological Multi-Robot Belief Space Planning in Unknown Environments
+  Learning Human-Aware Path Planning with Fully Convolutional Networks
+  Pedestrian Prediction by Planning Using Deep Neural Networks
+  Surface Edge Explorer  see   Planning Next Best Views Directly from 3D Observations
+  Configuration of Perception Systems via Planning Over Factor Graphs
+  Q-CP  Learning Action Values for Cooperative Planning
+  BFM  a Scalable and Resource-Aware Method for Adaptive Mission Planning of UAVs
+  Grasp Planning for Load Sharing in Collaborative Manipulation
+  Reconfiguration Analysis and Motion Planning of a Novel Reconfigurable Mobile Manipulator Torso
+  Approximate Branch and Bound for Fast  Risk-Bound Stochastic Path Planning
+  Rapidly-Exploring Random Vines  RRV  for Motion Planning in Configuration Spaces with Narrow Passages
+  Generalizing Informed Sampling for Asymptotically-Optimal Sampling-Based Kinodynamic Planning via Markov Chain Monte Carlo
+  Dancing PRM   Simultaneous Planning of Sampling and Optimization with Configuration Free Space Approximation
+  Randomized Kinodynamic Planning for Constrained Systems
+  Learning Sampling Distributions for Robot Motion Planning
+  Counterexamples for Robotic Planning Explained in Structured Language
+  Multi-Vehicle Motion Planning for Social Optimal Mobility-on-Demand
+  Historical Data is Useful for Navigation Planning  Data Driven Route Generation for Autonomous Ship
+  Self-triggered Adaptive Planning and Scheduling of UAV Operations
+  Trajectory Replanning for Quadrotors Using Kinodynamic Search and Elastic Optimization

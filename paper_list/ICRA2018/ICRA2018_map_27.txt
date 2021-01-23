@@ -1,0 +1,28 @@
+total paper: 27
+  Dynamic Simulation of Planetary Rovers with Terrain Property Mapping   Research supported by National Natural Science Foundation of China  Grant No  61370033   National Basic Research Program of China  Grant No  2013CB035502   Foundation for Innovative Research Groups of the Natural Science Foundation of China  Grant No  51521003   Foundation of Chinese State Key Laboratory of Robotics and Systems  Grant No  SKLRS201501B  SKLRS20164B   Harbin Applied Technology Project of Research and Development  2015RQQXJ081   and the ¡°111 Project¡±  Grant No  B07018  
+  Relocalization  Global Optimization and Map Merging for Monocular Visual-Inertial SLAM
+  Elastic LiDAR Fusion  Dense Map-Centric Continuous-Time SLAM
+  Encoder-Camera-Ground Penetrating Radar Tri-Sensor Mapping for Surface and Subsurface Transportation Infrastructure Inspection
+  Robot Navigation in Complex Workspaces Using Harmonic Maps
+  Multi-View 3D Entangled Forest for Semantic Segmentation and Mapping
+  Semantic Labeling of Indoor Environments from 3D RGB Maps
+  Semantic Mapping with Omnidirectional Vision
+  Autonomous Vehicle Navigation in Rural Environments Without Detailed Prior Maps
+  Robust Environmental Mapping by Mobile Sensor Networks
+  ApriISAM  Real-Time Smoothing and Mapping
+  Pairwise Consistent Measurement Set Maximization for Robust Multi-Robot Map Merging
+  Map-Aware Particle Filter for Localization
+  Online Probabilistic Change Detection in Feature-Based Maps
+  Topomap  Topological Mapping and Navigation Based on Visual SLAM Maps
+  Semi-Dense Visual-Inertial Odometry and Mapping for Quadrotors with SWAP Constraints
+  Just-in-Time Reconstruction  Inpainting Sparse Maps Using Single View Depth Predictors as Priors
+  Fast Global Labelling for Depth-Map Improvement Via Architectural Priors
+  A Method to Segment Maps from Different Modalities Using Free Space Layout MAORIS  Map of Ripples Segmentation
+  Efficient Continuous-Time SLAM for 3D Lidar-Based Online Mapping
+  Efficient Active SLAM Based on Submap Joining  Graph Topology and Convex Optimization
+  Deep Encoder-Decoder Networks for Mapping Raw Images to Dynamic Movement Primitives
+  Asynchronous Multi-Sensor Fusion for 3D Mapping and Localization
+  Mapping with Dynamic-Object Probabilities Calculated from Single 3D Range Scans
+  A Survey of Voxel Interpolation Methods and an Evaluation of Their Impact on Volumetric Map-Based Visual Odometry
+  Robust Dense Mapping for Large-Scale Dynamic Environments
+  NanoMap  Fast  Uncertainty-Aware Proximity Queries with Lazy Search Over Local 3D Data

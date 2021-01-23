@@ -1,0 +1,97 @@
+total paper: 96
+  An Observer-Based Fusion Method Using Multicore Optical Shape Sensors and Ultrasound Images for Magnetically-Actuated Catheters
+  Deep Neural Networks for Multiple Speaker Detection and Localization
+  Differentiation of C2C12 Myoblasts and Characterization of Electro-Responsive Beating Behavior of Myotubes Using Circularly Distributed Multiple Electrodes for Bio-Syncretic Robot
+  Compliant Low Profile Multi-Axis Force Sensors
+  Modeling and Control of Multi-Arm and Multi-Leg Robots  Compensating for Object Dynamics During Grasping
+  Multi-Priority Cartesian Impedance Control Based on Quadratic Programming Optimization
+  Ctrl-MORE  A Framework to Integrate Controllers of Multi-DoF Robot for Developers and Users
+  Multilayered Kinodynamics Simulation for Detailed Whole-Body Motion Generation and Analysis
+  End-to-end Learning of Multi-sensor 3D Tracking by Detection
+  Algorithm for Optimal Chance Constrained Knapsack Problem with Applications to Multi-Robot Teaming
+  Planning-Aware Communication for Decentralised Multi-Robot Coordination
+  Multi-Robot Realization Based on Goal Adjacency Constraints
+  Cooperative Object Transport in 3D with Multiple Quadrotors Using No Peer Communication
+  An Energy-Based Approach for the Multi-Rate Control of a Manipulator on an Actuated Base
+  Optimal Intermittent Deployment and Sensor Selection for Environmental Sensing with Multi-Robot Teams
+  Cooperative Object Transportation by Multiple Ground and Aerial Vehicles  Modeling and Planning
+  Design  modeling and control of t3-multirotor  a tilting thruster type multirotor
+  Distributed Multi-Robot Cooperation for Information Gathering Under Communication Constraints
+  GOMSF  Graph-Optimization Based Multi-Sensor Fusion for robust UAV Pose estimation
+  A Geometric and Unified Approach for Modeling Soft-Rigid Multi-Body Systems with Lumped and Distributed Degrees of Freedom
+  Planning Hybrid Driving-Stepping Locomotion on Multiple Levels of Abstraction
+  Simultaneous Optimization of ZMP and Footsteps Based on the Analytical Solution of Divergent Component of Motion
+  Multi-View 3D Entangled Forest for Semantic Segmentation and Mapping
+  Mark Yourself  Road Marking Segmentation via Weakly-Supervised Annotations from Multimodal Data
+  Real-Time Identification of Robot Payload Using a Multirate Quaternion-Based Kalman Filter and Recursive Total Least-Squares
+  Encoderless Gimbal Calibration of Dynamic Multi-Camera Clusters
+  Re-Deployment Algorithms for Multiple Service Robots to Optimize Task Response
+  Multi-Agent Time-Based Decision-Making for the Search and Action Problem
+  Multi-robot Dubins Coverage with Autonomous Surface Vehicles
+  How Many Robots are Enough  A Multi-Objective Genetic Algorithm for the Single-Objective Time-Limited Complete Coverage Problem
+  Joint Multi-Policy Behavior Estimation and Receding-Horizon Trajectory Planning for Automated Urban Driving
+  Deep Learning a Quadrotor Dynamic Model for Multi-Step Prediction
+  Learning Manipulation Graphs from Demonstrations Using Multimodal Sensory Signals
+  Autonomous Multi-Joint Soft Exosuit for Assistance with Walking Overground
+  Pairwise Consistent Measurement Set Maximization for Robust Multi-Robot Map Merging
+  Path Tracking of a Two-Wheel Steering Mobile Robot  An Accurate and Robust Multi-Model Off-Road Steering Strategy
+  Generating Assistive Humanoid Motions for Co-Manipulation Tasks with a Multi-Robot Quadratic Program Controller
+  Affordance-Based Multi-Contact Whole-Body Pose Sequence Planning for Humanoid Robots in Unknown Environments
+  Simultaneous Planning and Estimation Based on Physics Reasoning in Robot Manipulation
+  Cost Functions to Specify Full-Body Motion and Multi-Goal Manipulation Tasks
+  Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction
+  Track  Then Decide  Category-Agnostic Vision-Based Multi-Object Tracking
+  Beyond Pixels  Leveraging Geometry and Shape Cues for Online Multi-Object Tracking
+  Multi-Task Domain Adaptation for Deep Learning of Instance Grasping from Simulation
+  SLAMBench2  Multi-Objective Head-to-Head Benchmarking for Visual SLAM
+  The Dynamic Bearing Observability Matrix Nonlinear Observability and Estimation for Multi-Agent Systems
+  Modelling Resource Contention in Multi-Robot Task Allocation Problems with Uncertain Timing
+  Constrained-Action POMDPs for Multi-Agent Intelligent Knowledge Distribution
+  Incorporating Potential Contingency Tasks in Multi-Robot Mission Planning
+  Distributed Simultaneous Action and Target Assignment for Multi-Robot Multi-Target Tracking
+  A Synchronization Scheme for Position Control of Multiple Rope-Climbing Robots
+  Robotic Pick-and-Place of Novel Objects in Clutter with Multi-Affordance Grasping and Cross-Domain Image Matching
+  Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-to-End Learning from Demonstration
+  High Dynamic Range Sensing by a Multistage Six-Axis Force Sensor with Stopper Mechanism
+  Estimation of Object Orientation Using Conductive Ink and Fabric Based Multilayered Tactile Sensor
+  Geometry-based Direct Simulation for Multi-Material Soft Robots
+  Departure and Conflict Management in Multi-Robot Path Coordination
+  A Single-Planner Approach to Multi-Modal Humanoid Mobility
+  Multi3  Multi-Sensory Perception System for Multi-Modal Child Interaction with Multiple Robots
+  Multi-Robot Coordination in Dynamic Environments Shared with Humans
+  Fully Convolutional Neural Networks for Road Detection with Multiple Cues Integration
+  Robust and Precise Vehicle Localization Based on Multi-Sensor Fusion in Diverse City Scenes
+  Safe Distributed Lane Change Maneuvers for Multiple Autonomous Vehicles Using Buffered Input Cells
+  Multi-Stage Suture Detection for Robot Assisted Anastomosis Based on Deep Learning
+  Heterogeneous Multi-Robot System for Exploration and Strategic Water Sampling
+  A General Framework for Flexible Multi-Cue Photometric Point Cloud Registration
+  A Scalable Multi-Robot Task Allocation Algorithm
+  Control of Multiple Passive-Follower Type Robots Based on Feasible Braking Control Region Analysis
+  Omnidirectional Multisensory Perception Fusion for Long-Term Place Recognition
+  Model Predictive Control of a Multi-Rotor with a Suspended Load for Avoiding Obstacles
+  EndoSensorFusion  Particle Filtering-Based Multi-Sensory Data Fusion with Switching State-Space Model for Endoscopic Capsule Robots
+  A Projected Inverse Dynamics Approach for Multi-Arm Cartesian Impedance Control
+  First Autonomous Multi-Room Exploration with an Insect-Inspired Flapping Wing Vehicle
+  Topological Multi-Robot Belief Space Planning in Unknown Environments
+  Human-guided Optical Manipulation of Multiple Microscopic Objects
+  Anticipation in Human-Robot Cooperation  A Recurrent Neural Network Approach for Multiple Action Sequences Prediction
+  Asynchronous Multi-Sensor Fusion for 3D Mapping and Localization
+  Ultra-Fast Multi-Scale Shape Estimation of Light Transport Matrix for Complex Light Reflection Objects
+  Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning
+  Multimodal 2D Image to 3D Model Registration via a Mutual Alignment of Sparse and Dense Visual Features
+  Adaptive Sampling and Online Learning in Multi-Robot Sensor Coverage with Mixture of Gaussian Processes
+  Near-Optimal Adversarial Policy Switching for Decentralized Asynchronous Multi-Agent Systems
+  Distance-Based Multi-Robot Coordination on Pocket Drones
+  Put-in-Box Task Generated from Multiple Discrete Tasks by aHumanoid Robot Using Deep Learning
+  Pseudo-bearing Measurements for Improved Localization of Radio Sources with Multirotor UAVs
+  Distributed Real Time Control of Multiple UAVs in Adversarial Environment  Algorithm and Flight Testing Results
+  Simultaneous Optimization of Assignments and Goal Formations for Multiple Robots
+  Aerial Grasping Based on Shape Adaptive Transformation by HALO  Horizontal Plane Transformable Aerial Robot with Closed-Loop Multilinks Structure
+  Dancing PRM   Simultaneous Planning of Sampling and Optimization with Configuration Free Space Approximation
+  Multi-Vehicle Motion Planning for Social Optimal Mobility-on-Demand
+  Auctioning over Probabilistic Options for Temporal Logic-Based Multi-Robot Cooperation Under Uncertainty
+  GraspMan - A Novel Robotic Platform with Grasping  Manipulation  and Multimodal Locomotion Capability
+  Intent-Aware Multi-Agent Reinforcement Learning
+  Probabilistic Graph Security for Networked Multi-Robot Systems
+  Controlling the Interaction of a Multi-Robot System with External Entities
+  Using Information Invariants to Compare Swarm Algorithms and General Multi-Robot Algorithms

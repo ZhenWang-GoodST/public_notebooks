@@ -1,0 +1,85 @@
+total paper: 84
+  Fast Kinodynamic Bipedal Locomotion Planning with Moving Obstacles
+  Culturally aware Planning and Execution of Robot Actions
+  Learning Symbolic Representations for Planning with Parameterized Skills
+  Fire-Aware Planning of Aerial Trajectories and Ignitions
+  Closed-Loop Robot Task Planning Based on Referring Expressions
+  Coverage Optimization with Non-Actuated  Floating Mobile Sensors using Iterative Trajectory Planning in Marine Flow Fields
+  A Deformable Spiral Based Algorithm to Smooth Coverage Path Planning for Marine Growth Removal
+  Virtual Occupancy Grid Map for Submap-based Pose Graph SLAM and Planning in 3D Environments
+  Data-Driven Discrete Planning for Targeted Hopping of Compliantly Actuated Robotic Legs
+  Uncertainty-based Online Mapping and Motion Planning for Marine Robotics Guidance
+  A Rationale-Driven Team Plan Representation for Autonomous Intra-Robot Replanning 
+  Online Path Planning and Compliance Control of Space Robot for Capturing Tumbling Large Object
+  Workspace Aware Online Grasp Planning
+  Affordance Wayfields for Task and Motion Planning
+  Motion Planning Among Dynamic  Decision-Making Agents with Deep Reinforcement Learning
+  Manipulation Planning Under Changing External Forces
+  Planning Hand-Arm Grasping Motions with Human-Like Appearance
+  Efficient Computation of Invariably Safe States for Motion Planning of Self-Driving Vehicles
+  Simultaneous Task Allocation and Planning Under Uncertainty
+  Strategic-Tactical Planning for Autonomous Underwater Vehicles over Long Horizons
+  Grid-Based Motion Planning Using Advanced Motions for Hexapod Robots
+  Learning Implicit Sampling Distributions for Motion Planning
+  Real-Time Grasp Planning for Multi-Fingered Hands by Finger Splitting
+  Interleaving Hierarchical Task Planning and Motion Constraint Testing for Dual-Arm Manipulation
+  Active Model Learning and Diverse Action Sampling for Task and Motion Planning
+  Collaborative Planning for Mixed-Autonomy Lane Merging
+  Projection-Aware Task Planning and Execution for Human-in-the-Loop Operation of Robots in a Mixed-Reality Workspace
+  Search-Based Optimal Motion Planning for Automated Driving
+  Model-Free Grasp Planning for Configurable Vacuum Grippers
+  Planning to Monitor Wildfires with a Fleet of UAVs
+  Safe Motion Planning for Steerable Needles Using Cost Maps Automatically Extracted from Pulmonary Images
+  Probabilistic Kinematic State Estimation for Motion Planning of Planetary Rovers
+  Angle-Encoded Swarm Optimization for UAV Formation Path Planning
+  Sampling of Pareto-Optimal Trajectories Using Progressive Objective Evaluation in Multi-Objective Motion Planning
+  Human-Robot-Cooperation Real Time Robot Path Planning for Dynamic HRC-Applications
+  Any-Time Trajectory Planning for Safe Emergency Landing
+  Real-Time Quad-Rotor Path Planning for Mobile Obstacle Avoidance Using Convex Optimization
+  Deep Sequential Models for Sampling-Based Planning
+  A Topology-Based Path Similarity Metric and its Application to Sampling-Based Motion Planning
+  RG-Trees  Trajectory-Free Feedback Motion Planning Using Sparse Random Reference Governor Trees
+  Real-Time Motion Planning in Changing Environments Using Topology-Based Encoding of Past Knowledge
+  Distributionally Robust Sampling-Based Motion Planning Under Uncertainty
+  Kinodynamic Comfort Trajectory Planning for Car-Like Robots
+  Deeply Informed Neural Sampling for Robot Motion Planning
+  Inverse Learning of Robot Behavior for Collaborative Planning
+  Integrating Path Planning and Pivoting
+  Contingent Contact-Based Motion Planning
+  Algorithmization of Constrained Motion for Car-Like Robots Using the VFO Control Strategy with Parallelized Planning of Admissible Funnels
+  On the Orientation Planning with Constrained Angular Velocity and Acceleration at Endpoints
+  Coverage Path Planning with Adaptive Viewpoint Sampling to Construct 3D Models of Complex Structures for the Purpose of Inspection
+  Dual-Arm Coordinated Motion Planning and Compliance Control for Capturing Moving Objects with Large Momentum
+  Motion Planning for an Underwater Mobile Manipulator by Exploiting Loose Coupling
+  Dynamic Model Learning and Manipulation Planning for Objects in Hospitals Using a Patient Assistant Mobile  PAM Robot
+  Fast Trajectory Planning for Automated Vehicles Using Gradient-Based Nonlinear Model Predictive Control
+  Humanoid Navigation Planning in Large Unstructured Environments Using Traversability - Based Segmentation
+  Single Leg Dynamic Motion Planning with Mixed-Integer Convex Optimization
+  Down the CLiFF  Flow-Aware Trajectory Planning Under Motion Pattern Uncertainty
+  Efficient and Asymptotically Optimal Kinodynamic Motion Planning via Dominance-Informed Regions
+  Faster Collision Checks for Car-Like Robot Motion Planning
+  A Software Framework for Planning Under Partial Observability
+  Analytical Model of Thermal Soaring  Towards Energy Efficient Path Planning for Flying Robots
+  Trajectory Planning for Heterogeneous Robot Teams
+  A Motion Planning Approach for Marsupial Robotic Systems
+  Motion Planning and Goal Assignment for Robot Fleets Using Trajectory Optimization
+  Multi-Agent Planning for Coordinated Robotic Weed Killing
+  SEAR  A Polynomial- Time Multi-Robot Path Planning Algorithm with Expected Constant-Factor Optimality Guarantee
+  Dynamic Modelling and Motion Planning for the Nonprehensile Manipulation and Locomotion Tasks of the Quadruped Rsbot This work is supported by the project of Robotics Innovation Based on Advanced Materials under Ritsumeikan Global Innovation Research Organization  R-GIRO 
+  FOCS  Planning by Fusion of Optimal Control   Search and its Application to Navigation
+  Quotient-Space Motion Planning
+  Automatic Parameter Tuning of Motion Planning Algorithms
+  Perception-Driven Sparse Graphs for Optimal Motion Planning
+  Constrained Path Planning Using Quadratic Programming
+  Planning Topological Navigation for Complex Indoor Environments
+  An Optimization-Based Approach to Dual-Arm Motion Planning with Closed Kinematics
+  Smooth Point-to-Point Trajectory Planning in  SE   3 with Self-Collision and Joint Constraints Avoidance
+  Collision-Free Path Planning of Dual-Manipulator System Based on Energy Conversion
+  CROC  Convex Resolution of Centroidal Dynamics Trajectories to Provide a Feasibility Criterion for the Multi Contact Planning Problem
+  Motion Planning for a Small Aerobatic Fixed-Wing Unmanned Aerial Vehicle
+  First Experimental Results on Motion Planning for Transportation in Aerial Long-Reach Manipulators with Two Arms
+  Sparse 3D Topological Graphs for Micro-Aerial Vehicle Planning
+  Motion Planning for a UAV with a Straight or Kinked Tether
+  An Improved Formulation for Model Predictive Control of Legged Robots for Gait Planning and Feedback Control
+  A Control Architecture with Online Predictive Planning for Position and Torque Controlled Walking of Humanoid Robots
+  Continuous State-Action-Observation POMDPs for Trajectory Planning with Bayesian Optimisation

@@ -1,0 +1,97 @@
+total paper: 96
+  Key-frame Selection for Multi-robot Simultaneous Localization and Tracking in Robot Soccer Field
+  A Multi-Position Joint Particle Filtering Method for Vehicle Localization in Urban Area
+  Unsupervised Trajectory Segmentation and Promoting of Multi-Modal Surgical Demonstrations
+  Semantic Mapping with Simultaneous Object Detection and Localization
+  A Differential Elastic Joint for Multi-linked Pipeline Inspection Robots
+  A Novel Design of Extended Coaxial Spherical Joint Module for a New Modular Type-Multiple DOFs Robotic Platform
+  Stopper Angle Design for a Multi-link Articulated Wheeled In-pipe Robot with Underactuated Twisting Joints
+  Image-Based Visual Servoing Controller for Multirotor Aerial Robots Using Deep Reinforcement Learning
+  A Deep Reinforcement Learning Technique for Vision-Based Autonomous Multirotor Landing on a Moving Platform
+  Laser-Based Reactive Navigation for Multirotor Aerial Robots using Deep Reinforcement Learning
+  Hybrid Multi-camera Visual Servoing to Moving Target
+  Detecting and Picking of Folded Objects with a Multiple Sensor Integrated Robot Hand
+  Towards Robust Visual Odometry with a Multi-Camera System
+  Structure preserving Multi-Contact Balance Control for Series-Elastic and Visco-Elastic Humanoid Robots
+  Towards Automatic 3D Shape Instantiation for Deployed Stent Grafts  2D Multiple-class and Class-imbalance Marker Segmentation with Equally-weighted Focal U-Net
+  Enhanced Non-Steady Gliding Performance of the MultiMo-Bat through Optimal Airfoil Configuration and Control Strategy
+  Multi-Agent Imitation Learning for Driving Simulation
+  Multibeam Data Processing for Underwater Mapping
+  Magneto  A Versatile Multi-Limbed Inspection Robot
+  Pre-clinical validation of the UHP multifunctional upper-limb rehabilitation robot based platform
+  A Multi-Task Priority Framework for Redundant Robots with Multiple Kinematic Chains under Hard Joint and Cartesian Constraints
+  Multi-timescale Feature-extraction Architecture of Deep Neural Networks for Acoustic Model Training from Raw Speech Signal
+  Tracking a moving sound source from a multi-rotor drone
+  Object Recognition Through Active Sensing Using a Multi-Fingered Robot Hand with 3D Tactile Sensors
+  Efficient Map Representations for Multi-Dimensional Normal Distributions Transforms
+  Generative Modeling of Multimodal Multi-Human Behavior
+  Predicting Part Affordances of Objects Using Two-Stream Fully Convolutional Network with Multimodal Inputs
+  Deep Multi-Sensor Lane Detection
+  Directional Grid Maps  Modeling Multimodal Angular Uncertainty in Dynamic Environments
+  Risk-Based Human-Aware Multi-Robot Coordination in Dynamic Environments Shared with Humans
+  PoseMap  Lifelong  Multi-Environment 3D LiDAR Localization
+  Robust Exploration with Multiple Hypothesis Data Association
+  Simultaneous Task Allocation and Planning Under Uncertainty
+  Development and Error Compensation of a Flexible Multi-Joint Manipulator Applied in Nuclear Fusion Environment
+  Robust Visual-Inertial State Estimation with Multiple Odometries and Efficient Mapping on an MAV with Ultra-Wide FOV Stereo Vision
+  Approximate Distributed Spatiotemporal Topic Models for Multi-Robot Terrain Characterization
+  On the Use of Energy Tanks for Multi-Robot Interconnection
+  A Workbench for Quantitative Comparison of Databases in Multi-Robot Applications
+  Optimal Redeployment of Multirobot Teams for Communication Maintenance
+  Implementation of a Versatile 3D ZMP Trajectory Optimization Algorithm on a Multi-Modal Legged Robotic Platform
+  Vessel Pose Estimation for Obstacle Avoidance in Needle Steering Surgery Using Multiple Forward Looking Sensors
+  ArthroSLAM  Multi-Sensor Robust Visual Localization for Minimally Invasive Orthopedic Surgery
+  Multimotion Visual Odometry  MVO   Simultaneous Estimation of Camera and Third-Party Motions
+  Multi-Level Bayesian Decision-Making for Safe and Flexible Autonomous Navigation in Highway Environment
+  Real-Time Grasp Planning for Multi-Fingered Hands by Finger Splitting
+  Decentralized Motion Control in a Cabled-based Multi-drone Load Transport System
+  Video Motion Capture from the Part Confidence Maps of Multi-Camera Images by Spatiotemporal Filtering Using the Human Skeletal Model
+  A Distributed Swarm Aggregation Algorithm for Bar Shaped Multi-Agent Systems
+  Generation of Context-Dependent Policies for Robot Rescue Decision-Making in Multi-Robot Teams
+  Multi-Limbed Robot Vertical Two Wall Climbing Based on Static Indeterminacy Modeling and Feasibility Region Analysis
+  The KIT Swiss Knife Gripper for Disassembly Tasks  A Multi-Functional Gripper for Bimanual Manipulation with a Single Arm
+  Robot-Supported Multiplayer Rehabilitation  Feasibility Study of Haptically Linked Patient-Spouse Training
+  A Soft-Exosuit Enables Multi-Scale Analysis of Wearable Robotics in a Bipedal Animal Model
+  Airborne Docking for Multi-Rotor Aerial Manipulations
+  Flight Motion of Passing Through Small Opening by DRAGON  Transformable Multilinked Aerial Robot
+  Optimizing Scan Homogeneity for Building Full-3D Lidars Based on Rotating a Multi-Beam Velodyne Range-Finder
+  Modeling and Control of Multiple Aerial-Ground Manipulator System  MAGMaS  with Load Flexibility
+  Determining Effective Swarm Sizes for Multi-Job Type Missions
+  Multi-Robot Virtual Structure Switching and Formation Changing Strategy in an Unknown Occluded Environment
+  Repeatability and Reproducibility Analysis of a Multistable Module Devoted to Digital Microrobotics
+  Transparency-Optimal Passivity Layer Design for Time-Domain Control of Multi-DoF Haptic-Enabled Teleoperation
+  Comparison of Multimodal Heading and Pointing Gestures for Co-Located Mixed Reality Human-Robot Interaction
+  Coverage Control for Multi-Robot Teams with Heterogeneous Sensing Capabilities Using Limited Communications 
+  Sampling of Pareto-Optimal Trajectories Using Progressive Objective Evaluation in Multi-Objective Motion Planning
+  A Multi-Rate State Observer for Visual Tracking of Magnetic Micro-Agents Using 2D Slow Medical Imaging Modalities
+  Human Motion Classification Based on Multi-Modal Sensor Data for Lower Limb Exoskeletons
+  SCALAR - Simultaneous Calibration of 2D Laser and Robot's Kinematic Parameters Using Three Planar Constraints
+  Automatic Calibration of Multiple Cameras and Depth Sensors with a Spherical Target
+  A Robust Time-Stepping Scheme for Quasistatic Rigid Multibody Systems
+  Bidirectional Thrust for Multirotor MAVs with Fixed-Pitch Propellers
+  Real-Time Clustering and Multi-Target Tracking Using Event-Based Sensors
+  Semantic Segmentation from Sparse Labeling Using Multi-Level Superpixels
+  Distributed Direction of Arrival Estimation-Aided Cyberattack Detection in Networked Multi-Robot Systems
+  Automated Control of Multifunctional Magnetic Spores Using Fluorescence Imaging for Microrobotic Cargo Delivery
+  Simultaneous End-User Programming of Goals and Actions for Robotic Shelf Organization
+  Multi-Cable Rolling Locomotion with Spherical Tensegrities Using Model Predictive Control and Deep Learning
+  Rubik's Cube Handling Using a High-Speed Multi-Fingered Hand and a High-Speed Vision System
+  Nonprehensile Pushing Manipulation Strategies for a Multi-Limb Robot 
+  Incremental Object Database  Building 3D Models from Multiple Partial Observations
+  Multimodal Environment Dynamics for Interactive Robots  Towards Fault Detection and Task Monitoring
+  Multi-Stage Learning of Selective Dual-Arm Grasping Based on Obtaining and Pruning Grasping Points Through the Robot Experience in the Real World
+  A Bayesian Framework for Simultaneous Robot Localization and Target Detection and Engagement
+  Multi-Layer Coverage Path Planner for Autonomous Structural Inspection of High-Rise Structures
+  A Multisegment Electro-Active Polymer Based Milli-Continuum Soft Robots
+  Online Foot-Strike Detection Using Inertial Measurements for Multi-Legged Walking Robots
+  Multisensor Online Transfer Learning for 3D LiDAR-Based Human Detection with a Mobile Robot
+  Autonomous Navigation Using Multimodal Potential Field to Initiate Interaction with Multiple People
+  Nonlinear Adaptive Control of Quadrotor Multi-Flipping Maneuvers in the Presence of Time-Varying Torque Latency
+  Multi-Agent Planning for Coordinated Robotic Weed Killing
+  SEAR  A Polynomial- Time Multi-Robot Path Planning Algorithm with Expected Constant-Factor Optimality Guarantee
+  Socially-Aware Navigation Using Non-Linear Multi-Objective Optimization
+  Bio-Inspired Design of a Gliding-Walking Multi-Modal Robot
+  CROC  Convex Resolution of Centroidal Dynamics Trajectories to Provide a Feasibility Criterion for the Multi Contact Planning Problem
+  Towards a Context Enhanced Framework for Multi Object Tracking in Human Robot Collaboration
+  Proactive Robot Assistants for Freeform Collaborative Tasks Through Multimodal Recognition of Generic Subtasks
+  Multi-Modal Robot Apprenticeship  Imitation Learning Using Linearly Decayed DMP  in a Human-Robot Dialogue System

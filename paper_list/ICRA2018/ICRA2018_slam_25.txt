@@ -1,0 +1,26 @@
+total paper: 25
+  Relocalization  Global Optimization and Map Merging for Monocular Visual-Inertial SLAM
+  Elastic LiDAR Fusion  Dense Map-Centric Continuous-Time SLAM
+  Data-Efficient Decentralized Visual SLAM
+  IMLS-SLAM  Scan-to-Model Matching Based on 3D Data
+  A Monocular SLAM System Leveraging Structural Regularity in Manhattan World
+  Feature-Based SLAM for Imaging Sonar with Under-Constrained Landmarks
+  SLAMBench2  Multi-Objective Head-to-Head Benchmarking for Visual SLAM
+  Towards Globally Consistent Visual-Inertial Collaborative SLAM
+  Topomap  Topological Mapping and Navigation Based on Visual SLAM Maps
+  PIRVS  An Advanced Visual-Inertial SLAM System with Flexible Sensor Fusion and Hardware Co-Design
+  ProSLAM  Graph SLAM from a Programmer's Perspective
+  StaticFusion  Background Reconstruction for Dense RGB-D SLAM in Dynamic Environments
+  Constructing Category-Specific Models for Monocular Object-SLAM
+  Efficient Continuous-Time SLAM for 3D Lidar-Based Online Mapping
+  Direct Visual SLAM Using Sparse Depth for Camera-LiDAR System
+  Bayesian Scale Estimation for Monocular SLAM Based on Generic Object Detection for Correcting Scale Drift
+  Efficient Active SLAM Based on Submap Joining  Graph Topology and Convex Optimization
+  2D SLAM Correction Prediction in Large Scale Urban Environments
+  Online Initialization and Automatic Camera-IMU Extrinsic Calibration for Monocular Visual-Inertial SLAM
+  Sonar Visual Inertial SLAM of Underwater Structures
+  Live Structural Modeling Using RGB-D SLAM
+  Complexity Analysis and Efficient Measurement Selection Primitives for High-Rate Graph SLAM
+  Dense Planar-Inertial SLAM with Structural Constraints
+  Feature-constrained Active Visual SLAM for Mobile Robot Navigation
+  Selection and Compression of Local Binary Features for Remote Visual SLAM
