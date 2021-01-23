@@ -1,0 +1,3451 @@
+TY  - CONF
+TI  - Depth by Poking: Learning to Estimate Depth from Self-Supervised Grasping
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10466
+EP  - 10472
+AU  - B. Goodrich
+AU  - A. Kuefler
+AU  - W. D. Richards
+PY  - 2020
+KW  - end effectors
+KW  - image colour analysis
+KW  - manipulator kinematics
+KW  - mean square error methods
+KW  - mobile robots
+KW  - neural nets
+KW  - optical radar
+KW  - robot vision
+KW  - unsupervised learning
+KW  - robotic manipulation
+KW  - neural network
+KW  - RGB-D images
+KW  - physical interactions
+KW  - autonomous grasping policy
+KW  - end effector position labels
+KW  - forward kinematics
+KW  - manipulation systems
+KW  - structured light sensors
+KW  - unsupervised deep learning
+KW  - self-supervised grasping
+KW  - depth estimation
+KW  - LiDAR sensors
+KW  - root mean squared error
+KW  - Estimation
+KW  - Uncertainty
+KW  - Robot sensing systems
+KW  - Training
+KW  - Grasping
+DO  - 10.1109/ICRA40945.2020.9196797
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Accurate depth estimation remains an open problem for robotic manipulation; even state of the art techniques including structured light and LiDAR sensors fail on reflective or transparent surfaces. We address this problem by training a neural network model to estimate depth from RGB-D images, using labels from physical interactions between a robot and its environment. Our network predicts, for each pixel in an input image, the z position that a robot's end effector would reach if it attempted to grasp or poke at the corresponding position. Given an autonomous grasping policy, our approach is self-supervised as end effector position labels can be recovered through forward kinematics, without human annotation. Although gathering such physical interaction data is expensive, it is necessary for training and routine operation of state of the art manipulation systems. Therefore, this depth estimator comes for free while collecting data for other tasks (e.g., grasping, pushing, placing). We show our approach achieves significantly lower root mean squared error than traditional structured light sensors and unsupervised deep learning methods on dif cult, industry-scale jumbled bin datasets.
+ER  - 
+
+TY  - CONF
+TI  - Online Learning of Object Representations by Appearance Space Feature Alignment
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10473
+EP  - 10479
+AU  - S. Pirk
+AU  - M. Khansari
+AU  - Y. Bai
+AU  - C. Lynch
+AU  - P. Sermanet
+PY  - 2020
+KW  - image representation
+KW  - learning (artificial intelligence)
+KW  - online learning
+KW  - object representations
+KW  - appearance space feature alignment
+KW  - monocular videos
+KW  - self-supervised model
+KW  - OCN
+KW  - leverage self-supervision
+KW  - online adaptation
+KW  - online model
+KW  - object identification error
+KW  - offline baseline
+KW  - robotic pointing task
+KW  - object adaptation
+KW  - object-contrastive network
+KW  - Videos
+KW  - Robots
+KW  - Training
+KW  - Measurement
+KW  - Object recognition
+KW  - Video sequences
+KW  - Task analysis
+DO  - 10.1109/ICRA40945.2020.9196567
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - We propose a self-supervised approach for learning representations of objects from monocular videos and demonstrate it is particularly useful for robotics. The main contributions of this paper are: 1) a self-supervised model called Object-Contrastive Network (OCN) that can discover and disentangle object attributes from video without using any labels; 2) we leverage self-supervision for online adaptation: the longer our online model looks at objects in a video, the lower the object identification error, while the offline baseline remains with a large fixed error; 3) we show the usefulness of our approach for a robotic pointing task; a robot can point to objects similar to the one presented in front of it. Videos illustrating online object adaptation and robotic pointing are provided as supplementary material.
+ER  - 
+
+TY  - CONF
+TI  - Visual Prediction of Priors for Articulated Object Interaction
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10480
+EP  - 10486
+AU  - C. Moses
+AU  - M. Noseworthy
+AU  - L. P. Kaelbling
+AU  - T. Lozano-Pérez
+AU  - N. Roy
+PY  - 2020
+KW  - feature extraction
+KW  - intelligent robots
+KW  - mobile robots
+KW  - object detection
+KW  - visual servoing
+KW  - exploratory behavior
+KW  - visual features learning
+KW  - contextual multiarmed bandit
+KW  - parameterized action space
+KW  - articulated object interaction
+KW  - contextual prior prediction
+KW  - Robots
+KW  - Visualization
+KW  - Training
+KW  - Kinematics
+KW  - Gaussian processes
+KW  - Optimization
+KW  - Kernel
+DO  - 10.1109/ICRA40945.2020.9196541
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Exploration in novel settings can be challenging without prior experience in similar domains. However, humans are able to build on prior experience quickly and efficiently. Children exhibit this behavior when playing with toys. For example, given a toy with a yellow and blue door, a child will explore with no clear objective, but once they have discovered how to open the yellow door, they will most likely be able to open the blue door much faster. Adults also exhibit this behaviour when entering new spaces such as kitchens. We develop a method, Contextual Prior Prediction, which provides a means of transferring knowledge between interactions in similar domains through vision. We develop agents that exhibit exploratory behavior with increasing efficiency, by learning visual features that are shared across environments, and how they correlate to actions. Our problem is formulated as a Contextual Multi-Armed Bandit where the contexts are images, and the robot has access to a parameterized action space. Given a novel object, the objective is to maximize reward with few interactions. A domain which strongly exhibits correlations between visual features and motion is kinemetically constrained mechanisms. We evaluate our method on simulated prismatic and revolute joints1.
+ER  - 
+
+TY  - CONF
+TI  - MT-DSSD: Deconvolutional Single Shot Detector Using Multi Task Learning for Object Detection, Segmentation, and Grasping Detection
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10487
+EP  - 10493
+AU  - R. Araki
+AU  - T. Onishi
+AU  - T. Hirakawa
+AU  - T. Yamashita
+AU  - H. Fujiyoshi
+PY  - 2020
+KW  - convolutional neural nets
+KW  - image segmentation
+KW  - learning (artificial intelligence)
+KW  - manipulators
+KW  - object detection
+KW  - MT-DSSD
+KW  - object detection
+KW  - semantic object segmentation
+KW  - grasping point detection
+KW  - multitask learning
+KW  - grasping operation
+KW  - multitask deconvolutional single shot detector
+KW  - robot manipulation
+KW  - Amazon Robotics Challenge dataset
+KW  - Grasping
+KW  - Robots
+KW  - Object detection
+KW  - Semantics
+KW  - Task analysis
+KW  - Deconvolution
+KW  - Feature extraction
+DO  - 10.1109/ICRA40945.2020.9197251
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - This paper presents the multi-task Deconvolutional Single Shot Detector (MT-DSSD), which runs three tasks-object detection, semantic object segmentation, and grasping detection for a suction cup-in a single network based on the DSSD. Simultaneous execution of object detection and segmentation by multi-task learning improves the accuracy of these two tasks. Additionally, the model detects grasping points and performs the three recognition tasks necessary for robot manipulation. The proposed model can perform fast inference, which reduces the time required for grasping operation. Evaluations using the Amazon Robotics Challenge (ARC) dataset showed that our model has better object detection and segmentation performance than comparable methods, and robotic experiments for grasping show that our model can detect the appropriate grasping point.
+ER  - 
+
+TY  - CONF
+TI  - Using Synthetic Data and Deep Networks to Recognize Primitive Shapes for Object Grasping
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10494
+EP  - 10501
+AU  - Y. Lin
+AU  - C. Tang
+AU  - F. -J. Chu
+AU  - P. A. Vela
+PY  - 2020
+KW  - convolutional neural nets
+KW  - dexterous manipulators
+KW  - image segmentation
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - object recognition
+KW  - path planning
+KW  - robot vision
+KW  - shape recognition
+KW  - synthetic data
+KW  - deep networks
+KW  - primitive shape
+KW  - object grasping
+KW  - segmentation-based architecture
+KW  - monocular depth input
+KW  - backbone deep network
+KW  - parametrized grasp families
+KW  - shape primitive region
+KW  - task-free grasping
+KW  - shape primitives
+KW  - task-relevant grasp prediction
+KW  - ranking algorithm
+KW  - task-free grasp prediction
+KW  - Shape
+KW  - Grasping
+KW  - Image segmentation
+KW  - Three-dimensional displays
+KW  - Task analysis
+KW  - Robot sensing systems
+DO  - 10.1109/ICRA40945.2020.9197256
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - A segmentation-based architecture is proposed to decompose objects into multiple primitive shapes from monocular depth input for robotic manipulation. The backbone deep network is trained on synthetic data with 6 classes of primitive shapes generated by a simulation engine. Each primitive shape is designed with parametrized grasp families, permitting the pipeline to identify multiple grasp candidates per shape primitive region. The grasps are priority ordered via proposed ranking algorithm, with the first feasible one chosen for execution. On task-free grasping of individual objects, the method achieves a 94% success rate. On task-oriented grasping, it achieves a 76% success rate. Overall, the method supports the hypothesis that shape primitives can support task-free and task-relevant grasp prediction.
+ER  - 
+
+TY  - CONF
+TI  - Stillleben: Realistic Scene Synthesis for Deep Learning in Robotics
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10502
+EP  - 10508
+AU  - M. Schwarz
+AU  - S. Behnke
+PY  - 2020
+KW  - cameras
+KW  - image segmentation
+KW  - iterative methods
+KW  - learning (artificial intelligence)
+KW  - neural nets
+KW  - pose estimation
+KW  - rendering (computer graphics)
+KW  - robot vision
+KW  - realistic scene synthesis
+KW  - robotics
+KW  - training data
+KW  - deep learning
+KW  - synthesis pipeline
+KW  - cluttered scene perception tasks
+KW  - semantic segmentation
+KW  - object detection
+KW  - physically realistic scenes
+KW  - high-quality rasterization
+KW  - material parameters
+KW  - camera sensors
+KW  - deep neural network
+KW  - training frames
+KW  - iterative render-and-compare approaches
+KW  - YCB-Video dataset
+KW  - Stillleben
+KW  - Training
+KW  - Rendering (computer graphics)
+KW  - Robots
+KW  - Engines
+KW  - Pipelines
+KW  - Task analysis
+KW  - Cameras
+DO  - 10.1109/ICRA40945.2020.9197309
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Training data is the key ingredient for deep learning approaches, but difficult to obtain for the specialized domains often encountered in robotics. We describe a synthesis pipeline capable of producing training data for cluttered scene perception tasks such as semantic segmentation, object detection, and correspondence or pose estimation. Our approach arranges object meshes in physically realistic, dense scenes using physics simulation. The arranged scenes are rendered using high-quality rasterization with randomized appearance and material parameters. Noise and other transformations introduced by the camera sensors are simulated. Our pipeline can be run online during training of a deep neural network, yielding applications in life-long learning and in iterative render-and-compare approaches. We demonstrate the usability by learning semantic segmentation on the challenging YCB-Video dataset without actually using any training frames, where our method achieves performance comparable to a conventionally trained model. Additionally, we show successful application in a real-world regrasping system.
+ER  - 
+
+TY  - CONF
+TI  - A Generative Approach Towards Improved Robotic Detection of Marine Litter
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10525
+EP  - 10531
+AU  - J. Hong
+AU  - M. Fulton
+AU  - J. Sattar
+PY  - 2020
+KW  - image classification
+KW  - learning (artificial intelligence)
+KW  - object detection
+KW  - support vector machines
+KW  - data scarcity problems
+KW  - underwater image datasets
+KW  - visual detection
+KW  - marine debris
+KW  - two-stage variational autoencoder
+KW  - generated imagery
+KW  - two-stage VAE
+KW  - binary classifier
+KW  - multiclass classifier
+KW  - augmentation process
+KW  - trash images
+KW  - underwater trash classification problem
+KW  - data-dependent task
+KW  - quality images
+KW  - Training
+KW  - Image color analysis
+KW  - Plastics
+KW  - Gallium nitride
+KW  - Task analysis
+KW  - Shape
+KW  - Decoding
+DO  - 10.1109/ICRA40945.2020.9197575
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - This paper presents an approach to address data scarcity problems in underwater image datasets for visual detection of marine debris. The proposed approach relies on a two-stage variational autoencoder (VAE) and a binary classifier to evaluate the generated imagery for quality and realism. From the images generated by the two-stage VAE, the binary classifier selects "good quality" images and augments the given dataset with them. Lastly, a multi-class classifier is used to evaluate the impact of the augmentation process by measuring the accuracy of an object detector trained on combinations of real and generated trash images. Our results show that the classifier trained with the augmented data outperforms the one trained only with the real data. This approach will not only be valid for the underwater trash classification problem presented in this paper, but it will also be useful for any data-dependent task for which collecting more images is challenging or infeasible.
+ER  - 
+
+TY  - CONF
+TI  - Spatiotemporal Representation Learning with GAN Trained LSTM-LSTM Networks
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10548
+EP  - 10555
+AU  - Y. Fu
+AU  - S. Sen
+AU  - J. Reimann
+AU  - C. Theurer
+PY  - 2020
+KW  - convolutional neural nets
+KW  - learning (artificial intelligence)
+KW  - learning systems
+KW  - robots
+KW  - unstructured environments
+KW  - unsupervised representation learning architecture
+KW  - underlying representation
+KW  - high-dimensional raw video inputs
+KW  - spatiotemporal representation learning
+KW  - lower-dimensional latent space
+KW  - two-stage learning approach
+KW  - convolutional neural network
+KW  - Long Short-Term Network
+KW  - LSTM-LSTM cells
+KW  - hierarchical representation learning
+KW  - low-dimensional representation
+KW  - video prediction task
+KW  - GAN trained LSTM-LSTM networks
+KW  - robot behavior learning
+KW  - layered spatiotemporal memory long short-term memory
+KW  - generative adversarial network
+KW  - ConvNet
+KW  - Spatiotemporal phenomena
+KW  - Gallium nitride
+KW  - Task analysis
+KW  - Training
+KW  - Generative adversarial networks
+KW  - Robots
+KW  - Feature extraction
+DO  - 10.1109/ICRA40945.2020.9196858
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Learning robot behaviors in unstructured environments often requires handcrafting the features for a given task. In this paper, we present and evaluate an unsupervised representation learning architecture, Layered Spatiotemporal Memory Long Short-Term Memory (LSTM-LSTM), that learns the underlying representation without knowledge of the task. The goal of this architecture is to learn the dynamics of the environment from high-dimensional raw video inputs. Using a Generative Adversarial Network (GAN) framework with the proposed network, this architecture is able to learn a spatiotemporal representation in its lower-dimensional latent space directly from raw input sequences. We show that our approach learns the spatial and temporal information simultaneously as opposed to a two-stage learning approach of alternating between training a Convolutional Neural Network (ConvNet) and a Long Short-Term Network (LSTM). Furthermore, by using LSTM-LSTM cells that shrink in size with the increase in the number of layers, the network learns a hierarchical representation with a low-dimensional representation at the top layer. We show that this architecture achieves state-of-the-art results with a substantially lower-dimensional representation than existing methods. We evaluate our approach on a video prediction task with standard benchmark datasets like Moving MNIST and KTH Action, as well as a simulated robot dataset.
+ER  - 
+
+TY  - CONF
+TI  - Belief Regulated Dual Propagation Nets for Learning Action Effects on Groups of Articulated Objects
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10556
+EP  - 10562
+AU  - A. E. Tekden
+AU  - A. Erdem
+AU  - E. Erdem
+AU  - M. Imre
+AU  - M. Y. Seker
+AU  - E. Ugur
+PY  - 2020
+KW  - backpropagation
+KW  - graph theory
+KW  - neural nets
+KW  - robot programming
+KW  - groups of articulated objects
+KW  - learning action effects
+KW  - complex robotic systems
+KW  - graph neural networks
+KW  - Belief Regulated Dual Propagation nets
+KW  - object interaction
+KW  - object trajectory level
+KW  - belief regulator
+KW  - physics predictor
+KW  - PropNets
+KW  - general-purpose learnable physics engine
+KW  - BRDPN
+KW  - robotics domain
+KW  - Robots
+KW  - Physics
+KW  - Engines
+KW  - Predictive models
+KW  - History
+KW  - Neural networks
+KW  - Trajectory
+DO  - 10.1109/ICRA40945.2020.9196878
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In recent years, graph neural networks have been successfully applied for learning the dynamics of complex and partially observable physical systems. However, their use in the robotics domain is, to date, still limited. In this paper, we introduce Belief Regulated Dual Propagation Networks (BRDPN), a general-purpose learnable physics engine, which enables a robot to predict the effects of its actions in scenes containing groups of articulated multi-part objects. Specifically, our framework extends recently proposed propagation networks (PropNets) and consists of two complementary components, a physics predictor and a belief regulator. While the former predicts the future states of the object(s) manipulated by the robot, the latter constantly corrects the robot's knowledge regarding the objects and their relations. Our results showed that after training in a simulator, the robot can reliably predict the consequences of its actions in object trajectory level and exploit its own interaction experience to correct its belief about the state of the environment, enabling better predictions in partially observable environments. Furthermore, the trained model was transferred to the real world and verified in predicting trajectories of pushed interacting objects whose joint relations were initially unknown. We compared BRDPN against PropNets, and showed that BRDPN performs consistently well. Moreover, BRDPN can adapt its physic predictions, since the relations can be predicted online.
+ER  - 
+
+TY  - CONF
+TI  - Deep Kinematic Models for Kinematically Feasible Vehicle Trajectory Predictions
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10563
+EP  - 10569
+AU  - H. Cui
+AU  - T. Nguyen
+AU  - F. -C. Chou
+AU  - T. -H. Lin
+AU  - J. Schneider
+AU  - D. Bradley
+AU  - N. Djuric
+PY  - 2020
+KW  - intelligent transportation systems
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - neural nets
+KW  - road safety
+KW  - road traffic
+KW  - road vehicles
+KW  - traffic engineering computing
+KW  - trajectory control
+KW  - vehicle dynamics
+KW  - deep learning
+KW  - deep convnets
+KW  - deep kinematic models
+KW  - kinematically feasible vehicle trajectory predictions
+KW  - self driving vehicles
+KW  - traffic safety
+KW  - autonomous technology
+KW  - kinematically feasible motion prediction
+KW  - vehicle kinematics
+KW  - physically grounded vehicle motion models
+KW  - Predictive models
+KW  - Kinematics
+KW  - Trajectory
+KW  - Hidden Markov models
+KW  - Radar tracking
+KW  - Data models
+KW  - Interpolation
+DO  - 10.1109/ICRA40945.2020.9197560
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Self-driving vehicles (SDVs) hold great potential for improving traffic safety and are poised to positively affect the quality of life of millions of people. To unlock this potential one of the critical aspects of the autonomous technology is understanding and predicting future movement of vehicles surrounding the SDV. This work presents a deep-learning- based method for kinematically feasible motion prediction of such traffic actors. Previous work did not explicitly encode vehicle kinematics and instead relied on the models to learn the constraints directly from the data, potentially resulting in kinematically infeasible, suboptimal trajectory predictions. To address this issue we propose a method that seamlessly combines ideas from the AI with physically grounded vehicle motion models. In this way we employ best of the both worlds, coupling powerful learning models with strong feasibility guarantees for their outputs. The proposed approach is general, being applicable to any type of learning method. Extensive experiments using deep convnets on real-world data strongly indicate its benefits, outperforming the existing state-of-the-art.
+ER  - 
+
+TY  - CONF
+TI  - Human Driver Behavior Prediction based on UrbanFlow*
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10570
+EP  - 10576
+AU  - Z. Qiao
+AU  - J. Zhao
+AU  - J. Zhu
+AU  - Z. Tyree
+AU  - P. Mudalige
+AU  - J. Schneider
+AU  - J. M. Dolan
+PY  - 2020
+KW  - decision making
+KW  - driver information systems
+KW  - mobile robots
+KW  - road safety
+KW  - road traffic
+KW  - road vehicles
+KW  - traffic engineering computing
+KW  - transportation
+KW  - human driver behavior prediction
+KW  - public transportation systems
+KW  - fully automatic transportation environments
+KW  - autonomous vehicle decision making
+KW  - planning
+KW  - LSTM-based trajectory prediction method
+KW  - urban scenario
+KW  - Trajectory
+KW  - Autonomous vehicles
+KW  - Data collection
+KW  - Automobiles
+KW  - Roads
+KW  - Drones
+DO  - 10.1109/ICRA40945.2020.9196918
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - How autonomous vehicles and human drivers share public transportation systems is an important problem, as fully automatic transportation environments are still a long way off. Understanding human drivers' behavior can be beneficial for autonomous vehicle decision making and planning, especially when the autonomous vehicle is surrounded by human drivers who have various driving behaviors and patterns of interaction with other vehicles. In this paper, we propose an LSTM-based trajectory prediction method for human drivers which can help the autonomous vehicle make better decisions, especially in urban intersection scenarios. Meanwhile, in order to collect human drivers' driving behavior data in the urban scenario, we describe a system called UrbanFlow which includes the whole procedure from raw bird's-eye view data collection via drone to the final processed trajectories. The system is mainly intended for urban scenarios but can be extended to be used for any traffic scenarios.
+ER  - 
+
+TY  - CONF
+TI  - Environment Prediction from Sparse Samples for Robotic Information Gathering
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10577
+EP  - 10583
+AU  - J. A. Caley
+AU  - G. A. Hollinger
+PY  - 2020
+KW  - handwritten character recognition
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - neural net architecture
+KW  - robot vision
+KW  - environment prediction
+KW  - sparse samples
+KW  - robotics applications
+KW  - neural network architecture
+KW  - spatially correlated data fields
+KW  - spatially continuous samples
+KW  - biased loss functions
+KW  - reconstruction error
+KW  - robotic information gathering trials
+KW  - MNIST hand written digits dataset
+KW  - ocean monitoring
+KW  - regional ocean modeling system ocean dataset
+KW  - ROMS
+KW  - Robots
+KW  - Data models
+KW  - Oceans
+KW  - Neural networks
+KW  - Convolution
+KW  - Network architecture
+KW  - Logic gates
+DO  - 10.1109/ICRA40945.2020.9197263
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Robots often require a model of their environment to make informed decisions. In unknown environments, the ability to infer the value of a data field from a limited number of samples is essential to many robotics applications. In this work, we propose a neural network architecture to model these spatially correlated data fields based on a limited number of spatially continuous samples. Additionally, we provide a method based on biased loss functions to suggest future areas of exploration to minimize reconstruction error. We run simulated robotic information gathering trials on both the MNIST hand written digits dataset and a Regional Ocean Modeling System (ROMS) ocean dataset for ocean monitoring. Our method outperforms Gaussian process regression in both environments for modeling the data field and action selection.
+ER  - 
+
+TY  - CONF
+TI  - Predicting Pushing Action Effects on Spatial Object Relations by Learning Internal Prediction Models
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10584
+EP  - 10590
+AU  - F. Paus
+AU  - T. Huang
+AU  - T. Asfour
+PY  - 2020
+KW  - graph theory
+KW  - humanoid robots
+KW  - learning (artificial intelligence)
+KW  - manipulators
+KW  - spatial object relations
+KW  - learning internal prediction models
+KW  - robot tasks
+KW  - possible action consequences
+KW  - action parameters
+KW  - desired goal states
+KW  - parametrizing pushing actions
+KW  - high-level planner
+KW  - object-centric graphs
+KW  - synthetic data set
+KW  - goal state
+KW  - possible pushing action candidates
+KW  - high prediction accuracy
+KW  - humanoid robot ARMAR-6
+KW  - learned internal model
+KW  - pushing action effects
+KW  - Predictive models
+KW  - Two dimensional displays
+KW  - Robots
+KW  - Data models
+KW  - Physics
+KW  - Three-dimensional displays
+KW  - Analytical models
+DO  - 10.1109/ICRA40945.2020.9197295
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Understanding the effects of actions is essential for planning and executing robot tasks. By imagining possible action consequences, a robot can choose specific action parameters to achieve desired goal states. We present an approach for parametrizing pushing actions based on learning internal prediction models. These pushing actions must fulfill constraints given by a high-level planner, e. g., after the push the brown box must be to the right of the orange box. In this work, we represent the perceived scenes as object-centric graphs and learn an internal model, which predicts object pose changes due to pushing actions. We train this internal model on a large synthetic data set, which was generated in simulation, and record a smaller data set on the real robot for evaluation. For a given scene and goal state, the robot generates a set of possible pushing action candidates by sampling the parameter space and then evaluating the candidates by internal simulation, i. e., by comparing the predicted effect resulting from the internal model with the desired effect provided by the high-level planner. In the evaluation, we show that our model achieves high prediction accuracy in scenes with a varying number of objects and, in contrast to state-of-the-art approaches, is able to generalize to scenes with more objects than seen during training. In experiments on the humanoid robot ARMAR-6, we validate the transfer from simulation and show that the learned internal model can be used to manipulate scenes into desired states effectively.
+ER  - 
+
+TY  - CONF
+TI  - Learning of Key Pose Evaluation for Efficient Multi-contact Motion Planner
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10591
+EP  - 10597
+AU  - S. Noda
+AU  - M. Murooka
+AU  - Y. Asano
+AU  - R. Ishizaki
+AU  - T. Kawakami
+AU  - T. Watabe
+AU  - K. Okada
+AU  - T. Yoshiike
+AU  - M. Inaba
+PY  - 2020
+KW  - humanoid robots
+KW  - learning (artificial intelligence)
+KW  - legged locomotion
+KW  - motion control
+KW  - neural nets
+KW  - path planning
+KW  - pose estimation
+KW  - robot vision
+KW  - robust control
+KW  - transfer functions
+KW  - locomotion
+KW  - uneven terrain
+KW  - multicontact motion planning
+KW  - pose evaluation
+KW  - neural network
+KW  - activation function
+KW  - robust robotics system
+KW  - humanoid robots
+KW  - deep learning
+KW  - depth image
+KW  - Planning
+KW  - Trajectory
+KW  - Torque
+KW  - Legged locomotion
+KW  - Jacobian matrices
+KW  - Knee
+KW  - Collision avoidance
+DO  - 10.1109/ICRA40945.2020.9197189
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - It is necessary to use not only foot but also hand, knee and other body parts to support body weight for locomotion in uneven terrain. Such multi-contact motion planning is an important research topic including lots of previous works; however, a problem of computational speed of planning is still remaining. In this paper, we propose a learning-based algorithm to speed up the planning. The algorithm reduces replanning of contact states by learning an evaluation function of key pose to reach goal. We investigated the learning performance by comparing three neural network configurations and two activation function. This research aims at achieving robust robotics system in unknown environments.
+ER  - 
+
+TY  - CONF
+TI  - Differentiable Gaussian Process Motion Planning
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10598
+EP  - 10604
+AU  - M. Bhardwaj
+AU  - B. Boots
+AU  - M. Mukadam
+PY  - 2020
+KW  - collision avoidance
+KW  - Gaussian processes
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - motion control
+KW  - optimisation
+KW  - trajectory optimization
+KW  - robotics tasks
+KW  - trajectory optimization algorithms
+KW  - differentiable extension
+KW  - GPMP2 algorithm
+KW  - learning-based approach
+KW  - Gaussian process motion planning algorithm
+KW  - motion planning
+KW  - Planning
+KW  - Conferences
+KW  - Automation
+KW  - Gaussian processes
+KW  - Artificial intelligence
+KW  - Trajectory optimization
+KW  - Robots
+DO  - 10.1109/ICRA40945.2020.9197260
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Modern trajectory optimization based approaches to motion planning are fast, easy to implement, and effective on a wide range of robotics tasks. However, trajectory optimization algorithms have parameters that are typically set in advance (and rarely discussed in detail). Setting these parameters properly can have a significant impact on the practical performance of the algorithm, sometimes making the difference between finding a feasible plan or failing at the task entirely. We propose a method for leveraging past experience to learn how to automatically adapt the parameters of Gaussian Process Motion Planning (GPMP) algorithms. Specifically, we propose a differentiable extension to the GPMP2 algorithm, so that it can be trained end-to-end from data. We perform several experiments that validate our algorithm and illustrate the benefits of our proposed learning-based approach to motion planning.
+ER  - 
+
+TY  - CONF
+TI  - Learn and Link: Learning Critical Regions for Efficient Planning
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10605
+EP  - 10611
+AU  - D. Molina
+AU  - K. Kumar
+AU  - S. Srivastava
+PY  - 2020
+KW  - convolutional neural nets
+KW  - learning (artificial intelligence)
+KW  - neurocontrollers
+KW  - path planning
+KW  - sampling methods
+KW  - convolutional neural networks
+KW  - sampling-based planners
+KW  - planning time
+KW  - motion planning problems
+KW  - open motion planning library
+KW  - sampling-based algorithms
+KW  - uniform sampling
+KW  - sampling-based motion planners
+KW  - Planning
+KW  - Probabilistic logic
+KW  - Robots
+KW  - Density measurement
+KW  - Task analysis
+KW  - Buildings
+KW  - Convolutional neural networks
+DO  - 10.1109/ICRA40945.2020.9196833
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - This paper presents a new approach to learning for motion planning (MP) where critical regions of an environment are learned from a given set of motion plans and used to improve performance on new environments and problem instances. We introduce a new suite of sampling-based motion planners, Learn and Link. Our planners leverage critical regions to overcome the limitations of uniform sampling, while still maintaining guarantees of correctness inherent to sampling-based algorithms. We also show that convolutional neural networks (CNNs) can be used to identify critical regions for motion planning problems. We evaluate Learn and Link against planners from the Open Motion Planning Library (OMPL) using an extensive suite of experiments on challenging motion planning problems. We show that our approach requires far less planning time than existing sampling-based planners.
+ER  - 
+
+TY  - CONF
+TI  - Pose-Estimate-Based Target Tracking for Human-Guided Remote Sensor Mounting with a UAV
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10636
+EP  - 10642
+AU  - D. R. McArthur
+AU  - Z. An
+AU  - D. J. Cappelleri
+PY  - 2020
+KW  - autonomous aerial vehicles
+KW  - image sequences
+KW  - pose estimation
+KW  - SLAM (robots)
+KW  - target tracking
+KW  - pose-estimate-based target tracking
+KW  - human-guided remote sensor mounting
+KW  - autonomous aerial manipulation
+KW  - unstructured environments
+KW  - UAV localization
+KW  - PBTT method
+KW  - target point
+KW  - fully on-board computation
+KW  - RGB-D camera
+KW  - downward-facing optical flow camera
+KW  - horizontal localization
+KW  - autonomous flight tests
+KW  - interacting-boomcopter UAV platform
+KW  - UAV position estimator
+KW  - Target tracking
+KW  - Cameras
+KW  - Unmanned aerial vehicles
+KW  - Visualization
+KW  - Task analysis
+KW  - Surface cleaning
+KW  - Three-dimensional displays
+DO  - 10.1109/ICRA40945.2020.9196514
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In this paper, we present a method for pose-estimate-based target tracking (PBTT) that enables the performance of autonomous aerial manipulation operations in unstructured environments using fully on-board computation for both UAV localization and target tracking. The PBTT method does not depend on extracting traditional visual features (e.g. using SIFT, SURF, ORB, etc.) on or near the target. Instead, the algorithm combines input from an RGB-D camera and the UAV's position estimator (which utilizes a downward-facing optical flow camera for horizontal localization) to track a target point selected by a human operator. The effectiveness of the PBTT method is evaluated through several autonomous flight tests performed with the Interacting-Boomcopter (I-BC) UAV platform in unstructured environments and in the presence of light wind disturbances.
+ER  - 
+
+TY  - CONF
+TI  - EVDodgeNet: Deep Dynamic Obstacle Dodging with Event Cameras
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10651
+EP  - 10657
+AU  - N. J. Sanket
+AU  - C. M. Parameshwara
+AU  - C. D. Singh
+AU  - A. V. Kuruttukulam
+AU  - C. Fermüller
+AU  - D. Scaramuzza
+AU  - Y. Aloimonos
+PY  - 2020
+KW  - cameras
+KW  - collision avoidance
+KW  - control engineering computing
+KW  - helicopters
+KW  - learning (artificial intelligence)
+KW  - neural nets
+KW  - object detection
+KW  - robot vision
+KW  - deep dynamic obstacle dodging
+KW  - dynamic obstacle avoidance
+KW  - quadrotor
+KW  - deep learning
+KW  - single event camera
+KW  - shallow neural networks
+KW  - ego-motion
+KW  - low light testing scenario
+KW  - EVDodgeNet
+KW  - Cameras
+KW  - Collision avoidance
+KW  - Motion segmentation
+KW  - Machine learning
+KW  - Optical imaging
+KW  - Robot vision systems
+KW  - Image segmentation
+DO  - 10.1109/ICRA40945.2020.9196877
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Dynamic obstacle avoidance on quadrotors requires low latency. A class of sensors that are particularly suitable for such scenarios are event cameras. In this paper, we present a deep learning based solution for dodging multiple dynamic obstacles on a quadrotor with a single event camera and on-board computation. Our approach uses a series of shallow neural networks for estimating both the ego-motion and the motion of independently moving objects. The networks are trained in simulation and directly transfer to the real world without any fine-tuning or retraining. We successfully evaluate and demonstrate the proposed approach in many real-world experiments with obstacles of different shapes and sizes, achieving an overall success rate of 70% including objects of unknown shape and a low light testing scenario. To our knowledge, this is the first deep learning - based solution to the problem of dynamic obstacle avoidance using event cameras on a quadrotor. Finally, we also extend our work to the pursuit task by merely reversing the control policy, proving that our navigation stack can cater to different scenarios.
+ER  - 
+
+TY  - CONF
+TI  - On training datasets for machine learning-based visual relative localization of micro-scale UAVs
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10674
+EP  - 10680
+AU  - V. Walter
+AU  - M. Vrba
+AU  - M. Saska
+PY  - 2020
+KW  - autonomous aerial vehicles
+KW  - image classification
+KW  - learning (artificial intelligence)
+KW  - microrobots
+KW  - mobile robots
+KW  - object detection
+KW  - training datasets
+KW  - machine learning-based visual relative localization
+KW  - microscale UAVs
+KW  - relative Microscale Unmanned Aerial Vehicle localization sensor UVDAR
+KW  - automatically annotated dataset MIDGARD
+KW  - MAVs
+KW  - visual object detection
+KW  - carefully crafted training dataset
+KW  - annotated camera footage
+KW  - Cameras
+KW  - Training
+KW  - Observers
+KW  - Visualization
+KW  - Image color analysis
+KW  - Global navigation satellite system
+KW  - Position measurement
+DO  - 10.1109/ICRA40945.2020.9196947
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - By leveraging our relative Micro-scale Unmanned Aerial Vehicle localization sensor UVDAR, we generated an automatically annotated dataset MIDGARD, which the community is invited to use for training and testing their machine learning systems for the detection and localization of Microscale Unmanned Aerial Vehicles (MAVs) by other MAVs. Furthermore, we provide our system as a mechanism for rapidly generating custom annotated datasets specifically tailored for the needs of a given application. The recent literature is rich in applications of machine learning methods in automation and robotics. One particular subset of these methods is visual object detection and localization, using means such as Convolutional Neural Networks, which nowadays enable objects to be detected and classified with previously inconceivable precision and reliability. Most of these applications, however, rely on a carefully crafted training dataset of annotated camera footage. These must contain the objects of interest in environments similar to those where the detector is expected to operate. Notably, the positions of the objects must be provided in annotations. For non-laboratory settings, the construction of such datasets requires many man-hours of manual annotation, which is especially the case for use onboard Micro-scale Unmanned Aerial Vehicles. In this paper, we are providing for the community a practical alternative to that kind of approach.
+ER  - 
+
+TY  - CONF
+TI  - Dynamic Actor-Advisor Programming for Scalable Safe Reinforcement Learning
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10681
+EP  - 10687
+AU  - L. Zhu
+AU  - Y. Cui
+AU  - T. Matsubara
+PY  - 2020
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - scalable safe reinforcement learning
+KW  - real-world robots
+KW  - complex strict constraints
+KW  - safe reinforcement learning algorithms
+KW  - high-dimensional systems
+KW  - DAAP
+KW  - sample efficiency
+KW  - dynamic actor-advisor programming
+KW  - dynamic policy programming framework
+KW  - constraint violation risk
+KW  - Dynamic programming
+KW  - Programming
+KW  - Robots
+KW  - Learning (artificial intelligence)
+KW  - Heuristic algorithms
+KW  - Task analysis
+KW  - Training
+DO  - 10.1109/ICRA40945.2020.9197200
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Real-world robots have complex strict constraints. Therefore, safe reinforcement learning algorithms that can simultaneously minimize the total cost and the risk of constraint violation are crucial. However, almost no algorithms exist that can scale to high-dimensional systems to the best of our knowledge. In this paper, we propose Dynamic Actor-Advisor Programming (DAAP), as an algorithm for sample-efficient and scalable safe reinforcement learning. DAAP employs two control policies, actor and advisor. They are updated to minimize total cost and risk of constraint violation intertwiningly and smoothly towards each other's direction by using the other as the baseline policy in the Kullback-Leibler divergence of Dynamic Policy Programming framework. We demonstrate the scalability and sample efficiency of DAAP through its application on simulated robot arm control tasks with performance comparisons to baselines.
+ER  - 
+
+TY  - CONF
+TI  - Discrete Deep Reinforcement Learning for Mapless Navigation
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10688
+EP  - 10694
+AU  - E. Marchesini
+AU  - A. Farinelli
+PY  - 2020
+KW  - discrete systems
+KW  - gradient methods
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - navigation
+KW  - optimisation
+KW  - state-space methods
+KW  - mapless navigation
+KW  - discrete state space algorithms
+KW  - continuous alternatives
+KW  - double deep Q-network
+KW  - parallel asynchronous training
+KW  - training time
+KW  - proximal policy optimization algorithms
+KW  - original discrete algorithm
+KW  - continuous algorithms
+KW  - continuous deep deterministic policy gradient
+KW  - multibatch priority experience replay
+KW  - discrete deep reinforcement
+KW  - Training
+KW  - Navigation
+KW  - Robot kinematics
+KW  - Robot sensing systems
+KW  - Optimization
+KW  - Machine learning
+DO  - 10.1109/ICRA40945.2020.9196739
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Our goal is to investigate whether discrete state space algorithms are a viable solution to continuous alternatives for mapless navigation. To this end we present an approach based on Double Deep Q-Network and employ parallel asynchronous training and a multi-batch Priority Experience Replay to reduce the training time. Experiments show that our method trains faster and outperforms both the continuous Deep Deterministic Policy Gradient and Proximal Policy Optimization algorithms. Moreover, we train the models in a custom environment built on the recent Unity learning toolkit and show that they can be exported on the TurtleBot3 simulator and to the real robot without further training. Overall our optimized method is 40% faster compared to the original discrete algorithm. This setting significantly reduces the training times with respect to the continuous algorithms, maintaining a similar level of success rate hence being a viable alternative for mapless navigation.
+ER  - 
+
+TY  - CONF
+TI  - Learning Multi-Robot Decentralized Macro-Action-Based Policies via a Centralized Q-Net
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10695
+EP  - 10701
+AU  - Y. Xiao
+AU  - J. Hoffman
+AU  - T. Xia
+AU  - C. Amato
+PY  - 2020
+KW  - decentralised control
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - multi-agent systems
+KW  - multi-robot systems
+KW  - recurrent neural nets
+KW  - multirobot decentralized macro-action-based policies
+KW  - centralized Q-net
+KW  - decentralized control
+KW  - decentralized multiagent reinforcement learning
+KW  - decentralized Q-net
+KW  - decentralized exploration
+KW  - macro-action based decentralized multiagent double deep recurrent Q-net
+KW  - Parallel-MacDec-MADDRQN
+KW  - Robot kinematics
+KW  - Training
+KW  - Tools
+KW  - Task analysis
+KW  - Machine learning
+KW  - History
+DO  - 10.1109/ICRA40945.2020.9196684
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In many real-world multi-robot tasks, high-quality solutions often require a team of robots to perform asynchronous actions under decentralized control. Decentralized multi-agent reinforcement learning methods have difficulty learning decentralized policies because of the environment appearing to be non-stationary due to other agents also learning at the same time. In this paper, we address this challenge by proposing a macro-action-based decentralized multi-agent double deep recurrent Q-net (MacDec-MADDRQN) which trains each decentralized Q-net using a centralized Q-net for action selection. A generalized version of MacDec-MADDRQN with two separate training environments, called Parallel-MacDec-MADDRQN, is also presented to leverage either centralized or decentralized exploration. The advantages and the practical nature of our methods are demonstrated by achieving near-centralized results in simulation and having real robots accomplish a warehouse tool delivery task in an efficient way.
+ER  - 
+
+TY  - CONF
+TI  - Robust Model-free Reinforcement Learning with Multi-objective Bayesian Optimization
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10702
+EP  - 10708
+AU  - M. Turchetta
+AU  - A. Krause
+AU  - S. Trimpe
+PY  - 2020
+KW  - Bayes methods
+KW  - learning (artificial intelligence)
+KW  - neural nets
+KW  - optimisation
+KW  - pendulums
+KW  - robust model-free reinforcement learning
+KW  - multiobjective Bayesian optimization
+KW  - autonomous agent
+KW  - exogenous reward signal
+KW  - test conditions
+KW  - pure reward maximization
+KW  - model-free case
+KW  - robust model-free RL problem
+KW  - multiobjective optimization problem
+KW  - robustness indicators
+KW  - robust formulation
+KW  - Robustness
+KW  - Optimization
+KW  - Training
+KW  - Control theory
+KW  - Computational modeling
+KW  - Learning (artificial intelligence)
+KW  - Bayes methods
+DO  - 10.1109/ICRA40945.2020.9197000
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In reinforcement learning (RL), an autonomous agent learns to perform complex tasks by maximizing an exogenous reward signal while interacting with its environment. In real world applications, test conditions may differ substantially from the training scenario and, therefore, focusing on pure reward maximization during training may lead to poor results at test time. In these cases, it is important to trade-off between performance and robustness while learning a policy. While several results exist for robust, model-based RL, the model-free case has not been widely investigated. In this paper, we cast the robust, model-free RL problem as a multi-objective optimization problem. To quantify the robustness of a policy, we use delay margin and gain margin, two robustness indicators that are common in control theory. We show how these metrics can be estimated from data in the model-free setting. We use multi-objective Bayesian optimization (MOBO) to solve efficiently this expensive-to-evaluate, multi-objective optimization problem. We show the benefits of our robust formulation both in sim-to-real and pure hardware experiments to balance a Furuta pendulum.
+ER  - 
+
+TY  - CONF
+TI  - A Unified Framework for Piecewise Semantic Reconstruction in Dynamic Scenes via Exploiting Superpixel Relations
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10737
+EP  - 10743
+AU  - Y. Di
+AU  - H. Morimitsu
+AU  - Z. Lou
+AU  - X. Ji
+PY  - 2020
+KW  - image motion analysis
+KW  - image reconstruction
+KW  - image segmentation
+KW  - image sequences
+KW  - motion estimation
+KW  - object detection
+KW  - dense piecewise semantic reconstruction
+KW  - superpixel relations
+KW  - structure-from-motion
+KW  - superpixel relation analysis
+KW  - motion relations
+KW  - semantic instance segmentation
+KW  - dynamic scenes
+KW  - moving objects
+KW  - spatial relations
+KW  - Semantics
+KW  - Motion segmentation
+KW  - Image reconstruction
+KW  - Motion estimation
+KW  - Pipelines
+KW  - Silicon
+KW  - Dynamics
+DO  - 10.1109/ICRA40945.2020.9197240
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - This paper presents a novel framework for dense piecewise semantic reconstruction in dynamic scenes containing complex background and moving objects via exploiting superpixel relations. We utilize two kinds of superpixel relations: motion relations and spatial relations, each having three subcategories: coplanar, hinge, and crack. Spatial relations provide constraints on the spatial locations of neighboring superpixels and thus can be used to reconstruct dynamic scenes. However, spatial relations can not be estimated directly with epipolar geometry due to moving objects in dynamic scenes. We synthesize the results of semantic instance segmentation and motion relations to estimate spatial relations. Given consecutive frames, we mainly develop our method in five main stages: preprocessing, motion estimation, superpixel relation analysis, reconstruction and refinement. Extensive experiments on various datasets demonstrate that our method outperforms competitors in reconstruction quality. Furthermore, our method presents a feasible way to incorporate semantic information in Structure-from-Motion (SFM) based reconstruction pipelines.
+ER  - 
+
+TY  - CONF
+TI  - Keyframe-based Dense Mapping with the Graph of View-Dependent Local Maps
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10744
+EP  - 10750
+AU  - K. Zieliński
+AU  - D. Belter
+PY  - 2020
+KW  - cameras
+KW  - graph theory
+KW  - image colour analysis
+KW  - image sensors
+KW  - mobile robots
+KW  - normal distribution
+KW  - robot vision
+KW  - SLAM (robots)
+KW  - camera origin
+KW  - pose graph
+KW  - NDT-OM
+KW  - keyframe-based dense mapping
+KW  - keyframe-based mapping system
+KW  - RGB-D sensor
+KW  - 2D view-dependent structures
+KW  - uncertainty model
+KW  - RGB-D cameras
+KW  - view-dependent local maps
+KW  - normal distribution transform maps
+KW  - global map
+KW  - loop closure detection
+KW  - autonomous robots
+KW  - SLAM
+KW  - Ellipsoids
+KW  - Three-dimensional displays
+KW  - Robot sensing systems
+KW  - Cameras
+KW  - Two dimensional displays
+KW  - Uncertainty
+DO  - 10.1109/ICRA40945.2020.9196865
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In this article, we propose a new keyframe-based mapping system. The proposed method updates local Normal Distribution Transform maps (NDT) using data from an RGB-D sensor. The cells of the NDT are stored in 2D view-dependent structures to better utilize the properties and uncertainty model of RGB-D cameras. This method naturally represents an object closer to the camera origin with higher precision. The local maps are stored in the pose graph which allows correcting global map after loop closure detection. We also propose a procedure that allows merging and filtering local maps to obtain a global map of the environment. Finally, we compare our method with Octomap and NDT-OM and provide example applications of the proposed mapping method.
+ER  - 
+
+TY  - CONF
+TI  - Informative Path Planning for Active Field Mapping under Localization Uncertainty
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10751
+EP  - 10757
+AU  - M. Popović
+AU  - T. Vidal-Calleja
+AU  - J. J. Chung
+AU  - J. Nieto
+AU  - R. Siegwart
+PY  - 2020
+KW  - Gaussian processes
+KW  - mobile robots
+KW  - path planning
+KW  - informative path planning
+KW  - active field mapping
+KW  - localization uncertainty
+KW  - information gathering algorithms
+KW  - efficient data collection
+KW  - fundamental problem
+KW  - implicit requirement
+KW  - high-quality maps
+KW  - informative planning framework
+KW  - active mapping
+KW  - Gaussian process model
+KW  - target environmental field
+KW  - utility function
+KW  - field mapping objectives
+KW  - GP-based mapping scenarios
+KW  - mean pose uncertainty
+KW  - map error
+KW  - indoor temperature mapping scenario
+KW  - Uncertainty
+KW  - Planning
+KW  - Robot sensing systems
+KW  - Trajectory
+KW  - Manuals
+KW  - Robot localization
+DO  - 10.1109/ICRA40945.2020.9197034
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Information gathering algorithms play a key role in unlocking the potential of robots for efficient data collection in a wide range of applications. However, most existing strategies neglect the fundamental problem of the robot pose uncertainty, which is an implicit requirement for creating robust, high-quality maps. To address this issue, we introduce an informative planning framework for active mapping that explicitly accounts for the pose uncertainty in both the mapping and planning tasks. Our strategy exploits a Gaussian Process (GP) model to capture a target environmental field given the uncertainty on its inputs. For planning, we formulate a new utility function that couples the localization and field mapping objectives in GP-based mapping scenarios in a principled way, without relying on manually-tuned parameters. Extensive simulations show that our approach outperforms existing strategies, reducing mean pose uncertainty and map error. We present a proof of concept in an indoor temperature mapping scenario.
+ER  - 
+
+TY  - CONF
+TI  - Ensemble of Sparse Gaussian Process Experts for Implicit Surface Mapping with Streaming Data
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10758
+EP  - 10764
+AU  - J. A. Stork
+AU  - T. Stoyanov
+PY  - 2020
+KW  - Gaussian processes
+KW  - mobile robots
+KW  - path planning
+KW  - regression analysis
+KW  - robot vision
+KW  - SLAM (robots)
+KW  - sparse Gaussian process experts
+KW  - implicit surface mapping
+KW  - streaming data
+KW  - creating maps
+KW  - robotics
+KW  - navigation
+KW  - compact surface map
+KW  - continuous implicit surface map
+KW  - range data
+KW  - approximate Gaussian process experts
+KW  - GP models
+KW  - model complexity
+KW  - prediction error
+KW  - real-world data sets
+KW  - compact surface models
+KW  - accurate implicit surface models
+KW  - exact GP regression
+KW  - subsampled data
+KW  - Surface treatment
+KW  - Data models
+KW  - Predictive models
+KW  - Covariance matrices
+KW  - Gaussian processes
+KW  - Computational modeling
+KW  - Measurement uncertainty
+DO  - 10.1109/ICRA40945.2020.9196620
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Creating maps is an essential task in robotics and provides the basis for effective planning and navigation. In this paper, we learn a compact and continuous implicit surface map of an environment from a stream of range data with known poses. For this, we create and incrementally adjust an ensemble of approximate Gaussian process (GP) experts which are each responsible for a different part of the map. Instead of inserting all arriving data into the GP models, we greedily trade-off between model complexity and prediction error. Our algorithm therefore uses less resources on areas with few geometric features and more where the environment is rich in variety. We evaluate our approach on synthetic and real-world data sets and analyze sensitivity to parameters and measurement noise. The results show that we can learn compact and accurate implicit surface models under different conditions, with a performance comparable to or better than that of exact GP regression with subsampled data.
+ER  - 
+
+TY  - CONF
+TI  - Robust Method for Removing Dynamic Objects from Point Clouds
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10765
+EP  - 10771
+AU  - S. Pagad
+AU  - D. Agarwal
+AU  - S. Narayanan
+AU  - K. Rangan
+AU  - H. Kim
+AU  - G. Yalla
+PY  - 2020
+KW  - image capture
+KW  - image filtering
+KW  - image registration
+KW  - image representation
+KW  - object detection
+KW  - optical radar
+KW  - robot vision
+KW  - 3D point cloud maps
+KW  - dynamic object removal
+KW  - laser scans
+KW  - lidar scans
+KW  - object detection
+KW  - voxel traversal method
+KW  - Three-dimensional displays
+KW  - Vehicle dynamics
+KW  - Octrees
+KW  - Object detection
+KW  - Laser modes
+KW  - Feature extraction
+DO  - 10.1109/ICRA40945.2020.9197168
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - 3D point cloud maps are an accumulation of laser scans obtained at different positions and times. Since laser scans represent a snapshot of the surrounding at the time of capture, they often contain moving objects which may not be observed at all times. Dynamic objects in point cloud maps decrease the quality of maps and affect localization accuracy, hence it is important to remove the dynamic objects from 3D point cloud maps. In this paper, we present a robust method to remove dynamic objects from 3D point cloud maps. Given a registered set of 3D point clouds, we build an occupancy map in which the voxels represent the occupancy state of the volume of space over an extended time period. After building the occupancy map, we use it as a filter to remove dynamic points in lidar scans before adding the points to the map. Furthermore, we accelerate the process of building occupancy maps using object detection and a novel voxel traversal method. Once the occupancy map is built, dynamic object removal can run in real-time. Our approach works well on wide urban roads with stopped or moving traffic and the occupancy maps get better with the inclusion of more lidar scans from the same scene.
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Semantic Stereo Matching
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10780
+EP  - 10787
+AU  - P. L. Dovesi
+AU  - M. Poggi
+AU  - L. Andraghetti
+AU  - M. Martí
+AU  - H. Kjellström
+AU  - A. Pieropan
+AU  - S. Mattoccia
+PY  - 2020
+KW  - image matching
+KW  - image segmentation
+KW  - inference mechanisms
+KW  - neural nets
+KW  - semantic networks
+KW  - stereo image processing
+KW  - augmented reality
+KW  - deep neural networks
+KW  - semantic segmentation
+KW  - inference
+KW  - semantic stereo image matching
+KW  - coarse-to-fine estimations
+KW  - embedded devices
+KW  - GPU
+KW  - embedded Jetson TX2
+KW  - Semantics
+KW  - Feature extraction
+KW  - Task analysis
+KW  - Estimation
+KW  - Three-dimensional displays
+KW  - Image segmentation
+KW  - Computer architecture
+DO  - 10.1109/ICRA40945.2020.9196784
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Scene understanding is paramount in robotics, self-navigation, augmented reality, and many other fields. To fully accomplish this task, an autonomous agent has to infer the 3D structure of the sensed scene (to know where it looks at) and its content (to know what it sees). To tackle the two tasks, deep neural networks trained to infer semantic segmentation and depth from stereo images are often the preferred choices. Specifically, Semantic Stereo Matching can be tackled by either standalone models trained for the two tasks independently or joint end-to-end architectures. Nonetheless, as proposed so far, both solutions are inefficient because requiring two forward passes in the former case or due to the complexity of a single network in the latter, although jointly tackling both tasks is usually beneficial in terms of accuracy. In this paper, we propose a single compact and lightweight architecture for real-time semantic stereo matching. Our framework relies on coarse-to-fine estimations in a multi-stage fashion, allowing: i) very fast inference even on embedded devices, with marginal drops in accuracy, compared to state-of-the-art networks, ii) trade accuracy for speed, according to the specific application requirements. Experimental results on high-end GPUs as well as on an embedded Jetson TX2 confirm the superiority of semantic stereo matching compared to standalone tasks and highlight the versatility of our framework on any hardware and for any application.
+ER  - 
+
+TY  - CONF
+TI  - Multi-Task Learning for Single Image Depth Estimation and Segmentation Based on Unsupervised Network
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10788
+EP  - 10794
+AU  - Y. Lu
+AU  - M. Sarkis
+AU  - G. Lu
+PY  - 2020
+KW  - computer vision
+KW  - convolutional neural nets
+KW  - image segmentation
+KW  - learning (artificial intelligence)
+KW  - regression analysis
+KW  - single image depth estimation
+KW  - unsupervised network
+KW  - deep neural networks
+KW  - computer vision tasks
+KW  - image segmentation
+KW  - encoder-decoder-based interactive convolutional neural network
+KW  - multitask learning framework
+KW  - CNN
+KW  - pixel depth regression
+KW  - Image segmentation
+KW  - Estimation
+KW  - Task analysis
+KW  - Training
+KW  - Feature extraction
+KW  - Neural networks
+KW  - Image reconstruction
+DO  - 10.1109/ICRA40945.2020.9196723
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Deep neural networks have significantly enhanced the performance of various computer vision tasks, including single image depth estimation and image segmentation. However, most existing approaches handle them in supervised manners and require a large number of ground truth labels that consume extensive human efforts and are not always available in real scenarios. In this paper, we propose a novel framework to estimate disparity maps and segment images simultaneously by jointly training an encoder-decoder-based interactive convolutional neural network (CNN) for single image depth estimation and a multiple class CNN for image segmentation. Learning the neural network for one task can be beneficial from simultaneously learning from another one under a multi-task learning framework. We show that our proposed model can learn per-pixel depth regression and segmentation from just a single image input. Extensive experiments on available public datasets, including KITTI, Cityscapes urban, and PASCAL-VOC demonstrate the effectiveness of our model compared with other state-of-the-art methods for both tasks.
+ER  - 
+
+TY  - CONF
+TI  - Leveraging the Template and Anchor Framework for Safe, Online Robotic Gait Design
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10869
+EP  - 10875
+AU  - J. Liu
+AU  - P. Zhao
+AU  - Z. Gan
+AU  - M. Johnson-Roberson
+AU  - R. Vasudevan
+PY  - 2020
+KW  - control system synthesis
+KW  - legged locomotion
+KW  - predictive control
+KW  - reduced order systems
+KW  - robot dynamics
+KW  - safety-preserving controllers
+KW  - model predictive control
+KW  - 5-link RABBIT model
+KW  - anchor framework
+KW  - online robotic gait design
+KW  - online control design
+KW  - bipedal robot
+KW  - reduced-order model
+KW  - control synthesis
+KW  - template framework
+KW  - safe robotic gait design
+KW  - Legged locomotion
+KW  - Rabbits
+KW  - Safety
+KW  - Foot
+KW  - Predictive models
+KW  - Control systems
+KW  - Bipeds
+KW  - underactuated system
+KW  - safety guarantee
+DO  - 10.1109/ICRA40945.2020.9197017
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Online control design using a high-fidelity, full-order model for a bipedal robot can be challenging due to the size of the state space of the model. A commonly adopted solution to overcome this challenge is to approximate the fullorder model (anchor) with a simplified, reduced-order model (template), while performing control synthesis. Unfortunately it is challenging to make formal guarantees about the safety of an anchor model using a controller designed in an online fashion using a template model. To address this problem, this paper proposes a method to generate safety-preserving controllers for anchor models by performing reachability analysis on template models by relying on functions that bound the difference between the two models. This paper describes how this reachable set can be incorporated into a Model Predictive Control framework to select controllers that result in safe walking on the anchor model in an online fashion. The method is illustrated on a 5-link RABBIT model, and is shown to allow the robot to walk safely while utilizing controllers designed in an online fashion.
+ER  - 
+
+TY  - CONF
+TI  - Unified Push Recovery Fundamentals: Inspiration from Human Study
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10876
+EP  - 10882
+AU  - C. McGreavy
+AU  - K. Yuan
+AU  - D. Gordon
+AU  - K. Tan
+AU  - W. J. Wolfslag
+AU  - S. Vijayakumar
+AU  - Z. Li
+PY  - 2020
+KW  - humanoid robots
+KW  - legged locomotion
+KW  - mechanical stability
+KW  - motion control
+KW  - position control
+KW  - predictive control
+KW  - time optimal control
+KW  - unified push recovery fundamentals
+KW  - humanoid robots
+KW  - stepping strategies
+KW  - balance strategies
+KW  - minimum jerk controller
+KW  - human behaviour
+KW  - model-predictive control
+KW  - recovery motions
+KW  - robotic systems
+KW  - human balance recovery
+KW  - legged machines
+KW  - time-optimal performance
+KW  - Modulation
+KW  - Robots
+KW  - Hip
+KW  - Stability criteria
+KW  - Foot
+KW  - Force
+DO  - 10.1109/ICRA40945.2020.9196911
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Currently for balance recovery, humans outperform humanoid robots which use hand-designed controllers in terms of the diverse actions. This study aims to close this gap by finding core control principles that are shared across ankle, hip, toe and stepping strategies by formulating experiments to test human balance recoveries and define criteria to quantify the strategy in use. To reveal fundamental principles of balance strategies, our study shows that a minimum jerk controller can accurately replicate comparable human behaviour at the Centre of Mass level. Therefore, we formulate a general Model-Predictive Control (MPC) framework to produce recovery motions in any system, including legged machines, where the framework parameters are tuned for time-optimal performance in robotic systems.
+ER  - 
+
+TY  - CONF
+TI  - DISCO: Double Likelihood-free Inference Stochastic Control
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10969
+EP  - 10975
+AU  - L. Barcelos
+AU  - R. Oliveira
+AU  - R. Possas
+AU  - L. Ott
+AU  - F. Ramos
+PY  - 2020
+KW  - Bayes methods
+KW  - control system synthesis
+KW  - differential equations
+KW  - Monte Carlo methods
+KW  - predictive control
+KW  - probability
+KW  - robust control
+KW  - sampling methods
+KW  - stochastic systems
+KW  - transforms
+KW  - uncertain systems
+KW  - double likelihood-free inference stochastic control
+KW  - complex physical systems
+KW  - control strategies
+KW  - analytical tractability
+KW  - probabilistic inference
+KW  - simulation parameters
+KW  - likelihood function
+KW  - modern simulators
+KW  - nonanalytical model
+KW  - classical control
+KW  - model parameters
+KW  - DISCO
+KW  - differential equations
+KW  - numerical solvers
+KW  - uncertainty assessment
+KW  - Bayesian statistics
+KW  - likelihood-free inference
+KW  - control framework design
+KW  - unscented transform
+KW  - information theoretical model predictive control
+KW  - Monte Carlo sampling
+KW  - robotics tasks
+KW  - posterior distribution
+KW  - Uncertainty
+KW  - Trajectory
+KW  - Mathematical model
+KW  - Computational modeling
+KW  - Numerical models
+KW  - Stochastic processes
+KW  - Cost function
+DO  - 10.1109/ICRA40945.2020.9196931
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Accurate simulation of complex physical systems enables the development, testing, and certification of control strategies before they are deployed into the real systems. As simulators become more advanced, the analytical tractability of the differential equations and associated numerical solvers incorporated in the simulations diminishes, making them difficult to analyse. A potential solution is the use of probabilistic inference to assess the uncertainty of the simulation parameters given real observations of the system. Unfortunately the likelihood function required for inference is generally expensive to compute or totally intractable. In this paper we propose to leverage the power of modern simulators and recent techniques in Bayesian statistics for likelihood-free inference to design a control framework that is efficient and robust with respect to the uncertainty over simulation parameters. The posterior distribution over simulation parameters is propagated through a potentially non-analytical model of the system with the unscented transform, and a variant of the information theoretical model predictive control. This approach provides a more efficient way to evaluate trajectory roll outs than Monte Carlo sampling, reducing the online computation burden. Experiments show that the controller proposed attained superior performance and robustness on classical control and robotics tasks when compared to models not accounting for the uncertainty over model parameters.
+ER  - 
+
+TY  - CONF
+TI  - Sufficiently Accurate Model Learning
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10991
+EP  - 10997
+AU  - C. Zhang
+AU  - A. Khan
+AU  - S. Paternain
+AU  - A. Ribeiro
+PY  - 2020
+KW  - learning (artificial intelligence)
+KW  - control algorithms
+KW  - primal-dual method
+KW  - sufficiently accurate models
+KW  - traditional control
+KW  - error characteristics
+KW  - inaccurate physical measurements
+KW  - planning algorithms
+KW  - robot
+KW  - accurate model learning
+KW  - Task analysis
+KW  - Optimization
+KW  - Data models
+KW  - Adaptation models
+KW  - Heuristic algorithms
+KW  - Neural networks
+KW  - Planning
+DO  - 10.1109/ICRA40945.2020.9197502
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Modeling how a robot interacts with the environment around it is an important prerequisite for designing control and planning algorithms. In fact, the performance of controllers and planners is highly dependent on the quality of the model. One popular approach is to learn data driven models in order to compensate for inaccurate physical measurements and to adapt to systems that evolve over time. In this paper, we investigate a method to regularize model learning techniques to provide better error characteristics for traditional control and planning algorithms. This work proposes learning "Sufficiently Accurate" models of dynamics using a primal-dual method that can explicitly enforce constraints on the error in pre-defined parts of the state-space. The result of this method is that the error characteristics of the learned model is more predictable and can be better utilized by planning and control algorithms. The characteristics of Sufficiently Accurate models are analyzed through experiments on a simulated ball paddle system.
+ER  - 
+
+TY  - CONF
+TI  - Towards Plan Transformations for Real-World Mobile Fetch and Place
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11011
+EP  - 11017
+AU  - G. Kazhoyan
+AU  - A. Niedzwiecki
+AU  - M. Beetz
+PY  - 2020
+KW  - manipulators
+KW  - mobile robots
+KW  - path planning
+KW  - service robots
+KW  - cleaning tasks
+KW  - mobile manipulation plans
+KW  - plan transformations
+KW  - mobile fetch and place
+KW  - robot behavior
+KW  - table setting tasks
+KW  - Task analysis
+KW  - Planning
+KW  - Runtime
+KW  - Manipulators
+KW  - Transforms
+KW  - Complexity theory
+DO  - 10.1109/ICRA40945.2020.9197446
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In this paper, we present an approach and an implemented framework for applying plan transformations to real-world mobile manipulation plans, in order to specialize them to the specific situation at hand. The framework can improve execution cost and achieve better performance by autonomously transforming robot's behavior at runtime. To demonstrate the feasibility of our approach, we apply three example transformations to the plan of a PR2 robot performing simple table setting and cleaning tasks in the real world. Based on a large amount of experiments in a fast plan projection simulator, we make conclusions on improved execution performance.
+ER  - 
+
+TY  - CONF
+TI  - Planning an Efficient and Robust Base Sequence for a Mobile Manipulator Performing Multiple Pick-and-place Tasks
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11018
+EP  - 11024
+AU  - J. Xu
+AU  - K. Harada
+AU  - W. Wan
+AU  - T. Ueshiba
+AU  - Y. Domae
+PY  - 2020
+KW  - collision avoidance
+KW  - mobile robots
+KW  - motion control
+KW  - redundant manipulators
+KW  - mobile manipulator
+KW  - planned base positions
+KW  - robust base sequence
+KW  - precomputed reachability database
+KW  - base positioning uncertainty
+KW  - collision free inverse kinematics solutions
+KW  - multiple pick and place tasks
+KW  - kinematic redundancy
+KW  - Manipulators
+KW  - Databases
+KW  - Task analysis
+KW  - Robustness
+KW  - Grasping
+KW  - Uncertainty
+KW  - Planning
+DO  - 10.1109/ICRA40945.2020.9196999
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In this paper, we address efficiently and robustly collecting objects stored in different trays using a mobile manipulator. A resolution complete method, based on precomputed reachability database, is proposed to explore collision-free inverse kinematics (IK) solutions and then a resolution complete set of feasible base positions can be determined. This method approximates a set of representative IK solutions that are especially helpful when solving IK and checking collision are treated separately. For real world applications, we take into account the base positioning uncertainty and plan a sequence of base positions that reduce the number of necessary base movements for collecting the target objects, the base sequence is robust in that the mobile manipulator is able to complete the part-supply task even there is certain deviation from the planned base positions. Our experiments demonstrate both the efficiency compared to regular base sequence and the feasibility in real world applications.
+ER  - 
+
+TY  - CONF
+TI  - Towards Mobile Multi-Task Manipulation in a Confined and Integrated Environment with Irregular Objects
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11025
+EP  - 11031
+AU  - Z. Han
+AU  - J. Allspaw
+AU  - G. LeMasurier
+AU  - J. Parrillo
+AU  - D. Giger
+AU  - S. R. Ahmadzadeh
+AU  - H. A. Yanco
+PY  - 2020
+KW  - assembling
+KW  - control engineering computing
+KW  - industrial manipulators
+KW  - machining
+KW  - mobile robots
+KW  - production engineering computing
+KW  - software architecture
+KW  - irregular objects
+KW  - mechanical parts
+KW  - complex task sets
+KW  - integrated task sets
+KW  - IEEE International Conference on Robots and Automation
+KW  - FetchIt! Mobile Manipulation Challenge
+KW  - mobile multitask manipulation
+KW  - confined environment
+KW  - integrated environment
+KW  - confined space
+KW  - machining
+KW  - assembly
+KW  - software architecture
+KW  - Gears
+KW  - Navigation
+KW  - Task analysis
+KW  - Manipulators
+KW  - Three-dimensional displays
+KW  - Robot sensing systems
+DO  - 10.1109/ICRA40945.2020.9197395
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - The FetchIt! Mobile Manipulation Challenge, held at the IEEE International Conference on Robots and Automation (ICRA) in May 2019, offered an environment with complex and integrated task sets, irregular objects, confined space, and machining, introducing new challenges in the mobile manipulation domain. Here we describe our efforts to address these challenges by demonstrating the assembly of a kit of mechanical parts in a caddy. In addition to implementation details, we examine the issues in this task set extensively, and we discuss our software architecture in the hope of providing a base for other researchers. To evaluate performance and consistency, we conducted 20 full runs, then examined failure cases with possible solutions. We conclude by identifying future research directions to address the open challenges.
+ER  - 
+
+TY  - CONF
+TI  - Linear Time-Varying MPC for Nonprehensile Object Manipulation with a Nonholonomic Mobile Robot
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11032
+EP  - 11038
+AU  - F. Bertoncelli
+AU  - F. Ruggiero
+AU  - L. Sabattini
+PY  - 2020
+KW  - collision avoidance
+KW  - friction
+KW  - linear systems
+KW  - manipulators
+KW  - mobile robots
+KW  - motion control
+KW  - predictive control
+KW  - time-varying systems
+KW  - trajectory control
+KW  - wheels
+KW  - linear time-varying MPC
+KW  - nonprehensile object manipulation
+KW  - nonholonomic mobile robot
+KW  - nonprehensile manipulation motion primitive
+KW  - unilateral constraint
+KW  - manipulated object
+KW  - linear time-varying model predictive control
+KW  - pushing manipulation
+KW  - Mobile robots
+KW  - Friction
+KW  - Task analysis
+KW  - Dynamics
+KW  - Mathematical model
+KW  - Force
+DO  - 10.1109/ICRA40945.2020.9197173
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - This paper proposes a technique to manipulate an object with a nonholonomic mobile robot by pushing, which is a nonprehensile manipulation motion primitive. Such a primitive involves unilateral constraints associated with the friction between the robot and the manipulated object. Violating this constraint produces the slippage of the object during the manipulation, preventing the correct achievement of the task. A linear time-varying model predictive control is designed to include the unilateral constraint within the control action properly. The approach is verified in a dynamic simulation environment through a Pioneer 3-DX wheeled robot executing the pushing manipulation of a package.
+ER  - 
+
+TY  - CONF
+TI  - A Mobile Manipulation System for One-Shot Teaching of Complex Tasks in Homes
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11039
+EP  - 11045
+AU  - M. Bajracharya
+AU  - J. Borders
+AU  - D. Helmick
+AU  - T. Kollar
+AU  - M. Laskey
+AU  - J. Leichty
+AU  - J. Ma
+AU  - U. Nagarajan
+AU  - A. Ochiai
+AU  - J. Petersen
+AU  - K. Shankar
+AU  - K. Stone
+AU  - Y. Takaoka
+PY  - 2020
+KW  - control engineering computing
+KW  - force control
+KW  - humanoid robots
+KW  - learning (artificial intelligence)
+KW  - manipulators
+KW  - mobile robots
+KW  - motion control
+KW  - position control
+KW  - virtual reality
+KW  - mobile manipulation system
+KW  - one-shot teaching
+KW  - mobile manipulation hardware
+KW  - software system
+KW  - human-level tasks
+KW  - single demonstration
+KW  - virtual reality
+KW  - highly capable mobile manipulation robot
+KW  - parameterized primitives
+KW  - robust learned dense visual embeddings representation
+KW  - task graph
+KW  - taught behaviors
+KW  - Task analysis
+KW  - Robot kinematics
+KW  - Robustness
+KW  - Visualization
+KW  - Aerospace electronics
+KW  - Education
+DO  - 10.1109/ICRA40945.2020.9196677
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - We describe a mobile manipulation hardware and software system capable of autonomously performing complex human-level tasks in real homes, after being taught the task with a single demonstration from a person in virtual reality. This is enabled by a highly capable mobile manipulation robot, whole-body task space hybrid position/force control, teaching of parameterized primitives linked to a robust learned dense visual embeddings representation of the scene, and a task graph of the taught behaviors. We demonstrate the robustness of the approach by presenting results for performing a variety of tasks, under different environmental conditions, in multiple real homes. Our approach achieves 85% overall success rate on three tasks that consist of an average of 45 behaviors each. The video is available at: https://youtu.be/HSyAGMGikLk.
+ER  - 
+
+TY  - CONF
+TI  - 2D to 3D Line-Based Registration with Unknown Associations via Mixed-Integer Programming
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11046
+EP  - 11052
+AU  - S. A. Parkison
+AU  - J. M. Walls
+AU  - R. W. Wolcott
+AU  - M. Saad
+AU  - R. M. Eustice
+PY  - 2020
+KW  - calibration
+KW  - image registration
+KW  - integer programming
+KW  - iterative methods
+KW  - mobile robots
+KW  - robot vision
+KW  - iterative nearest-neighbor
+KW  - mixed-integer program
+KW  - data association
+KW  - integer variables
+KW  - 3D line-based registration
+KW  - mixed-integer programming
+KW  - rigid-body transformation
+KW  - 3D point cloud data
+KW  - mobile robotics
+KW  - sensor calibration
+KW  - linear line-based 2D-3D registration
+KW  - Three-dimensional displays
+KW  - Two dimensional displays
+KW  - Cameras
+KW  - Cost function
+KW  - Robot sensing systems
+KW  - Transforms
+KW  - Symmetric matrices
+DO  - 10.1109/ICRA40945.2020.9196718
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Determining the rigid-body transformation be-tween 2D image data and 3D point cloud data has applications for mobile robotics including sensor calibration and localizing into a prior map. Common approaches to 2D-3D registration use least-squares solvers assuming known associations often provided by heuristic front-ends, or iterative nearest-neighbor. We present a linear line-based 2D-3D registration algorithm formulated as a mixed-integer program to simultaneously solve for the correct transformation and data association. Our formulation is explicitly formulated to handle outliers, by modeling associations as integer variables. Additionally, we can constrain the registration to SE(2) to improve runtime and accuracy. We evaluate this search over multiple real-world data sets demonstrating adaptability to scene variation.
+ER  - 
+
+TY  - CONF
+TI  - An efficient solution to the relative pose estimation with a common direction
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11053
+EP  - 11059
+AU  - Y. Ding
+AU  - J. Yang
+AU  - H. Kong
+PY  - 2020
+KW  - accelerometers
+KW  - cameras
+KW  - eigenvalues and eigenfunctions
+KW  - inertial systems
+KW  - motion estimation
+KW  - polynomial matrices
+KW  - pose estimation
+KW  - gravity direction
+KW  - pose estimation
+KW  - camera motion estimation
+KW  - camera-IMU systems
+KW  - camera-inertial measurement unit systems
+KW  - 1DOF
+KW  - degree of freedom
+KW  - Gröbner basis
+KW  - polynomial eigenvalue problem
+KW  - 3-point algorithm
+KW  - Cameras
+KW  - Eigenvalues and eigenfunctions
+KW  - Gravity
+KW  - Pose estimation
+KW  - Transmission line matrix methods
+KW  - Symmetric matrices
+KW  - Motion estimation
+DO  - 10.1109/ICRA40945.2020.9196636
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In this paper, we propose an efficient solution to the calibrated camera motion estimation with a common direction. This case is relevant to smart phones, tablets, and other camera-IMU (Inertial measurement unit) systems, which have accelerometers to measure the gravity direction. We can align one of the axes of the camera with this common direction so that the relative rotation between the views reduces to only 1DOF (degree of freedom). This allows us to use only three point correspondences for relative pose estimation. Unlike previous work, we derive new constraints on the simplified essential matrix using an elimination strategy based on Gröbner basis. In this case, computing the coefficients of these constraints require less computation and we only need to solve a polynomial eigenvalue problem. We show detailed analyses and comparisons against the existing 3-point algorithms, with satisfactory results obtained.
+ER  - 
+
+TY  - CONF
+TI  - Task-Aware Novelty Detection for Visual-based Deep Learning in Autonomous Systems
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11060
+EP  - 11066
+AU  - V. Chen
+AU  - M. -K. Yoon
+AU  - Z. Shao
+PY  - 2020
+KW  - computer vision
+KW  - decision making
+KW  - learning (artificial intelligence)
+KW  - road safety
+KW  - road traffic
+KW  - safety-critical software
+KW  - task-aware novelty detection
+KW  - self-driving cars
+KW  - trustworthy prediction
+KW  - adversarial attacks
+KW  - life-threatening decisions
+KW  - learning framework
+KW  - prediction model
+KW  - network saliency
+KW  - learning architecture
+KW  - decision making
+KW  - saliency map
+KW  - in-house indoor driving environment
+KW  - adversarial attacked images
+KW  - target prediction
+KW  - deep-learning driven safety-critical autonomous systems
+KW  - Training
+KW  - Task analysis
+KW  - Predictive models
+KW  - Roads
+KW  - Data models
+KW  - Autonomous systems
+KW  - Decision making
+DO  - 10.1109/ICRA40945.2020.9196720
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Deep-learning driven safety-critical autonomous systems, such as self-driving cars, must be able to detect situations where its trained model is not able to make a trustworthy prediction. This ability to determine the novelty of a new input with respect to a trained model is critical for such systems because novel inputs due to changes in the environment, adversarial attacks, or even unintentional noise can potentially lead to erroneous, perhaps life-threatening decisions. This paper proposes a learning framework that leverages information learned by the prediction model in a task-aware manner to detect novel scenarios. We use network saliency to provide the learning architecture with knowledge of the input areas that are most relevant to the decision-making and learn an association between the saliency map and the predicted output to determine the novelty of the input. We demonstrate the efficacy of this method through experiments on real-world driving datasets as well as through driving scenarios in our in-house indoor driving environment where the novel image can be sampled from another similar driving dataset with similar features or from adversarial attacked images from the training dataset. We find that our method is able to systematically detect novel inputs and quantify the deviation from the target prediction through this task-aware approach.
+ER  - 
+
+TY  - CONF
+TI  - DirectShape: Direct Photometric Alignment of Shape Priors for Visual Vehicle Pose and Shape Estimation
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11067
+EP  - 11073
+AU  - R. Wang
+AU  - N. Yang
+AU  - J. Stückler
+AU  - D. Cremers
+PY  - 2020
+KW  - image reconstruction
+KW  - image segmentation
+KW  - neural nets
+KW  - object detection
+KW  - pose estimation
+KW  - shape recognition
+KW  - stereo image processing
+KW  - state-of-the-art deep learning based 3D object detectors
+KW  - previous geometric approach
+KW  - adaptive sparse point selection scheme
+KW  - silhouette alignment term
+KW  - dense stereo reconstruction
+KW  - stereo image pair
+KW  - 3D rigid-body poses
+KW  - 3D bounding boxes
+KW  - instance segmentations
+KW  - simple bounding boxes
+KW  - object level
+KW  - autonomous driving
+KW  - scene understanding
+KW  - shape estimation
+KW  - visual vehicle pose
+KW  - shape priors
+KW  - direct photometric alignment
+KW  - Shape
+KW  - Three-dimensional displays
+KW  - Two dimensional displays
+KW  - Automobiles
+KW  - Current measurement
+KW  - Solid modeling
+KW  - Image reconstruction
+DO  - 10.1109/ICRA40945.2020.9197095
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Scene understanding from images is a challenging problem encountered in autonomous driving. On the object level, while 2D methods have gradually evolved from computing simple bounding boxes to delivering finer grained results like instance segmentations, the 3D family is still dominated by estimating 3D bounding boxes. In this paper, we propose a novel approach to jointly infer the 3D rigid-body poses and shapes of vehicles from a stereo image pair using shape priors. Unlike previous works that geometrically align shapes to point clouds from dense stereo reconstruction, our approach works directly on images by combining a photometric and a silhouette alignment term in the energy function. An adaptive sparse point selection scheme is proposed to efficiently measure the consistency with both terms. In experiments, we show superior performance of our method on 3D pose and shape estimation over the previous geometric approach and demonstrate that our method can also be applied as a refinement step and significantly boost the performances of several state-of-the-art deep learning based 3D object detectors. All related materials and demonstration videos are available at the project page https://vision.in.tum.de/research/vslam/direct-shape.
+ER  - 
+
+TY  - CONF
+TI  - RoadText-1K: Text Detection & Recognition Dataset for Driving Videos
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11074
+EP  - 11080
+AU  - S. Reddy
+AU  - M. Mathew
+AU  - L. Gomez
+AU  - M. Rusinol
+AU  - D. Karatzas
+AU  - C. V. Jawahar
+PY  - 2020
+KW  - image recognition
+KW  - intelligent transportation systems
+KW  - road traffic
+KW  - text detection
+KW  - traffic engineering computing
+KW  - video signal processing
+KW  - driver assistance
+KW  - RoadText-1K dataset
+KW  - text bounding boxes
+KW  - driving videos
+KW  - text detection
+KW  - text recognition
+KW  - intelligent systems
+KW  - Videos
+KW  - Text recognition
+KW  - Vehicles
+KW  - Image recognition
+KW  - Task analysis
+KW  - Roads
+KW  - Semantics
+DO  - 10.1109/ICRA40945.2020.9196577
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Perceiving text is crucial to understand semantics of outdoor scenes and hence is a critical requirement to build intelligent systems for driver assistance and self-driving. Most of the existing datasets for text detection and recognition comprise still images and are mostly compiled keeping text in mind. This paper introduces a new "RoadText-1K" dataset for text in driving videos. The dataset is 20 times larger than the existing largest dataset for text in videos. Our dataset comprises 1000 video clips of driving without any bias towards text and with annotations for text bounding boxes and transcriptions in every frame. State of the art methods for text detection, recognition and tracking are evaluated on the new dataset and the results signify the challenges in unconstrained driving videos compared to existing datasets. This suggests that RoadText-1K is suited for research and development of reading systems, robust enough to be incorporated into more complex downstream tasks like driver assistance and self-driving. The dataset can be found at http://cvit.iiit.ac.in/research/projects/cvit-projects/roadtext-1k.
+ER  - 
+
+TY  - CONF
+TI  - End-to-end Learning for Inter-Vehicle Distance and Relative Velocity Estimation in ADAS with a Monocular Camera
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11081
+EP  - 11087
+AU  - Z. Song
+AU  - J. Lu
+AU  - T. Zhang
+AU  - H. Li
+PY  - 2020
+KW  - cameras
+KW  - driver information systems
+KW  - feature extraction
+KW  - image sequences
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - neural nets
+KW  - object detection
+KW  - road safety
+KW  - robot vision
+KW  - video signal processing
+KW  - end-to-end learning
+KW  - inter-vehicle distance
+KW  - ADAS
+KW  - monocular camera
+KW  - advanced driver-assistance systems
+KW  - relative velocity estimation method
+KW  - multiple visual clues
+KW  - time-consecutive monocular frames
+KW  - deep feature clue
+KW  - scene geometry clue
+KW  - temporal optical flow clue
+KW  - vehicle-centric sampling mechanism
+KW  - light-weight deep neural network
+KW  - Estimation
+KW  - Three-dimensional displays
+KW  - Cameras
+KW  - Optical imaging
+KW  - Two dimensional displays
+KW  - Feature extraction
+KW  - Neural networks
+DO  - 10.1109/ICRA40945.2020.9197557
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Inter-vehicle distance and relative velocity estimations are two basic functions for any ADAS (Advanced driver-assistance systems). In this paper, we propose a monocular camera based inter-vehicle distance and relative velocity estimation method based on end-to-end training of a deep neural network. The key novelty of our method is the integration of multiple visual clues provided by any two time-consecutive monocular frames, which include deep feature clue, scene geometry clue, as well as temporal optical flow clue. We also propose a vehicle-centric sampling mechanism to alleviate the effect of perspective distortion in the motion field (i.e. optical flow). We implement the method by a light-weight deep neural network. Extensive experiments are conducted which confirm the superior performance of our method over other state-of-the-art methods, in terms of estimation accuracy, computational speed, and memory footprint.
+ER  - 
+
+TY  - CONF
+TI  - Learning an Action-Conditional Model for Haptic Texture Generation
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11088
+EP  - 11095
+AU  - N. Heravi
+AU  - W. Yuan
+AU  - A. M. Okamura
+AU  - J. Bohg
+PY  - 2020
+KW  - feedback
+KW  - haptic interfaces
+KW  - human-robot interaction
+KW  - image texture
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - robot vision
+KW  - tactile sensors
+KW  - telerobotics
+KW  - virtual reality
+KW  - Haptic Texture generation
+KW  - haptic sensory feedback
+KW  - user interactions
+KW  - immersive virtual reality
+KW  - material properties
+KW  - haptic vibration feedback
+KW  - Penn Haptic Texture Toolkit
+KW  - action-conditional model learning
+KW  - GelSight measurements
+KW  - teleoperation system
+KW  - autonomous robot
+KW  - GelSight image texture
+KW  - Haptic interfaces
+KW  - Autoregressive processes
+KW  - Force
+KW  - Acceleration
+KW  - Predictive models
+KW  - Solid modeling
+KW  - Discrete Fourier transforms
+DO  - 10.1109/ICRA40945.2020.9197447
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Rich haptic sensory feedback in response to user interactions is desirable for an effective, immersive virtual reality or teleoperation system. However, this feedback depends on material properties and user interactions in a complex, non-linear manner. Therefore, it is challenging to model the mapping from material and user interactions to haptic feedback in a way that generalizes over many variations of the user's input. Current methodologies are typically conditioned on user interactions, but require a separate model for each material. In this paper, we present a learned action-conditional model that uses data from a vision-based tactile sensor (GelSight) and user's action as input. This model predicts an induced acceleration that could be used to provide haptic vibration feedback to a user. We trained our proposed model on a publicly available dataset (Penn Haptic Texture Toolkit) that we augmented with GelSight measurements of the different materials. We show that a unified model over all materials outperforms previous methods and generalizes to new actions and new instances of the material categories in the dataset.
+ER  - 
+
+TY  - CONF
+TI  - Just Noticeable Differences for Joint Torque Feedback During Static Poses
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11096
+EP  - 11102
+AU  - H. Kim
+AU  - H. H. Guo
+AU  - A. T. Asbeck
+PY  - 2020
+KW  - biomechanics
+KW  - feedback
+KW  - haptic interfaces
+KW  - torque control
+KW  - visual perception
+KW  - joint torque feedback
+KW  - kinesthetic feedback
+KW  - external torques
+KW  - elbow
+KW  - preload torques
+KW  - test stimulus torques
+KW  - stall torque
+KW  - average torques
+KW  - static poses
+KW  - interweaving staircase method
+KW  - extension direction
+KW  - flexion direction
+KW  - size 1.27 nm
+KW  - size 0.27 nm
+KW  - size 3.0 nm
+KW  - time 120.0 s
+KW  - size 0.54 nm
+KW  - Torque
+KW  - Muscles
+KW  - Exoskeletons
+KW  - Elbow
+KW  - Skin
+KW  - Force
+KW  - Training
+DO  - 10.1109/ICRA40945.2020.9197537
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Joint torque feedback is a new and promising means of kinesthetic feedback for providing information to a person or guiding them during a motion task. However, little work has been done in determining the psychophysical parameters of how well humans can detect external torques. In this study, we determine the human perceptual ability to detect kinesthetic feedback at the elbow during all possible combinations of preload torques and test stimulus torques, with the elbow in a static posture. To accomplish this, we constructed an exoskeleton for the elbow providing joint torque feedback. The device is designed to convey 0.54 Nm of stall torque for up to 120 seconds via a semi-rigid sleeve structure. Using this device, we assessed perception capability using the Interweaving Staircase Method. We found that users could detect average torques of 0.14-0.18 Nm in the extension or flexion directions with no preload. When a preload of 1.27 Nm was applied, this increased to 0.25-0.27 Nm for when flexion stimuli were applied, and 0.180.3 Nm when extension stimuli were applied, depending on the preload direction.
+ER  - 
+
+TY  - CONF
+TI  - Design of a Parallel Haptic Device with Gravity Compensation by using its System Weight
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11103
+EP  - 11108
+AU  - S. -m. Hur
+AU  - J. Park
+AU  - J. Park
+AU  - Y. Oh
+PY  - 2020
+KW  - bars
+KW  - compensation
+KW  - couplings
+KW  - design engineering
+KW  - force feedback
+KW  - gravity
+KW  - haptic interfaces
+KW  - manipulator kinematics
+KW  - motion control
+KW  - open loop systems
+KW  - virtual reality
+KW  - system weight
+KW  - four-bar-linkage mechanism
+KW  - linear motion
+KW  - ring-type gimbal mechanism
+KW  - gravity force
+KW  - conceptual mechanical design
+KW  - four-bar mechanism
+KW  - gravity compensation
+KW  - open-loop force display performance
+KW  - GHap
+KW  - parallel haptic device
+KW  - 6 degree of freedom manipulator
+KW  - forward kinematics
+KW  - virtual reality
+KW  - Gravity
+KW  - Haptic interfaces
+KW  - Jacobian matrices
+KW  - Torque
+KW  - Manipulators
+KW  - Kinematics
+DO  - 10.1109/ICRA40945.2020.9197065
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - This paper proposes a 6 degree of freedom (DoF) manipulator for haptic application. The proposed haptic device, named GHap, is designed based on the four-bar-linkage mechanism for linear motion with the ring-type gimbal mechanism. To improve the force display ability, the device is designed to compensate the gravity force of the manipulator by its own weight. The conceptual mechanical design is compared by placing the third joint, which controls the four-bar mechanism, in two different configurations. The forward kinematics and the jacobian of GHap are presented. Finally, the gravity compensation method and open-loop force display performance of the proposed haptic device are validated by an experiment with the GHap prototype.
+ER  - 
+
+TY  - CONF
+TI  - Multimodal tracking framework for visual odometry in challenging illumination conditions
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11133
+EP  - 11139
+AU  - A. Beauvisage
+AU  - K. Ahiska
+AU  - N. Aouf
+PY  - 2020
+KW  - cameras
+KW  - distance measurement
+KW  - feature extraction
+KW  - image matching
+KW  - motion estimation
+KW  - robot vision
+KW  - stereo image processing
+KW  - visible spectrum
+KW  - electromagnetic spectrum
+KW  - extreme illumination conditions
+KW  - camera setups
+KW  - multimodal monocular visual odometry solution
+KW  - multimodal tracking framework
+KW  - stereo matching techniques
+KW  - long wave infrared spectral bands
+KW  - LWIR
+KW  - MMS-VO
+KW  - windowed bundle adjustment framework
+KW  - motion estimation process
+KW  - visible-thermal datasets
+KW  - feature tracking
+KW  - visual odometry trajectory
+KW  - Cameras
+KW  - Feature extraction
+KW  - Bundle adjustment
+KW  - Visual odometry
+KW  - Lighting
+KW  - Tracking
+DO  - 10.1109/ICRA40945.2020.9196891
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Research on visual odometry and localisation is largely dominated by solutions developed in the visible spectrum, where illumination is a critical factor. Other parts of the electromagnetic spectrum are currently being investigated to generate solutions dealing with extreme illumination conditions. Multispectral setups are particularly interesting as they provide information from different parts of the spectrum at once. However, the main challenge of such camera setups is the lack of similarity between the images produced, which makes conventional stereo matching techniques obsolete.This work investigates a new way of concurrently processing images from different spectra for application to visual odometry. It particularly focuses on the visible and Long Wave InfraRed (LWIR) spectral bands where dissimilarity between pixel intensities is maximal. A new Multimodal Monocular Visual Odometry solution (MMS-VO) is presented. With this novel approach, features are tracked simultaneously, but only the camera providing the best tracking quality is used to estimate motion. Visual odometry is performed within a windowed bundle adjustment framework, by alternating between the cameras as the nature of the scene changes. Furthermore, the motion estimation process is robustified by selecting adequate keyframes based on parallax.The algorithm was tested on a series of visible-thermal datasets, acquired from a car with real driving conditions. It is shown that feature tracking could be performed in both modalities with the same set of parameters. Additionally, the MMS-VO provides a superior visual odometry trajectory as one camera can compensate when the other is not working.
+ER  - 
+
+TY  - CONF
+TI  - Realtime Multi-Diver Tracking and Re-identification for Underwater Human-Robot Collaboration
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11140
+EP  - 11146
+AU  - K. de Langis
+AU  - J. Sattar
+PY  - 2020
+KW  - autonomous underwater vehicles
+KW  - control engineering computing
+KW  - convolutional neural nets
+KW  - feature extraction
+KW  - human-robot interaction
+KW  - mobile robots
+KW  - object detection
+KW  - object tracking
+KW  - custom CNN
+KW  - deep SORT algorithm
+KW  - realtime tracking-by-detection
+KW  - realtime diver detection
+KW  - initial diver detection
+KW  - appearance metric
+KW  - simple online realtime tracking
+KW  - human divers
+KW  - autonomous underwater robots
+KW  - underwater human-robot collaboration
+KW  - realtime multidiver tracking re-identification
+KW  - on-board tracking
+KW  - on-board autonomous robot operations
+KW  - multiperson tracking
+KW  - Robots
+KW  - Tracking
+KW  - Feature extraction
+KW  - Collaboration
+KW  - Unmanned underwater vehicles
+KW  - Task analysis
+DO  - 10.1109/ICRA40945.2020.9197308
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Autonomous underwater robots working with teams of human divers may need to distinguish between different divers, e.g., to recognize a lead diver or to follow a specific team member. This paper describes a technique that enables autonomous underwater robots to track divers in real time as well as to reidentify them. The approach is an extension of Simple Online Realtime Tracking (SORT) with an appearance metric (deep SORT). Initial diver detection is performed with a custom CNN designed for realtime diver detection, and appearance features are subsequently extracted for each detected diver. Next, realtime tracking-by-detection is performed with an extension of the deep SORT algorithm. We evaluate this technique on a series of videos of divers performing human-robot collaborative tasks and show that our methods result in more divers being accurately identified during tracking. We also discuss the practical considerations of applying multi-person tracking to on-board autonomous robot operations, and we consider how failure cases can be addressed during on-board tracking.
+ER  - 
+
+TY  - CONF
+TI  - Autonomous Tissue Scanning under Free-Form Motion for Intraoperative Tissue Characterisation
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11147
+EP  - 11154
+AU  - J. Zhan
+AU  - J. Cartucho
+AU  - S. Giannarou
+PY  - 2020
+KW  - biological tissues
+KW  - biomedical optical imaging
+KW  - medical image processing
+KW  - medical robotics
+KW  - surgery
+KW  - visual servoing
+KW  - autonomous tissue scanning
+KW  - free-form motion
+KW  - intraoperative tissue characterisation
+KW  - imaging probes
+KW  - tissue surface
+KW  - robot-assisted local tissue scanning
+KW  - motion stabilisation
+KW  - periodic motion
+KW  - free-form tissue motion
+KW  - scanning trajectory
+KW  - ultrasound tissue scanning
+KW  - Three-dimensional displays
+KW  - Probes
+KW  - Tracking
+KW  - Robots
+KW  - Cameras
+KW  - Trajectory
+DO  - 10.1109/ICRA40945.2020.9197294
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In Minimally Invasive Surgery (MIS), tissue scanning with imaging probes is required for subsurface visualisation to characterise the state of the tissue. However, scanning of large tissue surfaces in the presence of motion is a challenging task for the surgeon. Recently, robot-assisted local tissue scanning has been investigated for motion stabilisation of imaging probes to facilitate the capturing of good quality images and reduce the surgeon's cognitive load. Nonetheless, these approaches require the tissue surface to be static or translating with periodic motion. To eliminate these assumptions, we propose a visual servoing framework for autonomous tissue scanning, able to deal with free-form tissue motion. The 3D structure of the surgical scene is recovered, and a feature-based method is proposed to estimate the motion of the tissue in real-time. The desired scanning trajectory is manually defined on a reference frame and continuously updated using projective geometry to follow the tissue motion and control the movement of the robotic arm. The advantage of the proposed method is that it does not require the learning of the tissue motion prior to scanning and can deal with free-form motion. We deployed this framework on the da Vinci®surgical robot using the da Vinci Research Kit (dVRK) for Ultrasound tissue scanning. Our framework can be easily extended to other probe-based imaging modalities.
+ER  - 
+
+TY  - CONF
+TI  - 3D-Printed Electroactive Hydraulic Valves for Use in Soft Robotic Applications
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11200
+EP  - 11206
+AU  - N. Bira
+AU  - Y. Mengüç
+AU  - J. R. Davidson
+PY  - 2020
+KW  - design engineering
+KW  - electrorheology
+KW  - human-robot interaction
+KW  - hydraulic actuators
+KW  - hydraulic systems
+KW  - industrial robots
+KW  - valves
+KW  - 3D-printed electroactive hydraulic valves
+KW  - soft robotic applications
+KW  - human-robot interaction
+KW  - alternative locomotion techniques
+KW  - open-source method
+KW  - high-pressure electrorheological valves
+KW  - electrorheological fluid-based control
+KW  - deformable actuators
+KW  - safety areas
+KW  - design engineering
+KW  - pressure 230.0 kPa
+KW  - time 1.0 s to 3.0 s
+KW  - Valves
+KW  - Erbium
+KW  - Three-dimensional displays
+KW  - Soft robotics
+KW  - Electrodes
+KW  - Actuators
+DO  - 10.1109/ICRA40945.2020.9196993
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Soft robotics promises developments in the research areas of safety, bio-mimicry, manipulation, human-robot interaction, and alternative locomotion techniques. The research presented here is directed towards developing an improved, low-cost, and open-source method for soft robotic control using electrorheological fluids in compact, 3D-printed electroactive hydraulic valves. We construct high-pressure electrorheological valves and deformable actuators using only commercially available materials and accessible fabrication methods. The printed valves were characterized with industrial-grade electrorheological fluid (RheOil 3.0), but the design is generalizable to other electrorheological fluids. Valve performance was shown to be an improvement over comparable work with demonstrated higher yield pressures at lower voltages (up to 230 kPa), larger flow rates (up to 15 ml/min) and lower response times (1 to 3 seconds, depending on design). The resulting valve and actuator systems enable future novel applications of electrorheological fluid-based control and hydraulics in soft robotics and other disciplines.
+ER  - 
+
+TY  - CONF
+TI  - Variable Damping Control of a Robotic Arm to Improve Trade-off between Agility and Stability and Reduce User Effort
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11259
+EP  - 11265
+AU  - T. Bitz
+AU  - F. Zahedi
+AU  - H. Lee
+PY  - 2020
+KW  - damping
+KW  - end effectors
+KW  - human-robot interaction
+KW  - stability
+KW  - variable structure systems
+KW  - stability
+KW  - fixed damping controllers
+KW  - variable robotic damping controller
+KW  - robotic arm
+KW  - physical human robot interaction
+KW  - dual sided logistic function
+KW  - end effector
+KW  - 7 degree-of-freedom robot
+KW  - root mean squared interaction forces
+KW  - Damping
+KW  - Stability analysis
+KW  - Service robots
+KW  - Acceleration
+KW  - Safety
+KW  - Impedance
+DO  - 10.1109/ICRA40945.2020.9196572
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - This paper presents a variable damping controller to improve the trade-off between agility and stability in physical human-robot interaction (pHRI), while reducing user effort. Variable robotic damping, defined as a dual-sided logistic function, was determined in real time throughout a range of negative to positive values based on the user's intent of movement. To evaluate the effectiveness of the proposed controller, we performed a set of human experiments with subjects interacting with the end-effector of a 7 degree-of-freedom robot. Twelve subjects completed target reaching tasks under three robotic damping conditions: fixed positive, fixed negative, and variable damping. On average, the variable damping controller significantly shortened the rise time by 22.4% compared to the fixed positive damping. It is also important to note that the rise time in the variable damping condition was as fast as that in the fixed negative damping condition and there was no statistical difference between the two conditions. The variable damping controller significantly decreased the percentage overshoot by 49.6% and shortened the settling time by 29.0% compared to the fixed negative damping. Both the maximum and mean root-mean-squared (RMS) interaction forces were significantly lower in the variable damping condition than the other two fixed damping conditions, i.e., the variable damping controller reduced user effort. The maximum and mean RMS interaction forces were at least 17.3% and 20.3% lower than any of the fixed damping conditions, respectively. The results of this study demonstrate that humans can extract the benefits of the variable damping controller in the context of pHRI, as it significantly improves the trade-off between agility and stability and reduces user effort in comparison to fixed damping controllers.
+ER  - 
+
+TY  - CONF
+TI  - Cognitive and motor compliance in intentional human-robot interaction
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11291
+EP  - 11297
+AU  - H. F. Chame
+AU  - J. Tani
+PY  - 2020
+KW  - cognitive systems
+KW  - humanoid robots
+KW  - human-robot interaction
+KW  - mobile robots
+KW  - torque feedback
+KW  - humanoid Torobo
+KW  - bio-inspired study
+KW  - cognitive compliance
+KW  - human environments
+KW  - adaptive robotics
+KW  - natural cognition
+KW  - subjective experience
+KW  - intentional human-robot interaction
+KW  - motor compliance
+KW  - Torque
+KW  - Joints
+KW  - Neural networks
+KW  - Predictive models
+KW  - Robot sensing systems
+KW  - Stochastic processes
+DO  - 10.1109/ICRA40945.2020.9196896
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Embodiment and subjective experience in humanrobot interaction are important aspects to consider when studying both natural cognition and adaptive robotics to human environments. Although several researches have focused on nonverbal communication and collaboration, the study of autonomous physical interaction has obtained less attention. From the perspective of neurorobotics, we investigate the relation between intentionality, motor compliance, cognitive compliance, and behavior emergence. We propose a variational model inspired by the principles of predictive coding and active inference to study intentionality and cognitive compliance, and an intermittent control concept for motor deliberation and compliance based on torque feed-back. Our experiments with the humanoid Torobo portrait interesting perspectives for the bio-inspired study of developmental and social processes.
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Authority Allocation in Shared Control of Robots Using Bayesian Filters
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11298
+EP  - 11304
+AU  - R. Balachandran
+AU  - H. Mishra
+AU  - M. Cappelli
+AU  - B. Weber
+AU  - C. Secchi
+AU  - C. Ott
+AU  - A. Albu-Schaeffer
+PY  - 2020
+KW  - Bayes methods
+KW  - delays
+KW  - mobile robots
+KW  - stability
+KW  - telerobotics
+KW  - adaptive authority allocation
+KW  - Bayesian filter
+KW  - control framework
+KW  - autonomous system
+KW  - human operator
+KW  - time-varying measurement noise characteristics
+KW  - system-driven adaptive shared control framework
+KW  - stability proof
+KW  - teleoperation
+KW  - Bayes methods
+KW  - Robots
+KW  - Uncertainty
+KW  - Task analysis
+KW  - Measurement uncertainty
+KW  - Resource management
+KW  - Noise measurement
+KW  - Adaptive authority allocation
+KW  - shared control
+KW  - teleoperation
+KW  - Kalman filter
+KW  - Bayesian filters
+DO  - 10.1109/ICRA40945.2020.9196941
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In the present paper, we propose a novel system-driven adaptive shared control framework in which the autonomous system allocates the authority among the human operator and itself. Authority allocation is based on a metric derived from a Bayesian filter, which is being adapted online according to real measurements. In this way, time-varying measurement noise characteristics are incorporated. We present the stability proof for the proposed shared control architecture with adaptive authority allocation, which includes time delay in the communication channel between the operator and the robot. Furthermore, the proposed method is validated through experiments and a user-study evaluation. The obtained results indicate significant improvements in task execution compared with pure teleoperation.
+ER  - 
+
+TY  - CONF
+TI  - Tactile Telerobots for Dull, Dirty, Dangerous, and Inaccessible Tasks
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11305
+EP  - 11310
+AU  - J. A. Fishel
+AU  - T. Oliver
+AU  - M. Eichermueller
+AU  - G. Barbieri
+AU  - E. Fowler
+AU  - T. Hartikainen
+AU  - L. Moss
+AU  - R. Walker
+PY  - 2020
+KW  - computational complexity
+KW  - dexterous manipulators
+KW  - haptic interfaces
+KW  - telerobotics
+KW  - first-generation telerobot
+KW  - task complexity
+KW  - tactile telerobots
+KW  - inaccessible tasks
+KW  - highly-dexterous bimanual tactile telerobot
+KW  - bare human hands
+KW  - anthropomorphic robot hands
+KW  - biomimetic tactile sensors
+KW  - in-hand manipulation
+KW  - autonomous robotic hands
+KW  - robotic dexterity
+KW  - Robot sensing systems
+KW  - Haptic interfaces
+KW  - Task analysis
+KW  - Force
+KW  - Manipulators
+KW  - Electrodes
+DO  - 10.1109/ICRA40945.2020.9196888
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - The sense of touch, which is essential for human dexterity, is virtually absent from today's robotic hands. In this work we present progress in creating a highly-dexterous bimanual tactile telerobot, and evaluate its performance compared to bare human hands. The system, consisting of anthropomorphic robot hands, biomimetic tactile sensors, and advanced haptic gloves, enables a human operator to intuitively control and feel what the robotic hands are touching. Through carefully tuned tactile and kinematic mapping it was possible to intuitively perform dexterous operations, including pick and place tasks and even in-hand manipulation, a challenge for most autonomous robotic hands. Performance of the system was evaluated in standard measures of human and robotic dexterity such as the Box and Block test and other YCB benchmarks. This first-generation telerobot was found to have promising performance with the pilot able to do the same tasks in the telerobot between 1/4th to 1/12th the speed of their bare hands depending on the task complexity.
+ER  - 
+
+TY  - CONF
+TI  - A Novel Orientability Index and the Kinematic Design of the RemoT-ARM: A Haptic Master with Large and Dexterous Workspace
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11319
+EP  - 11325
+AU  - G. Li
+AU  - E. Del Bianco
+AU  - F. Caponetto
+AU  - V. Katsageorgiou
+AU  - N. G. Tsagarakis
+AU  - I. Sarakoglou
+PY  - 2020
+KW  - control system synthesis
+KW  - dexterous manipulators
+KW  - haptic interfaces
+KW  - manipulator kinematics
+KW  - optimal systems
+KW  - performance index
+KW  - telerobotics
+KW  - RemoT-ARM
+KW  - kinematic design
+KW  - dexterous workspace
+KW  - performance index
+KW  - relative orientability index
+KW  - target workspace
+KW  - performance indices
+KW  - haptic master device dexterity
+KW  - 6-DOF haptic master device
+KW  - workspace matching degree
+KW  - Manipulators
+KW  - Indexes
+KW  - Haptic interfaces
+KW  - Kinematics
+KW  - Performance evaluation
+KW  - Force
+KW  - Phantoms
+DO  - 10.1109/ICRA40945.2020.9196710
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Orientability is an important performance index to evaluate the dexterity of haptic master devices. Currently, most of the existing haptic master devices have limited workspace and limited dexterity. In this paper, we present the RemoT-ARM, a 6 Degree-of-Freedom (DOF) haptic master device that can provide larger and more dexterous workspace for operators. To evaluate its reachability of orientations, we propose a novel orientability index. Furthermore, a relative orientability index is proposed to characterize the matching degree of the workspace of a given manipulator to its target workspace. The volume, the manipulability and the condition number are also introduced as performance indices to evaluate the size and the isotropy of the workspace. According to these performance indices, all possible configurations for the RemoT-ARM have been taken into consideration, analyzed, and compared to finalize its optimal configuration.
+ER  - 
+
+TY  - CONF
+TI  - RAVEN-S: Design and Simulation of a Robot for Teleoperated Microgravity Rodent Dissection Under Time Delay
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11332
+EP  - 11337
+AU  - A. Lewis
+AU  - D. Drajeske
+AU  - J. Raiti
+AU  - A. Berens
+AU  - J. Rosen
+AU  - B. Hannaford
+PY  - 2020
+KW  - aerospace instrumentation
+KW  - biocontrol
+KW  - manipulators
+KW  - medical robotics
+KW  - mobile robots
+KW  - space research
+KW  - space vehicles
+KW  - surgery
+KW  - telerobotics
+KW  - zero gravity experiments
+KW  - teleoperated Microgravity Rodent dissection
+KW  - International Space Station
+KW  - ISS
+KW  - biological effects
+KW  - spaceflight
+KW  - Rodent Habitat
+KW  - Microgravity Science Glovebox
+KW  - teleoperation
+KW  - RAVEN II
+KW  - rudimentary interaction force estimation
+KW  - onboard dissection robot
+KW  - RAVEN-S prototype design
+KW  - communications time delay
+KW  - robot design
+KW  - robot simulation
+KW  - Tools
+KW  - Task analysis
+KW  - Rodents
+KW  - Delay effects
+KW  - Delays
+KW  - Force
+KW  - Robots
+DO  - 10.1109/ICRA40945.2020.9196691
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - The International Space Station (ISS) serves as a research lab for a wide variety of experiments including some that study the biological effects of microgravity and spaceflight using the Rodent Habitat and Microgravity Science Glovebox (MSG). Astronauts train for onboard dissections of rodents following basic training. An alternative approach for conducting these experiments is teleoperation of a robot located on the ISS from earth by a scientist who is proficient in rodent dissection. This pilot study addresses (1) the effects of extreme time delay on skill degradation during Fundamentals of Laparoscopic Surgery (FLS) tasks and rodent dissections using RAVEN II; (2) derivation and testing of rudimentary interaction force estimation; (3) elicitation of design requirements for an onboard dissection robot, RAVEN-S; and (4) simulation of the RAVEN-S prototype design with dissection data. The results indicate that the tasks' completion times increased by a factor of up to 9 for a 3 s time delay while performing manipulation and cutting tasks (FLS model) and by a factor of up to 3 for a 0.75 s time delay during mouse dissection tasks (animal model). Average robot forces/torques of 14N/0.1Nm (peak 90N/0.75Nm) were measured along with average linear/angular velocities of 0.02m/s/4rad/s (peak 0.1m/s/40rad/s) during dissection. A triangular configuration of three arms with respect to the operation site showed the best configuration given the MSG geometry and the dissection tasks. In conclusion, the results confirm the feasibility of utilizing a surgically-inspired RAVEN-S robot for teleoperated rodent dissection for successful completion of the predefined tasks in the presence of communications time delay between the ISS and ground control.
+ER  - 
+
+TY  - CONF
+TI  - Collision-free Navigation of Human-centered Robots via Markov Games
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11338
+EP  - 11344
+AU  - G. Ye
+AU  - Q. Lin
+AU  - T. -H. Juang
+AU  - H. Liu
+PY  - 2020
+KW  - collision avoidance
+KW  - learning (artificial intelligence)
+KW  - Markov processes
+KW  - mobile robots
+KW  - multi-agent systems
+KW  - multi-robot systems
+KW  - collision-free navigation
+KW  - human-centered robots
+KW  - Markov games
+KW  - robot navigation
+KW  - single-agent Markov decision process
+KW  - static environment
+KW  - multiagent formulation
+KW  - primary agent
+KW  - remaining auxiliary agents
+KW  - path-following type adversarial training strategy
+KW  - robust decentralized collision avoidance policy
+KW  - real-world mobile robots
+KW  - Collision avoidance
+KW  - Robots
+KW  - Markov processes
+KW  - Navigation
+KW  - Games
+KW  - Robustness
+KW  - Training
+KW  - Collision-free navigation
+KW  - human-centered robotics
+KW  - deep reinforcement learning
+KW  - multi-agent system
+KW  - adversarial training
+DO  - 10.1109/ICRA40945.2020.9196810
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - We exploit Markov games as a framework for collision-free navigation of human-centered robots. Unlike the classical methods which formulate robot navigation as a single-agent Markov decision process with a static environment, our framework of Markov games adopts a multi-agent formulation with one primary agent representing the robot and the remaining auxiliary agents form a dynamic or even competing environment. Such a framework allows us to develop a path-following type adversarial training strategy to learn a robust decentralized collision avoidance policy. Through thorough experiments on both simulated and real-world mobile robots, we show that the learnt policy outperforms the state-of-the-art algorithms in both sample complexity and runtime robustness.
+ER  - 
+
+TY  - CONF
+TI  - DenseCAvoid: Real-time Navigation in Dense Crowds using Anticipatory Behaviors
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11345
+EP  - 11352
+AU  - A. J. Sathyamoorthy
+AU  - J. Liang
+AU  - U. Patel
+AU  - T. Guan
+AU  - R. Chandra
+AU  - D. Manocha
+PY  - 2020
+KW  - collision avoidance
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - pedestrians
+KW  - trajectory control
+KW  - DenseCAvoid
+KW  - real-time navigation
+KW  - dense crowds
+KW  - anticipatory behaviors
+KW  - pedestrian behaviors
+KW  - visual sensors
+KW  - pedestrian trajectory prediction algorithm
+KW  - input frames
+KW  - compute bounding boxes
+KW  - pedestrian positions
+KW  - future time
+KW  - hybrid approach
+KW  - deep reinforcement learning-based collision avoidance method
+KW  - robust trajectories
+KW  - static scenarios
+KW  - dynamic scenarios
+KW  - multiple pedestrians
+KW  - robot freezing
+KW  - trajectory lengths
+KW  - mean arrival times
+KW  - Collision avoidance
+KW  - Navigation
+KW  - Trajectory
+KW  - Robot sensing systems
+KW  - Robustness
+KW  - Tracking
+DO  - 10.1109/ICRA40945.2020.9197379
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - We present DenseCAvoid, a novel algorithm for navigating a robot through dense crowds and avoiding collisions by anticipating pedestrian behaviors. Our formulation uses visual sensors and a pedestrian trajectory prediction algorithm to track pedestrians in a set of input frames and compute bounding boxes that extrapolate to the pedestrian positions in a future time. Our hybrid approach combines this trajectory prediction with a Deep Reinforcement Learning-based collision avoidance method to train a policy to generate smoother, safer, and more robust trajectories during run-time. We train our policy in realistic 3-D simulations of static and dynamic scenarios with multiple pedestrians. In practice, our hybrid approach generalizes well to unseen, real-world scenarios and can navigate a robot through dense crowds (~1-2 humans per square meter) in indoor scenarios, including narrow corridors and lobbies. As compared to cases where prediction was not used, we observe that our method reduces the occurrence of the robot freezing in a crowd by up to 48%, and performs comparably with respect to trajectory lengths and mean arrival times to goal.
+ER  - 
+
+TY  - CONF
+TI  - DeepCrashTest: Turning Dashcam Videos into Virtual Crash Tests for Automated Driving Systems
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11353
+EP  - 11360
+AU  - S. K. Bashetty
+AU  - H. Ben Amor
+AU  - G. Fainekos
+PY  - 2020
+KW  - cameras
+KW  - Internet
+KW  - public domain software
+KW  - road safety
+KW  - road vehicles
+KW  - traffic engineering computing
+KW  - video signal processing
+KW  - real-world collision scenarios
+KW  - autonomous vehicles
+KW  - uncalibrated monocular camera source
+KW  - DeepCrashTest
+KW  - virtual crash tests
+KW  - automated driving systems
+KW  - dashcam crash videos
+KW  - 3D vehicle trajectories
+KW  - open-source implementation
+KW  - Internet
+KW  - Three-dimensional displays
+KW  - Trajectory
+KW  - Cameras
+KW  - Videos
+KW  - Tracking
+KW  - Vehicle crash testing
+KW  - Data mining
+DO  - 10.1109/ICRA40945.2020.9197053
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - The goal of this paper is to generate simulations with real-world collision scenarios for training and testing autonomous vehicles. We use numerous dashcam crash videos uploaded on the internet to extract valuable collision data and recreate the crash scenarios in a simulator. We tackle the problem of extracting 3D vehicle trajectories from videos recorded by an unknown and uncalibrated monocular camera source using a modular approach. A working architecture and demonstration videos along with the open-source implementation are provided with the paper.
+ER  - 
+
+TY  - CONF
+TI  - Robotic Control of a Magnetic Swarm for On-Demand Intracellular Measurement
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11385
+EP  - 11391
+AU  - X. Wang
+AU  - T. Wang
+AU  - G. Shan
+AU  - J. Law
+AU  - C. Dai
+AU  - Z. Zhang
+AU  - Y. Sun
+PY  - 2020
+KW  - biochemistry
+KW  - biomedical materials
+KW  - biomedical optical imaging
+KW  - cellular biophysics
+KW  - dyes
+KW  - fluorescence
+KW  - magnetic particles
+KW  - medical robotics
+KW  - micromanipulators
+KW  - nanomedicine
+KW  - nanoparticles
+KW  - pH
+KW  - fluorescent dyes
+KW  - biochemical measurements
+KW  - ion concentrations
+KW  - signal-to-noise ratios
+KW  - dye-coated magnetic nanoparticles
+KW  - magnetic micromanipulation systems
+KW  - generated swarm
+KW  - magnetic micromanipulation system
+KW  - position control accuracy
+KW  - intracellular pH mapping
+KW  - global dye treatment
+KW  - fluorescent dye concentration
+KW  - intracellular measurement results
+KW  - robotic control
+KW  - on-demand intracellular measurement
+KW  - pH sensitive fluorescent dye-coated magnetic nanoparticles
+KW  - Coils
+KW  - Magnetic devices
+KW  - Magnetic separation
+KW  - Magnetic resonance imaging
+KW  - Magnetic particles
+KW  - Signal to noise ratio
+KW  - Magnetic nanoparticles
+DO  - 10.1109/ICRA40945.2020.9197532
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In biology, fluorescent dyes are routinely used for biochemical measurements such as pH and ion concentrations. They, especially when used for detecting a low concentration of ions, suffer from low signal-to-noise ratios (SNR); and increasing the concentration of fluorescent dyes causes more sever cytotoxicity. We invented a new approach that uses a low amount of fluorescent dye-coated magnetic nanoparticles for on-demand, accurately aggregating the nanoparticles and thus fluorescent dyes in a local region inside a cell for intracellular measurement. Experiments proved this approach is capable of achieving a significantly higher SNR and lower cytotoxicity. Different from existing magnetic micromanipulation systems that generate large swarms (several microns and above) or cannot move the generated swarm to an arbitrary position, we developed a five-pole magnetic micromanipulation system and technique for generating a small swarm (e.g., 1 μm; capable of generating a magnetic swarm from 0.52 μm to 52.7 μm with an error <; 7.5 %) and accurately positioning the small swarm (position control accuracy: 0.76 μm). As an example, the system performed intracellular pH mapping using a 1 μm swarm of pH sensitive fluorescent dye-coated magnetic nanoparticles. The swarm had an SNR inside a cell 10 times that by the traditional method, i.e., global dye treatment, with both cases using the same fluorescent dye concentration. Our intracellular measurement results, for the first time, quantitatively revealed the existence of pH gradient and polarized pH distribution in live migrating cells.
+ER  - 
+
+TY  - CONF
+TI  - Acoustofluidic Tweezers for the 3D Manipulation of Microparticles
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11392
+EP  - 11397
+AU  - X. Guo
+AU  - Z. Ma
+AU  - R. Goyal
+AU  - M. Jeong
+AU  - W. Pang
+AU  - P. Fischer
+AU  - X. Duan
+AU  - T. Qiu
+PY  - 2020
+KW  - acoustic streaming
+KW  - hydrodynamics
+KW  - microfabrication
+KW  - microfluidics
+KW  - micromanipulators
+KW  - position control
+KW  - transducers
+KW  - high-speed acoustic streaming
+KW  - manipulation velocity
+KW  - trapped particle
+KW  - particle manipulation
+KW  - centimeter distance
+KW  - transducer surface
+KW  - streaming flow field
+KW  - hydrodynamic force
+KW  - microfabricated gigahertz transducer
+KW  - three-dimensional space
+KW  - dynamic position control
+KW  - spatial distance
+KW  - microscale objects
+KW  - microrobotics
+KW  - noncontact manipulation
+KW  - microparticle
+KW  - 3D manipulation
+KW  - acoustofluidic tweezers
+KW  - Transducers
+KW  - Acoustics
+KW  - Force
+KW  - Fluids
+KW  - Three-dimensional displays
+KW  - Streaming media
+KW  - Hydrodynamics
+DO  - 10.1109/ICRA40945.2020.9197265
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Non-contact manipulation is of great importance in the actuation of micro-robotics. It is challenging to contactless manipulate micro-scale objects over large spatial distance in fluid. Here, we describe a novel approach for the dynamic position control of microparticles in three-dimensional (3D) space, based on high-speed acoustic streaming generated by a micro-fabricated gigahertz transducer. The hydrodynamic force generated by the streaming flow field has a vertical component against gravity and a lateral component towards the center, thus the microparticle is able to be stably trapped at a position far from the transducer surface, and to be manipulated over centimeter distance in 3D. Only the hydrodynamic force is utilized in the system for particle manipulation, making it a versatile tool regardless the material properties of the trapped particle. The system shows high reliability and manipulation velocity, revealing its potentials for the applications in robotics and automation at small scales.
+ER  - 
+
+TY  - CONF
+TI  - An online scheduling algorithm for human-robot collaborative kitting
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11430
+EP  - 11435
+AU  - R. Maderna
+AU  - M. Poggiali
+AU  - A. M. Zanchettin
+AU  - P. Rocco
+PY  - 2020
+KW  - ergonomics
+KW  - human-robot interaction
+KW  - logistics
+KW  - occupational health
+KW  - occupational safety
+KW  - productivity
+KW  - robotic assembly
+KW  - scheduling
+KW  - warehousing
+KW  - online scheduling algorithm
+KW  - human-robot collaborative kitting
+KW  - assembly line
+KW  - key logistic task
+KW  - human operators
+KW  - work-related musculoskeletal disorders
+KW  - picking operations
+KW  - offline scheduler
+KW  - warehouse
+KW  - productivity analysis
+KW  - Task analysis
+KW  - Ergonomics
+KW  - Robot kinematics
+KW  - Strain
+KW  - Collaboration
+KW  - Scheduling algorithms
+DO  - 10.1109/ICRA40945.2020.9197431
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In manufacturing, kitting is the process of grouping separate items together to be supplied as one unit to the assembly line. This is a key logistic task, which is usually performed manually by human operators. However, picking objects from the warehouse implies a great repetitiveness in arm motion. Moreover, the weight and position of items may increase the physical strain and induce the development of work-related musculoskeletal disorders. The inclusion of a collaborative robot in the process may help to reduce the operator's effort and increase productivity. This paper introduces an online scheduling algorithm to guide the picking operations of the human and the robot. The proposed approach has been experimentally evaluated and compared with an offline scheduler, as well as with the baseline case of manual kitting.
+ER  - 
+
+TY  - CONF
+TI  - A Model-Free Approach to Meta-Level Control of Anytime Algorithms
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11436
+EP  - 11442
+AU  - J. Svegliato
+AU  - P. Sharma
+AU  - S. Zilberstein
+PY  - 2020
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - optimisation
+KW  - autonomous system
+KW  - real-time planning problems
+KW  - model-free approach
+KW  - anytime algorithms
+KW  - computation time
+KW  - meta-level control technique
+KW  - meta-level control problem
+KW  - reinforcement learning methods
+KW  - mobile robot domain
+KW  - Learning (artificial intelligence)
+KW  - Autonomous systems
+KW  - Planning
+KW  - Heuristic algorithms
+KW  - Computational modeling
+KW  - Real-time systems
+KW  - Uncertainty
+DO  - 10.1109/ICRA40945.2020.9196898
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Anytime algorithms offer a trade-off between solution quality and computation time that has proven to be useful in autonomous systems for a wide range of real-time planning problems. In order to optimize this trade-off, an autonomous system has to solve a challenging meta-level control problem: it must decide when to interrupt the anytime algorithm and act on the current solution. Prevailing meta-level control techniques, however, make a number of unrealistic assumptions that reduce their effectiveness and usefulness in the real world. Eliminating these assumptions, we first introduce a model-free approach to meta-level control based on reinforcement learning and prove its optimality. We then offer a general meta-level control technique that can use different reinforcement learning methods. Finally, we show that our approach is effective across several common benchmark domains and a mobile robot domain.
+ER  - 
+
+TY  - CONF
+TI  - Simultaneous task allocation and motion scheduling for complex tasks executed by multiple robots
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11443
+EP  - 11449
+AU  - J. K. Behrens
+AU  - K. Stepanova
+AU  - R. Babuska
+PY  - 2020
+KW  - cutting
+KW  - industrial manipulators
+KW  - motion control
+KW  - multi-robot systems
+KW  - optimisation
+KW  - rapid prototyping (industrial)
+KW  - scheduling
+KW  - spot welding
+KW  - time-varying portion
+KW  - generic optimization method
+KW  - varying complexity
+KW  - dual-arm robot
+KW  - robot arm
+KW  - motion scheduling
+KW  - multiple robot coordination
+KW  - simultaneous task allocation
+KW  - additive manufacturing
+KW  - cutting
+KW  - spot welding
+KW  - bolt tightening
+KW  - bolt inserting
+KW  - robot kinematics
+KW  - Task analysis
+KW  - Robot kinematics
+KW  - Planning
+KW  - Collision avoidance
+KW  - Job shop scheduling
+KW  - Resource management
+KW  - task scheduling
+KW  - dual-arm manipulation
+KW  - motion planning
+KW  - multi-robot systems
+DO  - 10.1109/ICRA40945.2020.9197103
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - The coordination of multiple robots operating simultaneously in the same workspace requires the integration of task allocation and motion scheduling. We focus on tasks in which the robot's actions are not confined to small volumes, but can also occupy a large time-varying portion of the workspace, such as in welding along a line. The optimization of such tasks presents a considerable challenge mainly due to the fact that different variants of task execution exist, for instance, there can be multiple starting points of lines or closed curves, differentfilling patterns of areas, etc. We propose a generic and computationally efficient optimization method which is based on constraint programming. It takes into account the kinematics of the robots and guarantees that the motions of the robots are collision-free while minimizing the overall makespan. We evaluate our approach on several use-cases of varying complexity: cutting, additive manufacturing, spot welding, inserting and tightening bolts, performed by a dual-arm robot. In terms of the makespan, the result is superior to task execution by one robot arm as well as by two arms not working simultaneously.
+ER  - 
+
+TY  - CONF
+TI  - Efficient Planning for High-Speed MAV Flight in Unknown Environments Using Online Sparse Topological Graphs
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11450
+EP  - 11456
+AU  - M. Collins
+AU  - N. Michael
+PY  - 2020
+KW  - aerospace navigation
+KW  - air safety
+KW  - autonomous aerial vehicles
+KW  - collision avoidance
+KW  - graph theory
+KW  - infinite horizon
+KW  - microrobots
+KW  - mobile robots
+KW  - probability
+KW  - robot vision
+KW  - search problems
+KW  - high-speed MAV flight
+KW  - online sparse topological graphs
+KW  - safe high-speed autonomous navigation
+KW  - local planning grid
+KW  - computationally-efficient planning architecture
+KW  - safe high-speed operation
+KW  - longer-term memory
+KW  - motion primitive-based local receding horizon planner
+KW  - memory-efficient sparse topological graph
+KW  - planning system
+KW  - complex simulation environments
+KW  - robot decision making
+KW  - probabilistic collision avoidance
+KW  - safe rerouting
+KW  - Planning
+KW  - Collision avoidance
+KW  - Robot sensing systems
+KW  - Libraries
+KW  - Safety
+KW  - Trajectory
+DO  - 10.1109/ICRA40945.2020.9197167
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Safe high-speed autonomous navigation for MAVs in unknown environments requires fast planning to enable the robot to adapt and react quickly to incoming information about obstacles within the world. Furthermore, when operating in environments not known a priori, the robot may make decisions that lead to dead ends, necessitating global replanning through a map of the environment outside of a local planning grid. This work proposes a computationally-efficient planning architecture for safe high-speed operation in unknown environments that incorporates a notion of longer-term memory into the planner enabling the robot to accurately plan to locations no longer contained within a local map. A motion primitive-based local receding horizon planner that uses a probabilistic collision avoidance methodology enables the robot to generate safe plans at fast replan rates. To provide global guidance, a memory-efficient sparse topological graph is created online from a time history of the robot's path and a geometric notion of visibility within the environment to search for alternate pathways towards the desired goal if a dead end is encountered. The safety and performance of the proposed planning system is evaluated at speeds up to 10m/s, and the approach is tested in a set of large-scale, complex simulation environments containing dead ends. These scenarios lead to failure cases for competing methods; however, the proposed approach enables the robot to safely reroute and reach the desired goal.
+ER  - 
+
+TY  - CONF
+TI  - Evaluating Adaptation Performance of Hierarchical Deep Reinforcement Learning
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11457
+EP  - 11463
+AU  - N. Van Stolen
+AU  - S. Hyun Kim
+AU  - H. T. Tran
+AU  - G. Chowdhary
+PY  - 2020
+KW  - learning (artificial intelligence)
+KW  - multi-agent systems
+KW  - neural nets
+KW  - differentiated sub-policies
+KW  - hierarchical controller
+KW  - adaptation performance
+KW  - hierarchical deep reinforcement learning
+KW  - policy performance
+KW  - confidence- based training process
+KW  - Training
+KW  - Adaptation models
+KW  - Trajectory
+KW  - Games
+KW  - Learning (artificial intelligence)
+KW  - Robots
+KW  - Switches
+DO  - 10.1109/ICRA40945.2020.9197052
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Deep Reinforcement Learning has been used to exploit specific environments, but has difficulty transferring learned policies to new situations. This issue poses a problem for practical applications of Reinforcement Learning, as real-world scenarios may introduce unexpected differences that drastically reduce policy performance. We propose the use of differentiated sub-policies governed by a hierarchical controller to support adaptation in such scenarios. We also introduce a confidence- based training process for the hierarchical controller which improves training stability and convergence times. We evaluate these methods in a new Capture the Flag environment designed to explore adaptation in autonomous multi-agent settings.
+ER  - 
+
+TY  - CONF
+TI  - Iterator-Based Temporal Logic Task Planning
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11472
+EP  - 11478
+AU  - S. A. Zudaire
+AU  - M. Garrett
+AU  - S. Uchite
+PY  - 2020
+KW  - autonomous aerial vehicles
+KW  - control system synthesis
+KW  - discrete event systems
+KW  - mobile robots
+KW  - path planning
+KW  - temporal logic
+KW  - task specifications
+KW  - universally quantified locations
+KW  - constant time
+KW  - hybrid control
+KW  - discrete event controller
+KW  - synthesised plan
+KW  - iterator-based temporal logic task planning
+KW  - robotic systems
+KW  - state explosion
+KW  - discrete locations
+KW  - fixed-wing unmanned aerial vehicle
+KW  - Task analysis
+KW  - Robot sensing systems
+KW  - Planning
+KW  - Fires
+KW  - Unmanned aerial vehicles
+DO  - 10.1109/ICRA40945.2020.9197274
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Temporal logic task planning for robotic systems suffers from state explosion when specifications involve large numbers of discrete locations. We provide a novel approach, particularly suited for task specifications with universally quantified locations, that has constant time with respect to the number of locations, enabling synthesis of plans for an arbitrary number of them. We propose a hybrid control framework that uses an iterator to manage the discretised workspace hiding it from a plan enacted by a discrete event controller. A downside of our approach is that it incurs in increased overhead when executing a synthesised plan. We demonstrate that the overhead is reasonable for missions of a fixed-wing Unmanned Aerial Vehicle in simulated and real scenarios for up to 700000 locations.
+ER  - 
+
+TY  - CONF
+TI  - Reactive Temporal Logic Planning for Multiple Robots in Unknown Environments
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11479
+EP  - 11485
+AU  - Y. Kantaros
+AU  - M. Malencia
+AU  - V. Kumar
+AU  - G. J. Pappas
+PY  - 2020
+KW  - mobile robots
+KW  - multi-robot systems
+KW  - path planning
+KW  - robot dynamics
+KW  - temporal logic
+KW  - multiple robots
+KW  - reactive mission
+KW  - unknown environment
+KW  - temporal logic planning approaches
+KW  - robot dynamics
+KW  - known environments
+KW  - abstraction-free LTL planning algorithm
+KW  - complex mission planning
+KW  - complex planning tasks
+KW  - co-safe linear temporal logic formulas
+KW  - reactive temporal logic planning
+KW  - Robot sensing systems
+KW  - Planning
+KW  - Task analysis
+KW  - Heuristic algorithms
+KW  - Automata
+DO  - 10.1109/ICRA40945.2020.9197570
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - This paper proposes a new reactive mission planning algorithm for multiple robots that operate in unknown environments. The robots are equipped with individual sensors that allow them to collectively learn and continuously update a map of the unknown environment. The goal of the robots is to accomplish complex tasks, captured by global co-safe Linear Temporal Logic (LTL) formulas. The majority of existing temporal logic planning approaches rely on discrete abstractions of the robot dynamics operating in known environments and, as a result, they cannot be applied to the more realistic scenarios where the environment is initially unknown. In this paper, we address this novel challenge by proposing the first reactive, and abstraction-free LTL planning algorithm that can be applied for complex mission planning of multiple robots operating in unknown environments. Our algorithm is reactive in the sense that temporal logic planning is adapting to the updated map of the environment and abstraction-free as it does not rely on designing abstractions of robot dynamics. Our proposed algorithm is complete under mild assumptions on the structure of the environment and the sensor models. Our paper provides extensive numerical simulations and hardware experiments that illustrate the theoretical analysis and show that the proposed algorithm can address complex planning tasks in unknown environments.
+ER  - 
+
+TY  - CONF
+TI  - Higher Order Function Networks for View Planning and Multi-View Reconstruction
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11486
+EP  - 11492
+AU  - S. Engin
+AU  - E. Mitchell
+AU  - D. Lee
+AU  - V. Isler
+AU  - D. D. Lee
+PY  - 2020
+KW  - image reconstruction
+KW  - learning (artificial intelligence)
+KW  - neural nets
+KW  - object detection
+KW  - robot vision
+KW  - shape recognition
+KW  - solid modelling
+KW  - stereo image processing
+KW  - Higher Order function networks
+KW  - multiview reconstruction
+KW  - visual inspection
+KW  - neural network
+KW  - shape information
+KW  - deep learning
+KW  - complete 3D reconstruction
+KW  - Higher Order Functions
+KW  - reconstruction quality
+KW  - multiview HOF network
+KW  - image acquisition
+KW  - view planning
+KW  - visibility quality
+KW  - shape representation
+KW  - Three-dimensional displays
+KW  - Image reconstruction
+KW  - Planning
+KW  - Cameras
+KW  - Surface reconstruction
+KW  - Inspection
+KW  - Shape
+DO  - 10.1109/ICRA40945.2020.9197435
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - We consider the problem of planning views for a robot to acquire images of an object for visual inspection and reconstruction. In contrast to offline methods which require a 3D model of the object as input or online methods which rely on only local measurements, our method uses a neural network which encodes shape information for a large number of objects. We build on recent deep learning methods capable of generating a complete 3D reconstruction of an object from a single image. Specifically, in this work, we extend a recent method which uses Higher Order Functions (HOF) to represent the shape of the object. We present a new generalization of this method to incorporate multiple images as input and establish a connection between visibility and reconstruction quality. This relationship forms the foundation of our view planning method where we compute viewpoints to visually cover the output of the multiview HOF network with as few images as possible. Experiments indicate that our method provides a good compromise between online and offline methods: Similar to online methods, our method does not require the true object model as input. In terms of number of views, it is much more efficient. In most cases, its performance is comparable to the optimal offline case even on object classes the network has not been trained on.
+ER  - 
+
+TY  - CONF
+TI  - Residual Reactive Navigation: Combining Classical and Learned Navigation Strategies For Deployment in Unknown Environments
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11493
+EP  - 11499
+AU  - K. Rana
+AU  - B. Talbot
+AU  - V. Dasagi
+AU  - M. Milford
+AU  - N. Sünderhauf
+PY  - 2020
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - path planning
+KW  - trajectory control
+KW  - learned navigation strategies
+KW  - residual reinforcement learning framework
+KW  - robotic manipulation literature
+KW  - mobile robots
+KW  - residual control effect
+KW  - sub-optimal classical controller
+KW  - data efficiency
+KW  - cluttered indoor navigation tasks
+KW  - residual reactive navigation
+KW  - Navigation
+KW  - Robots
+KW  - Uncertainty
+KW  - Training
+KW  - Task analysis
+KW  - Learning (artificial intelligence)
+KW  - Machine learning
+DO  - 10.1109/ICRA40945.2020.9197386
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - In this work we focus on improving the efficiency and generalisation of learned navigation strategies when transferred from its training environment to previously unseen ones. We present an extension of the residual reinforcement learning framework from the robotic manipulation literature and adapt it to the vast and unstructured environments that mobile robots can operate in. The concept is based on learning a residual control effect to add to a typical sub-optimal classical controller in order to close the performance gap, whilst guiding the exploration process during training for improved data efficiency. We exploit this tight coupling and propose a novel deployment strategy, switching Residual Reactive Navigation (sRRN), which yields efficient trajectories whilst probabilistically switching to a classical controller in cases of high policy uncertainty. Our approach achieves improved performance over end-to-end alternatives and can be incorporated as part of a complete navigation stack for cluttered indoor navigation tasks in the real world. The code and training environment for this project is made publicly available at https://sites.google.com/view/srrn/home.
+ER  - 
+
+TY  - CONF
+TI  - Online Grasp Plan Refinement for Reducing Defects During Robotic Layup of Composite Prepreg Sheets
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11500
+EP  - 11507
+AU  - R. K. Malhan
+AU  - R. Jomy Joseph
+AU  - A. V. Shembekar
+AU  - A. M. Kabir
+AU  - P. M. Bhatt
+AU  - S. K. Gupta
+PY  - 2020
+KW  - dexterous manipulators
+KW  - Gaussian processes
+KW  - path planning
+KW  - quality control
+KW  - regression analysis
+KW  - sheet materials
+KW  - online grasp plan refinement
+KW  - robotic layup
+KW  - composite prepreg
+KW  - high-performance composites
+KW  - sheet layup
+KW  - composite components
+KW  - deformable sheets
+KW  - robotic cell
+KW  - layup process
+KW  - manual layup
+KW  - online refinement
+KW  - environmental factors
+KW  - Gaussian process regression model offline
+KW  - grasp plans
+KW  - GPR
+KW  - Trajectory
+KW  - Grasping
+KW  - Grippers
+KW  - Robot sensing systems
+KW  - Computational modeling
+KW  - Service robots
+DO  - 10.1109/ICRA40945.2020.9196876
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - High-performance composites are increasingly being used in the industry. Sheet layup is a process of manufacturing composite components using deformable sheets. We have developed a robotic cell to automate the layup process and overcome the limitations of the manual layup. Generating offline trajectories for robots and executing them without online refinement can introduce defects in the process due to uncertainties in the model of the sheet and environmental factors. Our system computes layup and grasping trajectories for the robots and refines them during the layup process based on the sensor data. We use an approach that augments physical experiments with simulations to train a Gaussian process regression model offline. The use of GPR enables us to quickly refine grasp plans and perform a defect-free layup without slowing down the layup process. We present experimental results on two components.
+ER  - 
+
+TY  - CONF
+TI  - Learning Continuous 3D Reconstructions for Geometrically Aware Grasping
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11516
+EP  - 11522
+AU  - M. Van der Merwe
+AU  - Q. Lu
+AU  - B. Sundaralingam
+AU  - M. Matak
+AU  - T. Hermans
+PY  - 2020
+KW  - dexterous manipulators
+KW  - grippers
+KW  - image reconstruction
+KW  - learning (artificial intelligence)
+KW  - mobile robots
+KW  - neural nets
+KW  - robot vision
+KW  - shape recognition
+KW  - solid modelling
+KW  - continuous 3D reconstructions
+KW  - geometrically aware grasping
+KW  - deep learning
+KW  - grasp synthesis
+KW  - unseen objects
+KW  - partial object views
+KW  - indirect geometric reasoning
+KW  - explicit geometric reasoning
+KW  - grasping system
+KW  - reconstruction network
+KW  - grasp success classifier
+KW  - continuous grasp optimization
+KW  - grasp metrics
+KW  - 96 robot grasping trials
+KW  - Three-dimensional displays
+KW  - Optimization
+KW  - Collision avoidance
+KW  - Grasping
+KW  - Geometry
+KW  - Robot sensing systems
+DO  - 10.1109/ICRA40945.2020.9196981
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Deep learning has enabled remarkable improvements in grasp synthesis for previously unseen objects from partial object views. However, existing approaches lack the ability to explicitly reason about the full 3D geometry of the object when selecting a grasp, relying on indirect geometric reasoning derived when learning grasp success networks. This abandons explicit geometric reasoning, such as avoiding undesired robot object collisions. We propose to utilize a novel, learned 3D reconstruction to enable geometric awareness in a grasping system. We leverage the structure of the reconstruction network to learn a grasp success classifier which serves as the objective function for a continuous grasp optimization. We additionally explicitly constrain the optimization to avoid undesired contact, directly using the reconstruction. We examine the role of geometry in grasping both in the training of grasp metrics and through 96 robot grasping trials. Our results can be found on https://sites.google.com/view/reconstruction-grasp/.
+ER  - 
+
+
