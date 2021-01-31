@@ -1,0 +1,1150 @@
+TY  - CONF
+TI  - NanoMap: Fast, Uncertainty-Aware Proximity Queries with Lazy Search Over Local 3D Data
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7631
+EP  - 7638
+AU  - P. R. Florence
+AU  - J. Carter
+AU  - J. Ware
+AU  - R. Tedrake
+PY  - 2018
+KW  - cartography
+KW  - collision avoidance
+KW  - mobile robots
+KW  - navigation
+KW  - sensors
+KW  - NanoMap
+KW  - uncertainty-aware proximity queries
+KW  - lazy search
+KW  - local 3D data
+KW  - local 3D information
+KW  - robustly plan motions
+KW  - local map structure
+KW  - mapping approaches
+KW  - global map fusion
+KW  - motion planner
+KW  - pose-uncertainty-aware local 3D geometric information
+KW  - noisy relative pose transforms
+KW  - depth sensor measurements
+KW  - minimum-uncertainty view
+KW  - motion planning
+KW  - fast 3D obstacle avoidance
+KW  - mapping techniques
+KW  - Uncertainty
+KW  - Robot sensing systems
+KW  - Planning
+KW  - Three-dimensional displays
+KW  - Collision avoidance
+KW  - History
+KW  - Current measurement
+DO  - 10.1109/ICRA.2018.8463195
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - We would like robots to be able to safely navigate at high speed, efficiently use local 3D information, and robustly plan motions that consider pose uncertainty of measurements in a local map structure. This is hard to do with previously existing mapping approaches, like occupancy grids, that are focused on incrementally fusing 3D data into a common world frame. In particular, both their fragile sensitivity to state estimation errors and computational cost can be limiting. We develop an alternative framework, NanoMap, which alleviates the need for global map fusion and enables a motion planner to efficiently query pose-uncertainty-aware local 3D geometric information. The key idea of NanoMap is to store a history of noisy relative pose transforms and search over a corresponding set of depth sensor measurements for the minimum-uncertainty view of a queried point in space. This approach affords a variety of capabilities not offered by traditional mapping techniques: (a) the pose uncertainty associated with 3D data can be incorporated in motion planning, (b) poses can be updated (i.e., from loop closures) with minimal computational effort, and (c) 3D data can be fused lazily for the purpose of planning. We provide an open-source implementation of NanoMap, and analyze its capabilities and computational efficiency in simulation experiments. Finally, we demonstrate in hardware its effectiveness for fast 3D obstacle avoidance onboard a quadrotor flying up to 10 m/s.
+ER  - 
+
+TY  - CONF
+TI  - A Sensorless Collision Detection Approach Based on Virtual Contact Points
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7639
+EP  - 7645
+AU  - Z. Qiu
+AU  - R. Ozawa
+PY  - 2018
+KW  - collision avoidance
+KW  - force control
+KW  - manipulators
+KW  - virtual contact points
+KW  - force-sensorless collision detection approach
+KW  - virtual contacts
+KW  - virtual instantaneous powers
+KW  - 2D collision detection tasks
+KW  - 3D collision detection tasks
+KW  - DOF spatial manipulator validate
+KW  - contact link
+KW  - Collision avoidance
+KW  - Task analysis
+KW  - Manipulators
+KW  - Force
+KW  - Two dimensional displays
+KW  - Robot sensing systems
+DO  - 10.1109/ICRA.2018.8460219
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - This paper presents a force-sensorless collision detection approach based on virtual contacts. A series of indices based on virtual instantaneous powers are introduced associating to several virtual contacts defined on corresponding links of a manipulator. A possible contact link can be determined by comparing the introduced indices without any force or tactile sensors. Simulation results of 2D collision detection tasks by using a three DOF (Degree of Freedom) planar manipulator and 3D collision detection tasks by using a six DOF spatial manipulator validate the effectiveness of the proposed collision detection approach.
+ER  - 
+
+TY  - CONF
+TI  - Probabilistic Graph Security for Networked Multi-Robot Systems
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7646
+EP  - 7653
+AU  - R. Wehbe
+AU  - R. K. Williams
+PY  - 2018
+KW  - binary decision diagrams
+KW  - Boolean functions
+KW  - graph theory
+KW  - mobile robots
+KW  - multi-robot systems
+KW  - probability
+KW  - networked multirobot systems
+KW  - robot interactions
+KW  - existing control-theoretic notion
+KW  - network attacks
+KW  - left invertibility
+KW  - dynamical system
+KW  - probabilistic robot communication
+KW  - adversarial influence
+KW  - probabilistic graph security problem
+KW  - system reliability
+KW  - efficient graphical representation
+KW  - binary decision diagrams
+KW  - networked MRS
+KW  - mobile multirobot teams
+KW  - mobile MRS
+KW  - reduced order BDD
+KW  - Robot sensing systems
+KW  - Probabilistic logic
+KW  - Observers
+KW  - Security
+KW  - Boolean functions
+DO  - 10.1109/ICRA.2018.8460752
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - In this paper, we develop a method for determining the probability of a multi-robot system (MRS) being secure when robot interactions are modeled as a probabilistic graph. To define the security of an MRS, we apply an existing control-theoretic notion of network attacks based on the left invertibility of a dynamical system. We then extend previous work by assuming probabilistic robot communication and sensing, modeling the effects of noise, failure, or adversarial influence on interactions in the network. The probabilistic graph security problem can then be seen as a variant of problems solved in the field of system reliability. This interpretation motivates the application of an efficient graphical representation of boolean functions known as binary decision diagrams (BDDs). Specifically, we use the canonical properties of a special type of BDD, the Reduced Order BDD, to generate a tree that can be efficiently traversed to compute the probability that a networked MRS is left invertible, and thus, secure. We then show how our adopted approach can be applied to systems that have interactions that change over time, e.g., for mobile multi-robot teams. Finally, we demonstrate the validity of our method by simulating a mobile MRS performing a rendezvous objective, while tracking its probability of security over time.
+ER  - 
+
+TY  - CONF
+TI  - Controlling the Interaction of a Multi-Robot System with External Entities
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7654
+EP  - 7659
+AU  - L. Sabattini
+AU  - C. Secchi
+AU  - C. Fantuzzi
+PY  - 2018
+KW  - force control
+KW  - multi-robot systems
+KW  - external entities
+KW  - dynamic interaction model
+KW  - multirobot system
+KW  - interaction control
+KW  - local deformations
+KW  - coupling actions
+KW  - passivity property
+KW  - safety guarantees
+KW  - Robots
+KW  - Couplings
+KW  - Multi-robot systems
+KW  - Dynamics
+KW  - Force
+KW  - Damping
+KW  - Collision avoidance
+DO  - 10.1109/ICRA.2018.8463198
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - In this paper we consider a multi-robot system that shares the environment with external entities, and we propose a methodology for controlling the interaction with them. In particular, we consider the problem of achieving a desired dynamic interaction model, in such a way that the multi-robot system exchanges desired forces with external entities. This is obtained by introducing local deformations of the coupling actions among the robots. The proposed method ensures preservation of the passivity property, which provides safety guarantees in the interaction with the (possibly poorly known) external entities.
+ER  - 
+
+TY  - CONF
+TI  - Network Topology Inference in Swarm Robotics
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7660
+EP  - 7666
+AU  - B. L. Mendívez Vásquez
+AU  - J. c. Barca
+PY  - 2018
+KW  - graph theory
+KW  - inference mechanisms
+KW  - multi-robot systems
+KW  - network theory (graphs)
+KW  - swarm intelligence
+KW  - network topology inference
+KW  - swarm robotics
+KW  - topological graph
+KW  - swarm intelligence
+KW  - Trajectory
+KW  - Robots
+KW  - Network topology
+KW  - Acceleration
+KW  - Australia
+KW  - Mathematical model
+KW  - Atmospheric measurements
+DO  - 10.1109/ICRA.2018.8463190
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Swarm robotics refers to the implementation of swarm intelligence features like autonomy and self-organization to a collective of robots. This study focuses on the construction of a topological graph that represents both the magnitude and orientation of swarm interactions. Such structure is used for identifying global parameters like leadership and to derive a relationship between the distribution of interaction magnitudes and swarm parameters. Interaction magnitudes were derived from the trajectory distance between nearest neighbors and it was found that the distribution is able to differentiate between only a small subset of controllers, communication ranges and swarm sizes. Leader detection was based on the analysis of position vectors orientation in local neighborhoods. The method was successful at a 100% rate for 10 and 30 robots, while for 60 a minimum rate of 67% was obtained. Additionally, processing times never exceeded a simulation duration for swarms up to 30 robots, with the potential to parallelize for larger sizes.
+ER  - 
+
+TY  - CONF
+TI  - Using Hardware Specialization and Hierarchy to Simplify Robotic Swarms
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7667
+EP  - 7673
+AU  - G. Espinosa
+AU  - M. Rubenstein
+PY  - 2018
+KW  - mobile robots
+KW  - multi-robot systems
+KW  - work distribution
+KW  - hardware specialization
+KW  - classical distributed robotics problem
+KW  - robotic swarms
+KW  - simulated environment
+KW  - shape formation
+KW  - Shape
+KW  - Task analysis
+KW  - Hardware
+KW  - Robot sensing systems
+KW  - Legged locomotion
+KW  - Collision avoidance
+DO  - 10.1109/ICRA.2018.8463206
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Specialization has always been a tool for work distribution and simplification in nature and in distributed robotics. We present a novel approach to use hardware specialization hierarchically to enhance the capabilities of a swarm without increasing complexity, allowing a numerous group of robots to benefit from the extended features of a few to complete a task that was impossible for them before. We tested the concept under a simulated environment with a classical distributed robotics problem, shape formation, and validated the simulated results against a real experiment.
+ER  - 
+
+TY  - CONF
+TI  - From Swarms to Stars: Task Coverage in Robot Swarms with Connectivity Constraints
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7674
+EP  - 7681
+AU  - J. Panerati
+AU  - L. Gianoli
+AU  - C. Pinciroli
+AU  - A. Shabah
+AU  - G. Nicolescu
+AU  - G. Beltrame
+PY  - 2018
+KW  - distributed control
+KW  - mobile robots
+KW  - multi-robot systems
+KW  - navigation
+KW  - optimisation
+KW  - scheduling
+KW  - Task coverage
+KW  - Robot swarms
+KW  - connectivity constraints
+KW  - swarm robotics
+KW  - complex tasks
+KW  - control algorithms
+KW  - globally coordinated behaviours
+KW  - spatial coverage
+KW  - global connectivity
+KW  - distributed Robot Navigation Controller
+KW  - RNC
+KW  - global Task Scheduling Controller
+KW  - minimal computational load
+KW  - connectivity assessment
+KW  - real-life robot experiments
+KW  - coverage optimality
+KW  - Task analysis
+KW  - Robot kinematics
+KW  - Navigation
+KW  - Eigenvalues and eigenfunctions
+KW  - Computational modeling
+KW  - Multi-robot systems
+DO  - 10.1109/ICRA.2018.8463193
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Swarm robotics carries the potential of solving complex tasks using simple devices. To do so, however, one must define distributed control algorithms capable of producing globally coordinated behaviours. We propose a methodology to address the problem of the spatial coverage of multiple tasks with a swarm of robots that must not lose global connectivity. Our methodology comprises two layers: (i) a distributed Robot Navigation Controller (RNC) is responsible for simultaneously guaranteeing connectivity and pursuit of multiple tasks; and (ii) a global Task Scheduling Controller approximates the optimal strategy for the RNC with minimal computational load. Our contributions include: (i) a qualitative analysis of the literature on connectivity assessment, (ii) our proposed methodology, (iii) simulations in a multi-physics environment, (iv) real-life robot experiments, and (v) the experimental validation of connectivity, coverage optimality, and fault-tolerance.
+ER  - 
+
+TY  - CONF
+TI  - Using Information Invariants to Compare Swarm Algorithms and General Multi-Robot Algorithms
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7682
+EP  - 7687
+AU  - G. Arpino
+AU  - K. Morris
+AU  - S. Nagavalli
+AU  - K. Sycara
+PY  - 2018
+KW  - mobile robots
+KW  - multi-robot systems
+KW  - swarm intelligence
+KW  - multirobot algorithms
+KW  - proximal neighbors
+KW  - emergent collective behaviors
+KW  - all-to-all communication
+KW  - deliberative collaboration
+KW  - supervisory operator
+KW  - mission constraints
+KW  - application domains - navigation
+KW  - dynamic area coverage
+KW  - online algorithm selection decisions
+KW  - offline system design decisions
+KW  - robotic swarms
+KW  - information invariants
+KW  - Heuristic algorithms
+KW  - Robot kinematics
+KW  - Robot sensing systems
+KW  - Collision avoidance
+KW  - Multi-robot systems
+KW  - Navigation
+DO  - 10.1109/ICRA.2018.8463210
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Robotic swarms are decentralized multi-robot systems whose members use local information from proximal neighbors to execute simple reactive control laws that result in emergent collective behaviors. In contrast, members of a general multi-robot system may have access to global information, all-to-all communication or sophisticated deliberative collaboration. Some algorithms in the literature are applicable to robotic swarms. Others require the extra complexity of general multi-robot systems. Given an application domain, a system designer or supervisory operator must choose an appropriate system or algorithm respectively that will enable them to achieve their goals while satisfying mission constraints (e.g, bandwidth, energy, time limits). In this paper, we compare representative swarm and general multi-robot algorithms in two application domains - navigation and dynamic area coverage - with respect to several metrics (e.g, completion time, distance travelled). Our objective is to characterize each class of algorithms to inform offline system design decisions by engineers or online algorithm selection decisions by supervisory operators. Our contributions are (a) an empirical performance comparison of representative swarm and general multi-robot algorithms in two application domains, (b) a comparative analysis of the algorithms based on the theory of information invariants, which provides a theoretical characterization supported by our emnirical results.
+ER  - 
+
+TY  - CONF
+TI  - Learning Robust Policies for Object Manipulation with Robot Swarms
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7688
+EP  - 7695
+AU  - G. H. W. Gebhardt
+AU  - K. Daun
+AU  - M. Schnaubelt
+AU  - G. Neumann
+PY  - 2018
+KW  - Hilbert spaces
+KW  - learning systems
+KW  - mobile robots
+KW  - multi-robot systems
+KW  - robotic assembly
+KW  - robust control
+KW  - search problems
+KW  - swarm size
+KW  - robust policies learning
+KW  - Hilbert space embeddings
+KW  - policy search methods
+KW  - low-level object movement policy
+KW  - high-level assembly plan
+KW  - assembly process
+KW  - policy search method
+KW  - autonomous object assembly
+KW  - swarm robotics
+KW  - robot swarms
+KW  - object manipulation
+KW  - Robot sensing systems
+KW  - Task analysis
+KW  - Light sources
+KW  - Robustness
+KW  - Kernel
+KW  - Trajectory
+DO  - 10.1109/ICRA.2018.8463215
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Swarm robotics investigates how a large population of robots with simple actuation and limited sensors can collectively solve complex tasks. One particular interesting application with robot swarms is autonomous object assembly. Such tasks have been solved successfully with robot swarms that are controlled by a human operator using a light source. In this paper, we present a method to solve such assembly tasks autonomously based on policy search methods. We split the assembly process in two subtasks: generating a high-level assembly plan and learning a low-level object movement policy. The assembly policy plans the trajectories for each object and the object movement policy controls the trajectory execution. Learning the object movement policy is challenging as it depends on the complex state of the swarm which consists of an individual state for each agent. To approach this problem, we introduce a representation of the swarm which is based on Hilbert space embeddings of distributions. This representation is invariant to the number of agents in the swarm as well as to the allocation of an agent to its position in the swarm. These invariances make the learned policy robust to changes in the swarm and also reduce the search space for the policy search method significantly. We show that the resulting system is able to solve assembly tasks with varying object shapes in multiple simulation scenarios and evaluate the robustness of our representation to changes in the swarm size. Furthermore, we demonstrate that the policies learned in simulation are robust enough to be transferred to real robots.
+ER  - 
+
+TY  - CONF
+TI  - Modeling and Identification of a Single Link Flexible Arm with a Passive Gravity Compensation Mechanism
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7704
+EP  - 7710
+AU  - J. C. Cambera
+AU  - J. A. Chocoteco
+AU  - V. Feliu-Batlle
+PY  - 2018
+KW  - compensation
+KW  - flexible manipulators
+KW  - linear systems
+KW  - springs (mechanical)
+KW  - spring based mechanism
+KW  - flexible link arm
+KW  - single link flexible arm
+KW  - linear springs
+KW  - flexible link robotics
+KW  - passive gravity compensation
+KW  - spring-based compensation
+KW  - lumped-mass methodology
+KW  - vibrational frequency
+KW  - Gravity
+KW  - Springs
+KW  - Torque
+KW  - DC motors
+KW  - Wires
+KW  - Robots
+KW  - Payloads
+DO  - 10.1109/ICRA.2018.8461097
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - In this paper, we present an experimental study concerning the gravity compensation of flexible link arms based on linear springs. In the field of flexible link robotics, the gravity compensation based on counterweights has been successfully applied in the past, but little effort has been made to examine the potential benefits and difficulties of using spring-based compensation mechanisms. This paper focuses on the modeling and identification of a single link flexible arm compensated with a spring based mechanism. As modeling approach, we followed the lumped-mass methodology to develop a model capable of reproducing the first vibrational frequency of the flexible link arm. Keeping in mind the forces that interact with the flexible link, a combination of sensors is suggested in order to measure and estimate the most important variables of the system. Subsequently, a very simple and reliable identification method based on the time and frequency response of the system is proposed. Finally, the results of the modeling and identification are validated on our experimental platform.
+ER  - 
+
+TY  - CONF
+TI  - A Nonlinear Control Strategy for Extensible Continuum Robots
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7727
+EP  - 7734
+AU  - C. G. Frazelle
+AU  - A. D. Kapadia
+AU  - I. D. Walker
+PY  - 2018
+KW  - closed loop systems
+KW  - control system synthesis
+KW  - manipulators
+KW  - nonlinear control systems
+KW  - PD control
+KW  - variable structure systems
+KW  - extensible continuum robots
+KW  - closed-loop control
+KW  - adaptation-based control law
+KW  - rigid-link control device
+KW  - extensible continuum manipulator
+KW  - nonlinear control strategy
+KW  - set-point tracking
+KW  - Manipulator dynamics
+KW  - Mathematical model
+KW  - Convergence
+KW  - Kinematics
+KW  - Jacobian matrices
+DO  - 10.1109/ICRA.2018.8463187
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - In this paper, we describe a novel nonlinear control strategy for the closed-loop control of extensible continuum robots. Previous attempts at controlling continuum robots have proved difficult due to the complexity of their system dynamics. Taking advantage of a previously developed dynamic model for a three-section, planar, continuum manipulator, we develop an adaptation-based control law. We present simulation results of a set-point tracking between a rigid-link control device and an extensible continuum manipulator. Experimental results of the controller implemented on a six degree-of-freedom continuum robot are also presented.
+ER  - 
+
+TY  - CONF
+TI  - Continuously Controllable Series Clutches for Efficient Robot Actuation
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7735
+EP  - 7741
+AU  - J. Malzahn
+AU  - V. D. Amara
+AU  - N. Tsagarakis
+PY  - 2018
+KW  - actuators
+KW  - clutches
+KW  - energy conservation
+KW  - friction
+KW  - gears
+KW  - mobile robots
+KW  - muscle
+KW  - torque
+KW  - controllable series clutches
+KW  - efficient robot actuation
+KW  - energy efficiency potential
+KW  - continuously controllable clutches
+KW  - robot joints
+KW  - biological muscles
+KW  - purely gravity driven robot link motion phases
+KW  - gear friction
+KW  - motor effort
+KW  - energetic benefits
+KW  - direct drives
+KW  - unforced motion phases
+KW  - high torque density
+KW  - conventional geared robotic drive technology
+KW  - mature geared robotic drive technology
+KW  - forced motion phases
+KW  - general functional principle
+KW  - particular clutch implementation
+KW  - harmonic link motions
+KW  - friction torque
+KW  - Friction
+KW  - Torque
+KW  - Robots
+KW  - Actuators
+KW  - Tendons
+KW  - Mathematical model
+DO  - 10.1109/ICRA.2018.8463192
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - This paper investigates the energy efficiency potential of continuously controllable clutches between the motors and links of robot joints. Inspired by biological muscles, the clutch enables free, purely gravity driven robot link motion phases gradually disengaged from gear friction, not requiring motor effort. The concept combines the energetic benefits of direct drives during unforced motion phases with the high torque density of conventional and mature geared robotic drive technology during forced motion phases. The paper specifies the general functional principle of the clutch for energy saving independent of any particular clutch implementation. The feasible energy saving of up to 60 % is investigated for harmonic link motions with varying frequencies and with respect to different ratios of link weight to friction torque. The outcomes of the theoretical investigations are supported by first experimental results.
+ER  - 
+
+TY  - CONF
+TI  - Stiffness Modulator: A Novel Actuator for Human Augmentation
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7742
+EP  - 7748
+AU  - H. F. Lau
+AU  - A. Sutrisno
+AU  - T. H. Chong
+AU  - D. J. Braun
+PY  - 2018
+KW  - actuators
+KW  - biomechanics
+KW  - elastic constants
+KW  - medical robotics
+KW  - muscle
+KW  - portable instruments
+KW  - sit-to-stand-task
+KW  - cocontracted antagonistic muscles
+KW  - metabolic energy cost
+KW  - self-contained stiffness modulator
+KW  - muscle activity
+KW  - compliant actuators
+KW  - stiffness modulation
+KW  - human augmentation
+KW  - human knee joint
+KW  - stiffness augmentation
+KW  - portable stiffness modulator
+KW  - Modulation
+KW  - Springs
+KW  - Actuators
+KW  - Force
+KW  - Muscles
+DO  - 10.1109/ICRA.2018.8463186
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Stiffness modulators are devices that promote a novel means of actuation; they provide stiffness modulation without deliberately doing mechanical work. These type of compliant actuators may be used for human augmentation to complement co-contracted antagonistic muscles and as such reduce muscle activity and metabolic energy cost. Despite the theoretical appeal of this concept, its implementation remains elusive in practical applications. This is particularly true for human augmentation which requires a portable stiffness modulator. In this paper, we present a compact, lightweight, and self-contained stiffness modulator. Using this device, we demonstrate stiffness augmentation of the human knee joint in a sit to stand task. The experimental results indicate that the proposed device is able to assist a human by reducing muscle activity while drawing minimal battery power.
+ER  - 
+
+TY  - CONF
+TI  - Cartman: The Low-Cost Cartesian Manipulator that Won the Amazon Robotics Challenge
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7757
+EP  - 7764
+AU  - D. Morrison
+AU  - A. W. Tow
+AU  - M. McTaggart
+AU  - R. Smith
+AU  - N. Kelly-Boxall
+AU  - S. Wade-McCue
+AU  - J. Erskine
+AU  - R. Grinover
+AU  - A. Gurman
+AU  - T. Hunn
+AU  - D. Lee
+AU  - A. Milan
+AU  - T. Pham
+AU  - G. Rallos
+AU  - A. Razjigaev
+AU  - T. Rowntree
+AU  - K. Vijay
+AU  - Z. Zhuang
+AU  - C. Lehnert
+AU  - I. Reid
+AU  - P. Corke
+AU  - J. Leitner
+PY  - 2018
+KW  - industrial manipulators
+KW  - robot vision
+KW  - warehouse automation
+KW  - autonomous warehousing
+KW  - robotic vision
+KW  - manipulation
+KW  - Cartesian robot system Cartman
+KW  - experience-centred design methodology
+KW  - low-cost cartesian manipulator
+KW  - Amazon Robotics Challenge
+KW  - pick-and-place robot
+KW  - Task analysis
+KW  - Manipulators
+KW  - Tools
+KW  - Grippers
+KW  - Planning
+KW  - Robustness
+DO  - 10.1109/ICRA.2018.8463191
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - The Amazon Robotics Challenge enlisted sixteen teams to each design a pick-and-place robot for autonomous warehousing, addressing development in robotic vision and manipulation. This paper presents the design of our custom-built, cost-effective, Cartesian robot system Cartman, which won first place in the competition finals by stowing 14 (out of 16) and picking all 9 items in 27 minutes, scoring a total of 272 points. We highlight our experience-centred design methodology and key aspects of our system that contributed to our competitiveness. We believe these aspects are crucial to building robust and effective robotic systems.
+ER  - 
+
+TY  - CONF
+TI  - Slip Detection with Combined Tactile and Visual Information
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7772
+EP  - 7777
+AU  - J. Li
+AU  - S. Dong
+AU  - E. Adelson
+PY  - 2018
+KW  - feature extraction
+KW  - force control
+KW  - grippers
+KW  - image capture
+KW  - image sequences
+KW  - learning (artificial intelligence)
+KW  - manipulators
+KW  - neural nets
+KW  - pattern classification
+KW  - robot vision
+KW  - tactile sensors
+KW  - robot arm
+KW  - grasping positions
+KW  - slip detection
+KW  - visual information
+KW  - robotic manipulation
+KW  - deep neural network
+KW  - GelSight tactile sensor
+KW  - grasping forces
+KW  - DNN training
+KW  - grasp stability
+KW  - tactile information
+KW  - gripper
+KW  - camera-based tactile sensor
+KW  - image sequences
+KW  - image capture
+KW  - Grippers
+KW  - Grasping
+KW  - Cameras
+KW  - Tactile sensors
+KW  - Force
+DO  - 10.1109/ICRA.2018.8460495
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Slip detection plays a vital role in robotic manipulation and it has long been a challenging problem in the robotic community. In this paper, we propose a new method based on deep neural network (DNN) to detect slip. The training data is acquired by a GelSight tactile sensor and a camera mounted on a gripper when we use a robot arm to grasp and lift 94 daily objects with different grasping forces and grasping positions. The DNN is trained to classify whether a slip occurred or not. To evaluate the performance of the DNN, we test 10 unseen objects in 152 grasps. A detection accuracy as high as 88.03 % is achieved. It is anticipated that the accuracy can be further improved with a larger dataset. This method is beneficial for robots to make stable grasps, which can be widely applied to automatic force control, grasping strategy selection and fine manipulation.
+ER  - 
+
+TY  - CONF
+TI  - Realtime State Estimation with Tactile and Visual Sensing. Application to Planar Manipulation
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7778
+EP  - 7785
+AU  - K. Yu
+AU  - A. Rodriguez
+PY  - 2018
+KW  - end effectors
+KW  - feedback
+KW  - object detection
+KW  - pose estimation
+KW  - position control
+KW  - robot vision
+KW  - SLAM (robots)
+KW  - state estimation
+KW  - touch (physiological)
+KW  - tactile input
+KW  - visual input
+KW  - incremental smoothing
+KW  - visual sensing
+KW  - contact sensing
+KW  - end-effector
+KW  - realtime state estimation
+KW  - robust object state estimation
+KW  - visual sensor
+KW  - visual feedback
+KW  - object shapes
+KW  - object manipulation
+KW  - incremental smoothing and mapping
+KW  - iSAM
+KW  - planar manipulation
+KW  - object poses estimation
+KW  - Robot sensing systems
+KW  - Visualization
+KW  - Cost function
+KW  - State estimation
+KW  - Cameras
+DO  - 10.1109/ICRA.2018.8463183
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Accurate and robust object state estimation enables successful object manipulation. Visual sensing is widely used to estimate object poses. However, in a cluttered scene or in a tight workspace, the robot's end-effector often occludes the object from the visual sensor. The robot then loses visual feedback and must fall back on open-loop execution. In this paper, we integrate both tactile and visual input using a framework for solving the SLAM problem, incremental smoothing and mapping (iSAM), to provide a fast and flexible solution. Visual sensing provides global pose information but is noisy in general, whereas contact sensing is local, but its measurements are more accurate relative to the end-effector. By combining them, we aim to exploit their advantages and overcome their limitations. We explore the technique in the context of a pusher-slider system. We adapt iSAM's measurement cost and motion cost to the pushing scenario, and use an instrumented setup to evaluate the estimation quality with different object shapes, on different surface materials, and under different contact modes.
+ER  - 
+
+TY  - CONF
+TI  - Touch-Based Grasp Primitives for Soft Hands: Applications to Human-to-Robot Handover Tasks and Beyond
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7794
+EP  - 7801
+AU  - M. Bianchi
+AU  - G. Averta
+AU  - E. Battaglia
+AU  - C. Rosales
+AU  - M. Bonilla
+AU  - A. Tondo
+AU  - M. Poggiani
+AU  - G. Santaera
+AU  - S. Ciotti
+AU  - M. G. Catalano
+AU  - A. Bicchi
+PY  - 2018
+KW  - actuators
+KW  - dexterous manipulators
+KW  - end effectors
+KW  - grippers
+KW  - human-robot interaction
+KW  - mobile robots
+KW  - tactile sensors
+KW  - grasp response
+KW  - hand adaptability
+KW  - human inspiration
+KW  - autonomous grasp sensory-motor primitives
+KW  - simple touch-based approach
+KW  - human-robot interaction
+KW  - soft end effectors
+KW  - soft robotic hands
+KW  - adaptable hands
+KW  - human-to-robot handover tasks
+KW  - touch-based grasp primitives
+KW  - soft robotic manipulation
+KW  - human maneuvering
+KW  - human wrist
+KW  - hand closure commands
+KW  - arm motions
+KW  - grasping
+KW  - contact
+KW  - robotic arm
+KW  - under-actuated soft anthropomorphic robotic hand
+KW  - Pisa/IIT SoftHand
+KW  - Robot sensing systems
+KW  - Robot kinematics
+KW  - Acceleration
+KW  - Wrist
+KW  - Task analysis
+DO  - 10.1109/ICRA.2018.8463212
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Recently, the avenue of adaptable, soft robotic hands has opened simplified opportunities to grasp different items; however, the potential of soft end effectors (SEEs) is still largely unexplored, especially in human-robot interaction. In this paper, we propose, for the first time, a simple touch-based approach to endow a SEE with autonomous grasp sensory-motor primitives, in response to an item passed to the robot by a human (human-to-robot handover). We capitalize on human inspiration and minimalistic sensing, while hand adaptability is exploited to generalize grasp response to different objects. We consider the Pisa/IIT SoftHand (SH), an under-actuated soft anthropomorphic robotic hand, which is mounted on a robotic arm and equipped with Inertial Measurement Units (IMUs) on the fingertips. These sensors detect the accelerations arisen from contact with external items. In response to a contact, the hand pose and closure are planned for grasping, by executing arm motions with hand closure commands. We generate these motions from human wrist poses acquired from a human maneuvering the SH to grasp an object from a table. We obtained 86% of successful grasps, considering many objects passed to the SH in different manners. We also tested our techniques in preliminary experiments, where the robot moved to autonomously grasp objects from a surface. Results are positive and open interesting perspectives for soft robotic manipulation.
+ER  - 
+
+TY  - CONF
+TI  - Model-Based Probabilistic Pursuit via Inverse Reinforcement Learning
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7804
+EP  - 7811
+AU  - F. Shkurti
+AU  - N. Kakodkar
+AU  - G. Dudek
+PY  - 2018
+KW  - decision theory
+KW  - graph theory
+KW  - learning (artificial intelligence)
+KW  - Markov processes
+KW  - mobile robots
+KW  - navigation
+KW  - path planning
+KW  - probability
+KW  - search problems
+KW  - control problem
+KW  - single follower robot
+KW  - visual contact
+KW  - moving target
+KW  - plausible predictions
+KW  - predictive models
+KW  - discrete hypotheses
+KW  - combinatorial search
+KW  - physical space
+KW  - model target behavior
+KW  - learned navigation reward function
+KW  - semantic terrain features
+KW  - search methods
+KW  - predictive pursuit algorithm
+KW  - multiple satellite maps
+KW  - simulation scenarios
+KW  - inverse reinforcement learning
+KW  - long term behavior
+KW  - short term behavior
+KW  - planning pursuit paths
+KW  - locations
+KW  - graph representation
+KW  - latent destination
+KW  - position
+KW  - POMDP solvers
+KW  - domain specific knowledge
+KW  - model based probabilistic pursuit
+KW  - Navigation
+KW  - Planning
+KW  - Trajectory
+KW  - Visualization
+KW  - Entropy
+KW  - Predictive models
+KW  - Learning (artificial intelligence)
+DO  - 10.1109/ICRA.2018.8463196
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - We address the integrated prediction, planning, and control problem that enables a single follower robot (the photographer) to quickly re-establish visual contact with a moving target (the subject) that has escaped the follower's field of view. We deal with this scenario, which reactive controllers are typically ill-equipped to handle, by making plausible predictions about the long- and short-term behavior of the target, and planning pursuit paths that will maximize the chance of seeing the target again. At the core of our pursuit method is the use of predictive models of target behavior, which help narrow down the set of possible future locations of the target to a few discrete hypotheses, as well as the use of combinatorial search in physical space to check those hypotheses efficiently. We model target behavior in terms of a learned navigation reward function, using Inverse Reinforcement Learning, based on semantic terrain features of satellite maps. Our pursuit algorithm continuously predicts the latent destination of the target and its position in the future, and relies on efficient graph representation and search methods in order to navigate to locations at which the target is most likely to be seen at an anticipated time. We perform extensive evaluation of our predictive pursuit algorithm over multiple satellite maps, thousands of simulation scenarios, against state-of-the art MDP and POMDP solvers. We show that our method significantly outperforms them by exploiting domain-specific knowledge, while being able to run in real-time.
+ER  - 
+
+TY  - CONF
+TI  - U sing a UAV for Destructive Surveys of Mosquito Population
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7812
+EP  - 7819
+AU  - A. Nguyen
+AU  - D. Krupke
+AU  - M. Burbage
+AU  - S. Bhatnagar
+AU  - S. P. Fekete
+AU  - A. T. Becker
+PY  - 2018
+KW  - autonomous aerial vehicles
+KW  - diseases
+KW  - graph theory
+KW  - integer programming
+KW  - path planning
+KW  - travelling salesman problems
+KW  - destructive surveys
+KW  - mosquito population
+KW  - electrified screen
+KW  - UAV path
+KW  - mosquito elimination
+KW  - trajectory planning
+KW  - traveling salesman problem
+KW  - milling with turn cost
+KW  - lawn mower problem
+KW  - grid graph
+KW  - optimized energy consumption
+KW  - Integer Programming
+KW  - mosquito-borne diseases
+KW  - mosquito-killing UAV
+KW  - Unmanned aerial vehicles
+KW  - Sociology
+KW  - Statistics
+KW  - Global Positioning System
+KW  - Robots
+KW  - Monitoring
+KW  - Wind tunnels
+DO  - 10.1109/ICRA.2018.8463184
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - This paper introduces techniques for mosquito population surveys in the field using electrified screens (bug zappers) mounted to a UAV. Instrumentation on the UAV logs the UAV path and the GPS location, altitude, and time of each mosquito elimination. Hardware experiments with a UAV equipped with an electrified screen provide real-time measurements of (former) mosquito locations and mosquito-free volumes. Planning a trajectory for the UAV that maximizes the number of mosquito kills is related to the Traveling Salesman Problem, the Lawn Mower Problem and, most closely, Milling with Turn Cost. We reduce this problem to considering variants of covering a grid graph with minimum turn cost, corresponding to optimized energy consumption. We describe an exact method based on Integer Programming that is able to compute provably optimal instances with over 1,500 pixels. These solutions are then implemented on the UAV.
+ER  - 
+
+TY  - CONF
+TI  - Optical Fiber-Based Sensor for Assessing Electric Current in Unmanned Aerial Vehicles with ROS Interface
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7820
+EP  - 7825
+AU  - F. S. Delgado
+AU  - M. A. Jucà
+AU  - A. L. M. Marcato
+AU  - A. B. Dos Santos
+PY  - 2018
+KW  - autonomous aerial vehicles
+KW  - diffraction gratings
+KW  - electric current measurement
+KW  - fibre optic sensors
+KW  - permanent magnets
+KW  - Robot Operating System package
+KW  - hysteresis
+KW  - optical fiber-based sensor
+KW  - sensing technology
+KW  - unmanned aerial vehicles electric motors
+KW  - ROS interface
+KW  - sensing system
+KW  - electric current measurements
+KW  - linear electric current sensitivity
+KW  - flexible sensing scheme
+KW  - permanent Neodymium magnet
+KW  - Long-Period Fiber Grating sensor
+KW  - current 0.22 A
+KW  - current 0.08 A
+KW  - Robot sensing systems
+KW  - Current
+KW  - Optical fiber sensors
+KW  - Optical fibers
+KW  - Current measurement
+KW  - Fiber gratings
+DO  - 10.1109/ICRA.2018.8461144
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - In this work, we propose and experimentally validate a novel optical fiber-based sensor for monitoring and assessing electric current in unmanned aerial vehicles electric motors. The proposed sensing technology combines a Long-Period Fiber Grating sensor and a permanent Neodymium magnet, providing a small and flexible sensing scheme deployed inside the arm of the drone. The experimental results show that good accuracy and linear electric current sensitivity of 0.21 A and 2.08 A/nm, respectively, were achieved with electric current measurements at a 100 Hz sampling rate. The values of hysteresis and repeatability achieved were 0.08 A and 0.22 A, respectively. Finally, a Robot Operating System package for interfacing with the sensing system was developed and tested, which greatly simplifies the deployment of the sensor in robotics applications.
+ER  - 
+
+TY  - CONF
+TI  - A Lightweight, Compliant, Contact-Resistance-Based Airflow Sensor for Quadcopter Ground Effect Sensing
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7826
+EP  - 7831
+AU  - S. D. Gollob
+AU  - Y. Manian
+AU  - R. St. Pierre
+AU  - A. S. Chen
+AU  - S. Bergbreiter
+PY  - 2018
+KW  - aerodynamics
+KW  - aerospace components
+KW  - aircraft testing
+KW  - autonomous aerial vehicles
+KW  - design engineering
+KW  - elastomers
+KW  - flow measurement
+KW  - flow sensors
+KW  - helicopters
+KW  - turbulence
+KW  - wind tunnels
+KW  - winds speeds
+KW  - Crazyflie 2.0 quadcopter
+KW  - turbulent flow
+KW  - thrust level
+KW  - aircraft testing
+KW  - autonomous aerial vehicles
+KW  - design engineering
+KW  - quadcopter ground effect sensing
+KW  - compliant contact-resistance-based airflow sensor
+KW  - lightweight contact-resistance-based airflow sensor
+KW  - wind tunnel characterization
+KW  - sensor deflection
+KW  - air flow speeds
+KW  - flexible conductive pillar
+KW  - elastomeric contact-resistance-based airflow sensor
+KW  - nonobstructive solutions
+KW  - power 42.0 muW
+KW  - Wind speed
+KW  - Robot sensing systems
+KW  - Wind tunnels
+KW  - Fabrication
+KW  - Market research
+KW  - Hair
+DO  - 10.1109/ICRA.2018.8461229
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Sensors to measure quadcopter ground effect are often relatively large, heavy, and require significant power, which restricts their applicability when it comes to small quadcopters and other aircraft that require lightweight and non-obstructive solutions. This paper presents the design of an elastomeric contact-resistance-based airflow sensor to measure ground effect with a mass of approximately 0.04 g and a power draw of 42 μW when in operation. It uses a rigid flap attached to the top of a flexible conductive pillar (CNT/PDMS), which deflects with varying winds speeds. A simple model is presented to describe expected trends between air flow speeds and sensor deflection and is compared with a wind tunnel characterization of the sensor for varying airflows. The sensor is characterized in a wind tunnel to identify a minimum airflow necessary for sensor functionality. Finally, sensors are attached to a Crazyflie 2.0 (Bitcraze) quadcopter and tested for performance in detecting ground effect, where there is a clear trend between sensor output and the intensity of the turbulent flow, related to proximity to ground and thrust level.
+ER  - 
+
+TY  - CONF
+TI  - Experiments in Fast, Autonomous, GPS-Denied Quadrotor Flight
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7832
+EP  - 7839
+AU  - K. Mohta
+AU  - K. Sun
+AU  - S. Liu
+AU  - M. Watterson
+AU  - B. Pfrommer
+AU  - J. Svacha
+AU  - Y. Mulgaonkar
+AU  - C. J. Taylor
+AU  - V. Kumar
+PY  - 2018
+KW  - aircraft control
+KW  - aircraft navigation
+KW  - autonomous aerial vehicles
+KW  - collision avoidance
+KW  - helicopters
+KW  - mobile robots
+KW  - mixed indoor environments
+KW  - outdoor environments
+KW  - specific component technologies
+KW  - high speed navigation capability
+KW  - high speed autonomous flights
+KW  - obstacle rich environments
+KW  - GPS-denied quadrotor flight
+KW  - unknown environments
+KW  - robotics
+KW  - fast computation
+KW  - tight integration
+KW  - subsystems
+KW  - latency
+KW  - perception-action loop
+KW  - aerial robots
+KW  - payload capacity
+KW  - navigation system
+KW  - quadrotor system
+KW  - Cameras
+KW  - Navigation
+KW  - Robot vision systems
+KW  - Laser radar
+KW  - Payloads
+DO  - 10.1109/ICRA.2018.8463214
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - High speed navigation through unknown environments is a challenging problem in robotics. It requires fast computation and tight integration of all the subsystems on the robot such that the latency in the perception-action loop is as small as possible. Aerial robots add a limitation of payload capacity, which restricts the amount of computation that can be carried onboard. This requires efficient algorithms for each component in the navigation system. In this paper, we describe our quadrotor system which is able to smoothly navigate through mixed indoor and outdoor environments and is able to fly at speeds of more than 18 m/s. We provide an overview of our system and details about the specific component technologies that enable the high speed navigation capability of our platform. We demonstrate the robustness of our system through high speed autonomous flights and navigation through a variety of obstacle rich environments.
+ER  - 
+
+TY  - CONF
+TI  - A Self-contained Teleoperated Quadrotor: On-Board State-Estimation and Indoor Obstacle Avoidance
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7840
+EP  - 7847
+AU  - M. Odelga
+AU  - P. Stegagno
+AU  - N. Kochanek
+AU  - H. H. Bülthoff
+PY  - 2018
+KW  - autonomous aerial vehicles
+KW  - cameras
+KW  - collision avoidance
+KW  - distance measurement
+KW  - feedback
+KW  - Global Positioning System
+KW  - helicopters
+KW  - image sequences
+KW  - Kalman filters
+KW  - mobile robots
+KW  - path planning
+KW  - probability
+KW  - sensors
+KW  - state estimation
+KW  - telerobotics
+KW  - tracking
+KW  - on-board state-estimation
+KW  - indoor obstacle avoidance
+KW  - unmanned aerial vehicles
+KW  - GPS signal
+KW  - teleoperated quadrotor UAV platform
+KW  - onboard miniature computer
+KW  - linear velocity
+KW  - Kalman filter integration
+KW  - inertial flow
+KW  - optical flow
+KW  - depth measurements
+KW  - robo-centric obstacle model
+KW  - collision-free navigation
+KW  - distance measurements
+KW  - cramped spaces
+KW  - sensors
+KW  - tracking
+KW  - RGB-D camera
+KW  - visual feedback
+KW  - probabilistic
+KW  - Collision avoidance
+KW  - Robot sensing systems
+KW  - Estimation
+KW  - Cameras
+KW  - Robot kinematics
+DO  - 10.1109/ICRA.2018.8463185
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - Indoor operation of unmanned aerial vehicles (UAV s) poses many challenges due to the lack of GPS signal and cramped spaces. The presence of obstacles in an unfamiliar environment requires reliable state estimation and active algorithms to prevent collisions. In this paper, we present a teleoperated quadrotor UAV platform equipped with an onboard miniature computer and a minimal set of sensors for this task. The platform is capable of highly accurate state-estimation, tracking of desired velocity commanded by the user and ensuring collision-free navigation. The robot estimates its linear velocity through a Kalman filter integration of inertial and optical flow (OF) readings with corresponding distance measurements. An RGB-D camera serves the purpose of providing visual feedback to the operator and depth measurements to build a probabilistic, robo-centric obstacle model, allowing the robot to avoid collisions. The platform is thoroughly validated in experiments in an obstacle rich environment.
+ER  - 
+
+TY  - CONF
+TI  - Safe Teleoperation of Dynamic UAVs Through Control Barrier Functions
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7848
+EP  - 7855
+AU  - B. Xu
+AU  - K. Sreenath
+PY  - 2018
+KW  - aircraft control
+KW  - autonomous aerial vehicles
+KW  - collision avoidance
+KW  - helicopters
+KW  - human-robot interaction
+KW  - Lyapunov methods
+KW  - quadratic programming
+KW  - assistive training solution
+KW  - safe human teleoperated flight
+KW  - control approach
+KW  - motion capture environment
+KW  - safe teleoperation
+KW  - control barrier functions
+KW  - human operators
+KW  - highly dynamic systems
+KW  - constrained environment
+KW  - quadrotor systems
+KW  - potential obstacles
+KW  - presented supervisory controller
+KW  - safety constraints
+KW  - dynamic UAV
+KW  - exponential control barrier function
+KW  - Safety
+KW  - Trajectory
+KW  - Collision avoidance
+KW  - Vehicle dynamics
+KW  - Dynamics
+KW  - Robots
+KW  - Task analysis
+DO  - 10.1109/ICRA.2018.8463194
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+AB  - This paper presents a method for assisting human operators to teleoperate highly dynamic systems such as quadrotors inside a constrained environment with safety guarantees. Our method enables human operators to focus on manually operating and flying quadrotor systems without the need to focus on avoiding potential obstacles. This is achieved with the presented supervisory controller overriding human input to enforce safety constraints when necessary. This method can be used as an assistive training solution for novice pilots to begin flying quadrotors without crashing them. Our supervisory controller uses an Exponential control barrier function based quadratic program to achieve safe human teleoperated flight. We demonstrate and validate our control approach through several experiments with multiple users with varying skill levels for three different scenarios of a quadrotor flying in a motion capture environment with virtual and physical constraints.
+ER  - 
+
+
